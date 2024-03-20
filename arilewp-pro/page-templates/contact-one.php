@@ -36,11 +36,6 @@ $arilewp_contact_form_title = get_theme_mod('arilewp_contact_form_title', 'Drop 
 	            <?php get_template_part( 'template-parts/contact', 'info' ); ?>
 			<?php endif; ?>
 		</div>
-        <style>
-            #hidden-paragraph {
-                display: none;
-            }
-        </style>
 
     <section class="theme-contact wow animate fadeInUp" data-wow-delay=".3s">
         <div class="container">
