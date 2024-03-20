@@ -60,3 +60,7 @@ Text Domain: arilewp-pro-child-theme
     padding: 0px;
     text-align: center;
 }
+
+#hidden-paragraph {
+    display: none;
+}
