@@ -1,0 +1,54 @@
+<wpml-config> 
+	<admin-texts>
+		<key name='theme_mods_arilewp-pro-child-theme'>
+			<key name='arilewp_service_area_title' />
+			<key name='arilewp_service_area_des' />
+			<key name='arilewp_project_area_title' />
+			<key name='arilewp_project_area_des' />
+			<key name='arilewp_testimonial_area_title' />
+			<key name='arilewp_testimonial_area_des' />
+			<key name='arilewp_wooshop_area_title' />
+			<key name='arilewp_wooshop_area_des' />
+			<key name='arilewp_cta_area_title' />
+			<key name='arilewp_cta_area_subtitle' />
+			<key name='arilewp_cta_area_des' />
+			<key name='arilewp_cta_button_text' />
+			<key name='arilewp_video_text' />
+			<key name='arilewp_team_area_title' />
+			<key name='arilewp_team_area_des' />
+			<key name='arilewp_blog_area_title' />
+			<key name='arilewp_blog_area_des' />
+			<key name='arilewp_show_more_button_link' />
+			<key name='arilewp_client_area_title' />
+			<key name='arilewp_show_more_button_text' />
+			<key name='arilewp_footer_copright_text' />
+			<key name='arilewp_portfolio_templates_title' />
+			<key name='arilewp_portfolio_templates_desc' />
+			<key name='arilewp_portfolio_category_templates_title' />
+			<key name='arilewp_portfolio_category_templates_desc' />
+			<key name='arilewp_quote_button_text' />
+			<key name='arilewp_quote_button_link' />
+			<key name='arilewp_google_map_title' />
+			<key name='arilewp_contact_form_title' />
+			<key name='arilewp_service_area_before_content' />
+			<key name='arilewp_service_area_after_content' />
+			<key name='arilewp_project_area_before_content' />
+			<key name='arilewp_project_area_after_content' />
+			<key name='arilewp_funfact_area_before_content' />
+			<key name='arilewp_funfact_area_after_content' />
+			<key name='arilewp_testimonial_area_before_content' />
+			<key name='arilewp_testimonial_area_after_content' />
+			<key name='arilewp_wooshop_area_before_content' />
+			<key name='arilewp_wooshop_area_after_content' />
+			<key name='arilewp_cta_area_before_content' />
+			<key name='arilewp_cta_area_after_content' />
+			<key name='arilewp_team_area_before_content' />
+			<key name='arilewp_team_area_after_content' />
+			<key name='arilewp_blog_area_before_content' />
+			<key name='arilewp_blog_area_after_content' />
+			<key name='arilewp_client_area_before_content' />
+			<key name='arilewp_client_area_after_content' />
+			<key name='arilewp_callout_video_link' />
+		</key>
+	</admin-texts>
+</wpml-config>

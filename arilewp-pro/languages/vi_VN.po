@@ -1,0 +1,2372 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ArileWP Pro\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-01-25 16:50+0530\n"
+"PO-Revision-Date: 2020-01-27 17:22+0530\n"
+"Language-Team: \n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.3\n"
+"X-Loco-Version: 2.3.0; wp-5.3.2\n"
+"Last-Translator: \n"
+"Language: vi_VN\n"
+
+#: page-templates/service-one.php:352 page-templates/service-one.php:364
+#: page-templates/service-one.php:376 page-templates/service-two.php:361
+#: page-templates/service-two.php:377 page-templates/service-two.php:393
+#: template-parts/index-testimonial.php:140
+#: template-parts/index-testimonial.php:156
+#: template-parts/index-testimonial.php:172
+#: template-parts/index-testimonial.php:193
+#: template-parts/index-testimonial.php:205
+#: template-parts/index-testimonial.php:217
+msgid ""
+"\"You guys are legendary! You guys are great and having amazing support & "
+"service. I couldn’t ask for any better. Thank you!\""
+msgstr ""
+"\"Các bạn là huyền thoại! Các bạn thật tuyệt vời và có sự hỗ trợ & dịch vụ "
+"tuyệt vời. Tôi không thể yêu cầu điều gì tốt hơn. Cảm ơn các bạn!\""
+
+#: comments.php:26
+#, php-format
+msgid "% comments"
+msgstr "% comments"
+
+#: inc/template-functions.php:182
+#, php-format
+msgid "%1$s "
+msgstr "%1$s "
+
+#: inc/template-functions.php:161 inc/template-functions.php:163
+#: inc/template-functions.php:165 inc/template-functions.php:167
+#: inc/template-functions.php:169 inc/template-functions.php:171
+#: inc/template-functions.php:173 inc/template-functions.php:188
+#, php-format
+msgid "%1$s %2$s"
+msgstr "%1$s %2$s"
+
+#: comments.php:37
+msgid "&larr; Older Comments"
+msgstr "&larr; Nhận xét cũ hơn"
+
+#: inc/customizer/customizer-page-editor/class/class-arilewp-page-editor.php:76
+msgid "(Edit)"
+msgstr "(Biên tập)"
+
+#: template-parts/contact-info.php:55 template-parts/site-header.php:49
+#: inc/customizer/arilewp-customizer-default.php:494
+msgid "+14 1-800-1234-567"
+msgstr "+14 1-800-1234-567"
+
+#: template-parts/index-siteinfo.php:67
+msgid "014 1547 925 - 123 4567 890"
+msgstr "014 1547 925 - 123 4567 890"
+
+#: page-templates/about-one.php:112 page-templates/about-two.php:371
+#: page-templates/service-one.php:247 page-templates/service-two.php:254
+#: template-parts/index-funfact.php:117 template-parts/index-funfact.php:121
+msgid "125"
+msgstr "125"
+
+#: page-templates/about-one.php:98 page-templates/about-two.php:353
+#: page-templates/service-one.php:233 page-templates/service-two.php:236
+#: template-parts/index-funfact.php:87 template-parts/index-funfact.php:91
+msgid "175"
+msgstr "175"
+
+#: template-parts/index-siteinfo.php:76
+#: inc/customizer/arilewp-customizer-default.php:167
+msgid "18 years of experience"
+msgstr "18 năm kinh nghiệm"
+
+#: template-parts/site-header.php:48
+#: inc/customizer/arilewp-customizer-default.php:10
+msgid "2130 Fulton Street, San Francisco, CA 94117-1080 USA"
+msgstr "2130 Phố Fulton, San Francisco, CA 94117-1080 Hoa Kỳ"
+
+#: template-parts/contact-info.php:62
+msgid "2130 Fulton Street, San Francisco, USA"
+msgstr "2130 Phố Fulton, San Francisco, Hoa Kỳ"
+
+#: template-parts/index-siteinfo.php:66
+#: inc/customizer/arilewp-customizer-default.php:158
+msgid "24/7 Support"
+msgstr "Hỗ trợ 24/7"
+
+#: inc/template-functions.php:182
+msgid "404"
+msgstr "404"
+
+#: page-templates/about-one.php:91 page-templates/about-two.php:344
+#: page-templates/service-one.php:226 page-templates/service-two.php:227
+#: template-parts/index-funfact.php:72 template-parts/index-funfact.php:76
+msgid "507"
+msgstr "507"
+
+#: page-templates/about-one.php:105 page-templates/about-two.php:362
+#: page-templates/service-one.php:240 page-templates/service-two.php:245
+#: template-parts/index-funfact.php:102 template-parts/index-funfact.php:106
+msgid "98%"
+msgstr "98%"
+
+#: inc/customizer/arilewp-panels-and-sections.php:213
+msgid "About"
+msgstr "Trong khoảng"
+
+#: inc/customizer/customizer-page-editor/class/class-arilewp-page-editor.php:60
+msgid "About background"
+msgstr "Về nền"
+
+#. Name of the template
+msgid "About One"
+msgstr "Khoảng một"
+
+#. Name of the template
+msgid "About Two"
+msgstr "Hai cái thì sao"
+
+#: inc/class-bootstrap-navwalker.php:207
+msgid "Add a menu"
+msgstr "Thêm một menu"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:626
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:659
+msgid "Add Icon"
+msgstr "Thêm biểu tượng"
+
+#: inc/custom-post.php:10 inc/custom-post.php:12
+msgid "Add New"
+msgstr "Thêm mới"
+
+#: inc/customizer/arilewp-customizer-options.php:737
+msgid "Add new client"
+msgstr "Thêm khách hàng mới"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:33
+msgid "Add new field"
+msgstr "Thêm lĩnh vực mới"
+
+#: inc/customizer/arilewp-customizer-options.php:324
+msgid "Add new funfact"
+msgstr "Thêm funfact mới"
+
+#: inc/customizer/arilewp-customizer-options.php:98
+msgid "Add new icon"
+msgstr "Thêm biểu tượng mới"
+
+#: inc/customizer/arilewp-customizer-options.php:82
+#: inc/customizer/arilewp-customizer-options.php:146
+#: inc/customizer/arilewp-customizer-options.php:796
+msgid "Add new info"
+msgstr "Thêm thông tin mới"
+
+#: inc/customizer/arilewp-customizer-options.php:594
+msgid "Add new Member"
+msgstr "Thêm thành viên mới"
+
+#: inc/custom-post.php:11
+msgid "Add New Project"
+msgstr "Thêm dự án mới"
+
+#: inc/customizer/arilewp-customizer-options.php:172
+msgid "Add new Service"
+msgstr "Thêm dịch vụ mới"
+
+#: inc/customizer/arilewp-customizer-options.php:121
+msgid "Add new slide"
+msgstr "Thêm slide mới"
+
+#: inc/customizer/arilewp-customizer-options.php:399
+msgid "Add new Testimonial"
+msgstr "Thêm lời chứng thực mới"
+
+#: functions.php:126
+msgid "Add widgets here."
+msgstr "Thêm widget ở đây."
+
+#: template-parts/contact-info.php:61
+#: inc/customizer/arilewp-customizer-default.php:501
+msgid "Address"
+msgstr "Địa chỉ"
+
+#: inc/customizer/arilewp-customizer-options.php:218
+#: inc/customizer/arilewp-customizer-options.php:279
+#: inc/customizer/arilewp-customizer-options.php:365
+#: inc/customizer/arilewp-customizer-options.php:443
+#: inc/customizer/arilewp-customizer-options.php:505
+#: inc/customizer/arilewp-customizer-options.php:569
+#: inc/customizer/arilewp-customizer-options.php:642
+#: inc/customizer/arilewp-customizer-options.php:711
+#: inc/customizer/arilewp-customizer-options.php:780
+msgid "After Content"
+msgstr "Sau nội dung"
+
+#: inc/template-functions.php:167
+msgid "All posts by"
+msgstr "Tất cả bài viết của"
+
+#: inc/custom-post.php:14
+msgid "All Projects"
+msgstr "Tất cả các dự án"
+
+#: inc/customizer/customizer-settings/home/arilewp-home-client-customizer-settings.php:155
+#: inc/customizer/customizer-settings/home/arilewp-home-project-customizer-settings.php:96
+#: inc/customizer/customizer-settings/home/arilewp-home-slider-customizer-settings.php:125
+#: inc/customizer/customizer-settings/home/arilewp-home-team-customizer-settings.php:96
+#: inc/customizer/customizer-settings/home/arilewp-home-testimonial-customizer-settings.php:99
+#: inc/customizer/customizer-settings/home/arilewp-home-wooshop-customizer-settings.php:77
+msgid "Animation Speed"
+msgstr "Tốc độ hoạt hình"
+
+#: inc/customizer/customizer-settings/home/arilewp-home-slider-customizer-settings.php:105
+msgid "Animation type"
+msgstr "Kiểu hoạt hình"
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-blog-general-customizer-settings.php:89
+msgid "Archive Blog Pages"
+msgstr "Lưu trữ trang Blog"
+
+#: inc/template-functions.php:239
+msgid "Archive by category"
+msgstr "Lưu trữ theo thể loại"
+
+#: inc/template-functions.php:161 inc/template-functions.php:163
+#: inc/template-functions.php:165
+msgid "Archives"
+msgstr "Lưu trữ"
+
+#. Description of the theme
+msgid ""
+"ArileWP is a powerful, modern and professional multipurpose WordPress theme "
+"with pixel perfect design and outstanding functionality. As well as "
+"sophisticated plus it has some exotic features like customization and clean "
+"code, advanced typography, sticky menu, logo upload, header image, Bootstrap "
+"4 framework, built with SEO in mind, and theme info area besides being "
+"Mobile ready, translation ready (WPML, Polylang) and it's built to be "
+"beautiful on all screen sizes. The theme perfectly suited for business, "
+"consultant, finance, corporate, freelancer, agency, business promotion, "
+"electrician, industries, education, SEO, construction, fashion, online shop, "
+"health &amp; medical, Beauty &amp; spa salons, wedding, photography, gym, "
+"cafe, music, architecture, lawyer, restaurant, hotel, blog, magazine, travel "
+"agency and many other websites compatible. This theme supports the best "
+"Elementor page builder to create, edit and updates page designs as per the "
+"requirement. ArileWP also supports popular free and premium WordPress "
+"plugins such as Elementor, Yoast SEO, WooCommerce, Contact Form 7, Jetpack, "
+"Google Analytics and much more."
+msgstr ""
+"ArileWP là một chủ đề WordPress đa năng mạnh mẽ, hiện đại và chuyên nghiệp "
+"với thiết kế hoàn hảo pixel và chức năng nổi bật. Cũng như tinh vi cộng với "
+"nó có một số tính năng kỳ lạ như tùy chỉnh và mã sạch, kiểu chữ nâng cao, "
+"menu dính, tải lên logo, hình ảnh tiêu đề, khung Bootstrap 4, được xây dựng "
+"với SEO và khu vực thông tin chủ đề bên cạnh việc sẵn sàng cho dịch chuyển, "
+"sẵn sàng dịch ( WPML, Polylang) và nó được xây dựng để đẹp trên mọi kích "
+"thước màn hình. Chủ đề hoàn toàn phù hợp cho kinh doanh, tư vấn, tài chính, "
+"doanh nghiệp, freelancer, đại lý, xúc tiến kinh doanh, thợ điện, công "
+"nghiệp, giáo dục, SEO, xây dựng, thời trang, cửa hàng trực tuyến, sức khỏe & "
+"amp; y tế, sắc đẹp & amp; tiệm spa, đám cưới, nhiếp ảnh, phòng tập thể dục, "
+"quán cà phê, âm nhạc, kiến ​​trúc, luật sư, nhà hàng, khách sạn, blog, tạp "
+"chí, công ty du lịch và nhiều trang web khác tương thích. Chủ đề này hỗ trợ "
+"trình tạo trang Elementor tốt nhất để tạo, chỉnh sửa và cập nhật thiết kế "
+"trang theo yêu cầu. ArileWP cũng hỗ trợ các plugin WordPress miễn phí và cao "
+"cấp phổ biến như Elementor, Yoast SEO, WooC Commerce, Contact Form 7, "
+"Jetpack, Google Analytics và nhiều hơn nữa."
+
+#. Name of the theme
+msgid "ArileWP Pro"
+msgstr "ArileWP Pro"
+
+#: inc/template-functions.php:111
+msgid "at"
+msgstr "tại"
+
+#: inc/customizer/controls/code/arilewp-customize-background-control.php:135
+msgid "Auto"
+msgstr "Tự động"
+
+#: inc/customizer/controls/code/arilewp-customize-background-control.php:142
+msgid "Background Attachment"
+msgstr "Bối cảnh đính kèm"
+
+#: inc/customizer/controls/code/arilewp-customize-background-control.php:42
+#: inc/customizer/customizer-settings/home/arilewp-home-site-top-header-customizer-settings.php:81
+msgid "Background Color"
+msgstr "Màu nền"
+
+#: inc/customizer/customizer-settings/home/arilewp-home-theme-info-customizer-settings.php:74
+#: inc/customizer/customizer-settings/theme-settings/arilewp-page-header-customizer-settings.php:60
+msgid "Background color"
+msgstr "Màu nền"
+
+#: inc/customizer/arilewp-customizer-options.php:379
+#: inc/customizer/arilewp-customizer-options.php:457
+#: inc/customizer/arilewp-customizer-options.php:529
+#: inc/customizer/controls/code/arilewp-customize-background-control.php:49
+msgid "Background Image"
+msgstr "Hình nền"
+
+#: inc/customizer/controls/code/arilewp-customize-background-control.php:86
+msgid "Background Position"
+msgstr "Hình nền"
+
+#: inc/customizer/controls/code/arilewp-customize-background-control.php:67
+msgid "Background Repeat"
+msgstr "Bối cảnh Lặp lại"
+
+#: inc/customizer/controls/code/arilewp-customize-background-control.php:120
+msgid "Background Size"
+msgstr "Kích thước nền"
+
+#: inc/customizer/customizer-settings/home/arilewp-home-cta-customizer-settings.php:111
+msgid "Background image overlay color"
+msgstr "Màu nền hình ảnh lớp phủ"
+
+#: inc/customizer/arilewp-panels-and-sections.php:128
+msgid "Base Typography"
+msgstr "Kiểu chữ cơ sở"
+
+#: inc/customizer/arilewp-customizer-options.php:197
+#: inc/customizer/arilewp-customizer-options.php:258
+#: inc/customizer/arilewp-customizer-options.php:344
+#: inc/customizer/arilewp-customizer-options.php:422
+#: inc/customizer/arilewp-customizer-options.php:484
+#: inc/customizer/arilewp-customizer-options.php:548
+#: inc/customizer/arilewp-customizer-options.php:621
+#: inc/customizer/arilewp-customizer-options.php:690
+#: inc/customizer/arilewp-customizer-options.php:759
+msgid "Before Content"
+msgstr "Trước nội dung"
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-blog-grid-view-customizer-settings.php:43
+msgid "Below options apply for grid view templates."
+msgstr "Dưới đây tùy chọn áp dụng cho các mẫu xem lưới."
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-list-view-blog-customizer-settings.php:44
+msgid "Below options apply for list view templates."
+msgstr "Dưới đây tùy chọn áp dụng cho các mẫu xem danh sách."
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-masonry-blog-customizer-settings.php:45
+msgid "Below options apply for masonry layout templates."
+msgstr "Dưới đây tùy chọn áp dụng cho các mẫu bố trí nề."
+
+#: template-parts/index-slider.php:82
+#: inc/customizer/arilewp-customizer-default.php:111
+msgid "Best Digital Marketing Solutions"
+msgstr "Giải pháp tiếp thị kỹ thuật số tốt nhất"
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:62
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:181
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:298
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:409
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:515
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:622
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:728
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:833
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:939
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:1060
+msgid "Black 900"
+msgstr "Đen 900"
+
+#: inc/template-functions.php:65
+#: inc/customizer/arilewp-customizer-options.php:654
+#: inc/customizer/arilewp-panels-and-sections.php:38
+#: inc/customizer/customizer-settings/theme-settings/arilewp-forntpage-section-ordering-customizer-settings.php:59
+msgid "Blog"
+msgstr "Blog"
+
+#: inc/customizer/customizer-settings/home/arilewp-home-blog-customizer-settings.php:178
+msgid "Blog Area Before After Content"
+msgstr "Khu vực blog trước sau nội dung"
+
+#: inc/customizer/arilewp-customizer-options.php:662
+msgid "Blog Category"
+msgstr "Danh mục blog"
+
+#. Name of the template
+msgid "Blog Full Width"
+msgstr "Blog toàn chiều rộng"
+
+#. Name of the template
+msgid "Blog Grid View Left Sidebar"
+msgstr "Blog Lưới Xem Thanh bên trái"
+
+#. Name of the template
+msgid "Blog Grid View No Sidebar"
+msgstr "Blog Lưới Xem Không có Thanh bên"
+
+#. Name of the template
+msgid "Blog Grid View Right Sidebar"
+msgstr "Blog Lưới Xem Thanh bên phải"
+
+#: inc/customizer/customizer-settings/home/arilewp-home-blog-customizer-settings.php:57
+msgid "Blog Layout"
+msgstr "Giao diện blog"
+
+#. Name of the template
+msgid "Blog Left Sidebar"
+msgstr "Blog bên trái"
+
+#. Name of the template
+msgid "Blog List View Left Sidebar"
+msgstr "Danh sách blog Xem Thanh bên trái"
+
+#. Name of the template
+msgid "Blog List View No Sidebar"
+msgstr "Danh sách blog Xem Không có Thanh bên"
+
+#. Name of the template
+msgid "Blog List View Right Sidebar"
+msgstr "Danh sách blog Xem Thanh bên phải"
+
+#. Name of the template
+msgid "Blog Masonry 2 Column"
+msgstr "Blog Masonry 2 Cột"
+
+#. Name of the template
+msgid "Blog Masonry 3 Column"
+msgstr "Blog Masonry 3 Cột"
+
+#. Name of the template
+msgid "Blog Masonry 4 Column"
+msgstr "Blog Masonry 4 Cột"
+
+#: inc/customizer/customizer-settings/home/arilewp-home-blog-customizer-settings.php:28
+msgid "Blog Options"
+msgstr "Tùy chọn blog"
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-blog-general-customizer-settings.php:59
+msgid "Blog Pages"
+msgstr "Trang blog"
+
+#. Name of the template
+msgid "Blog Right Sidebar"
+msgstr "Blog bên phải"
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-blog-general-customizer-settings.php:26
+msgid "Blog/Archive/Single"
+msgstr "Blog / Lưu trữ / Đơn"
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:60
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:179
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:296
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:407
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:513
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:620
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:726
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:831
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:937
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:1058
+msgid "Bold 700"
+msgstr "In đậm 700"
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:56
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:175
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:292
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:403
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:509
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:616
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:722
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:827
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:933
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:1054
+msgid "Book 300"
+msgstr "Sách 300"
+
+#: inc/customizer/controls/code/arilewp-customize-dimensions-control.php:131
+msgid "Bottom"
+msgstr "Dưới cùng"
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-page-header-customizer-settings.php:157
+msgid "Breadcrumb Separator"
+msgstr "Máy tách bánh mì"
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-page-header-customizer-settings.php:131
+msgid "Breadcrumbs"
+msgstr "Bánh mì vụn"
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-page-header-customizer-settings.php:144
+msgid "Breadcrumbs Enable/Disable"
+msgstr "Breadcrumbs Kích hoạt / Vô hiệu hóa"
+
+#. Name of the template
+msgid "Builder Page"
+msgstr "Trang xây dựng"
+
+#: page-templates/about-one.php:104 page-templates/about-two.php:363
+#: page-templates/service-one.php:239 page-templates/service-two.php:246
+#: template-parts/index-funfact.php:101 template-parts/index-funfact.php:107
+#: inc/customizer/arilewp-customizer-default.php:247
+msgid "Business Growth"
+msgstr "Tăng trưởng kinh doanh"
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-menu-bar-customizer-settings.php:132
+msgid "Button Enable/Disable"
+msgstr "Nút bật / tắt"
+
+#: inc/customizer/customizer-settings/home/arilewp-home-blog-customizer-settings.php:109
+#: inc/customizer/customizer-settings/home/arilewp-home-cta-customizer-settings.php:56
+#: inc/customizer/customizer-settings/theme-settings/arilewp-menu-bar-customizer-settings.php:167
+msgid "Button Link"
+msgstr "Liên kết nút"
+
+#: inc/customizer/arilewp-customizer-options.php:1123
+#: inc/customizer/arilewp-customizer-options.php:1212
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:279
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:427
+#: inc/customizer/customizer-settings/theme-settings/arilewp-menu-bar-customizer-settings.php:146
+msgid "Button Text"
+msgstr "Nút văn bản"
+
+#: template-parts/content-single.php:37 template-parts/content.php:38
+#: template-parts/contentlist.php:39 template-parts/index-blog.php:76
+msgid "by "
+msgstr "bởi "
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-forntpage-section-ordering-customizer-settings.php:57
+msgid "Call to Action"
+msgstr "Kêu gọi hành động"
+
+#: inc/customizer/arilewp-customizer-options.php:519
+msgid "Call to action"
+msgstr "Kêu gọi hành động"
+
+#: inc/customizer/customizer-settings/home/arilewp-home-cta-customizer-settings.php:144
+msgid "Call to Action Area Before After Content"
+msgstr "Gọi đến khu vực hành động trước sau khi nội dung"
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-about-template-customizer-settings.php:89
+#: inc/customizer/customizer-settings/theme-settings/arilewp-service-template-customizer-settings.php:88
+msgid "Call to Action Enable/Disable"
+msgstr "Gọi hành động Kích hoạt / Vô hiệu hóa"
+
+#: inc/customizer/customizer-settings/home/arilewp-home-cta-customizer-settings.php:28
+msgid "Call to Action Options"
+msgstr "Tùy chọn gọi hành động"
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:100
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:219
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:336
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:447
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:553
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:660
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:766
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:871
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:977
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:1098
+msgid "Capitalize"
+msgstr "Viết hoa"
+
+#: inc/customizer/customizer-settings/home/arilewp-home-slider-customizer-settings.php:57
+msgid "Caption Layout"
+msgstr "Bố cục chú thích"
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-menu-bar-customizer-settings.php:106
+msgid "Cart Icon Enable/Disable"
+msgstr "Biểu tượng giỏ hàng Bật / Tắt"
+
+#: inc/template-functions.php:169
+msgid "Category"
+msgstr "Thể loại"
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-portfolio-template-customizer-settings.php:73
+msgid "Category Bar Enable/Disable"
+msgstr "Thanh mục Bật / Tắt"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:581
+msgid "Center"
+msgstr "Trung tâm"
+
+#: inc/customizer/controls/code/arilewp-customize-background-control.php:114
+msgid "Center Bottom"
+msgstr "Trung tâm dưới cùng"
+
+#: inc/customizer/controls/code/arilewp-customize-background-control.php:111
+msgid "Center Center"
+msgstr "Trung tâm trung tâm"
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-header-customizer-settings.php:48
+msgid "Center Logo Header"
+msgstr "Tiêu đề Logo trung tâm"
+
+#: inc/customizer/controls/code/arilewp-customize-background-control.php:108
+msgid "Center Top"
+msgstr "Trung tâm hàng đầu"
+
+#: template-parts/index-slider.php:70 template-parts/index-slider.php:85
+#: template-parts/index-slider.php:100
+#: inc/customizer/arilewp-customizer-default.php:103
+#: inc/customizer/arilewp-customizer-default.php:113
+#: inc/customizer/arilewp-customizer-default.php:123
+msgid "Check it out"
+msgstr "Kiểm tra nó"
+
+#: inc/customizer/arilewp-customizer-options.php:239
+msgid "Choose Project Category for Layout One"
+msgstr "Chọn loại dự án cho bố trí một"
+
+#: inc/metabox.php:41
+msgid "Choose Sidebar Template for the Default Page Templates"
+msgstr "Chọn Mẫu thanh bên cho Mẫu trang mặc định"
+
+#: inc/customizer/arilewp-customizer-options.php:296
+msgid "Click to Add Project"
+msgstr "Nhấn vào đây để thêm dự án"
+
+#: inc/customizer/arilewp-customizer-options.php:724
+#: inc/customizer/arilewp-customizer-options.php:738
+#: inc/customizer/customizer-settings/theme-settings/arilewp-forntpage-section-ordering-customizer-settings.php:60
+msgid "Client"
+msgstr "Khách hàng"
+
+#: inc/customizer/customizer-settings/home/arilewp-home-client-customizer-settings.php:245
+msgid "Client Area Before After Content"
+msgstr "Khu vực khách hàng trước sau nội dung"
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-about-template-customizer-settings.php:76
+#: inc/customizer/customizer-settings/theme-settings/arilewp-service-template-customizer-settings.php:75
+msgid "Client Enable/Disable"
+msgstr "Bật / Tắt ứng dụng khách"
+
+#: inc/customizer/customizer-settings/home/arilewp-home-client-customizer-settings.php:57
+msgid "Client Layout"
+msgstr "Giao diện khách hàng"
+
+#: inc/customizer/customizer-settings/home/arilewp-home-client-customizer-settings.php:28
+msgid "Client Options"
+msgstr "Tùy chọn khách hàng"
+
+#: inc/customizer/arilewp-customizer-options.php:735
+msgid "Clients Content"
+msgstr "Nội dung khách hàng"
+
+#: page-templates/about-one.php:90 page-templates/about-two.php:345
+#: page-templates/service-one.php:225 page-templates/service-two.php:228
+#: template-parts/index-funfact.php:71 template-parts/index-funfact.php:77
+#: inc/customizer/arilewp-customizer-default.php:235
+msgid "Coffee Cups"
+msgstr "Ly cà phê"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:333
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:397
+msgid "Color"
+msgstr "Màu sắc"
+
+#: inc/customizer/customizer-settings/home/arilewp-home-blog-customizer-settings.php:136
+#: inc/customizer/customizer-settings/home/arilewp-home-client-customizer-settings.php:96
+#: inc/customizer/customizer-settings/home/arilewp-home-client-customizer-settings.php:125
+#: inc/customizer/customizer-settings/home/arilewp-home-funfact-customizer-settings.php:88
+#: inc/customizer/customizer-settings/home/arilewp-home-project-customizer-settings.php:74
+#: inc/customizer/customizer-settings/home/arilewp-home-service-customizer-settings.php:77
+#: inc/customizer/customizer-settings/home/arilewp-home-team-customizer-settings.php:74
+#: inc/customizer/customizer-settings/home/arilewp-home-testimonial-customizer-settings.php:75
+#: inc/customizer/customizer-settings/home/arilewp-home-theme-info-customizer-settings.php:55
+#: inc/customizer/customizer-settings/home/arilewp-home-wooshop-customizer-settings.php:55
+#: inc/customizer/customizer-settings/theme-settings/arilewp-blog-grid-view-customizer-settings.php:61
+#: inc/customizer/customizer-settings/theme-settings/arilewp-contact-template-customizer-settings.php:60
+#: inc/customizer/customizer-settings/theme-settings/arilewp-portfolio-template-customizer-settings.php:142
+msgid "Column Layout"
+msgstr "Bố cục cột"
+
+#: comments.php:63
+msgid "Comment"
+msgstr "Bình luận"
+
+#: comments.php:36
+msgid "Comment navigation"
+msgstr "Điều hướng bình luận"
+
+#: inc/customizer/arilewp-panels-and-sections.php:231
+msgid "Contact"
+msgstr "Tiếp xúc"
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-contact-template-customizer-settings.php:125
+msgid "Contact Form"
+msgstr "Mâu liên hệ"
+
+#: inc/customizer/arilewp-customizer-options.php:797
+msgid "Contact Info"
+msgstr "Thông tin liên lạc"
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-contact-template-customizer-settings.php:34
+msgid "Contact Info Area"
+msgstr "Khu vực thông tin liên lạc"
+
+#: inc/customizer/arilewp-customizer-options.php:794
+msgid "Contact Info Content"
+msgstr "Thông tin liên hệ Nội dung"
+
+#. Name of the template
+msgid "Contact One"
+msgstr "Liên lạc với một"
+
+#. Name of the template
+msgid "Contact Two"
+msgstr "Liên lạc với hai"
+
+#: inc/customizer/controls/code/arilewp-customize-background-control.php:130
+msgid "Contain"
+msgstr "Lưu trữ"
+
+#: inc/metabox.php:105
+#: inc/customizer/customizer-settings/home/arilewp-home-blog-customizer-settings.php:166
+#: inc/customizer/customizer-settings/home/arilewp-home-client-customizer-settings.php:233
+#: inc/customizer/customizer-settings/home/arilewp-home-cta-customizer-settings.php:132
+#: inc/customizer/customizer-settings/home/arilewp-home-funfact-customizer-settings.php:112
+#: inc/customizer/customizer-settings/home/arilewp-home-project-customizer-settings.php:174
+#: inc/customizer/customizer-settings/home/arilewp-home-service-customizer-settings.php:101
+#: inc/customizer/customizer-settings/home/arilewp-home-site-top-header-customizer-settings.php:117
+#: inc/customizer/customizer-settings/home/arilewp-home-team-customizer-settings.php:153
+#: inc/customizer/customizer-settings/home/arilewp-home-testimonial-customizer-settings.php:156
+#: inc/customizer/customizer-settings/home/arilewp-home-wooshop-customizer-settings.php:133
+#: inc/customizer/customizer-settings/theme-settings/arilewp-blog-general-customizer-settings.php:76
+#: inc/customizer/customizer-settings/theme-settings/arilewp-blog-general-customizer-settings.php:127
+#: inc/customizer/customizer-settings/theme-settings/arilewp-blog-general-customizer-settings.php:175
+#: inc/customizer/customizer-settings/theme-settings/arilewp-blog-grid-view-customizer-settings.php:85
+#: inc/customizer/customizer-settings/theme-settings/arilewp-footer-widget-customizer-settings.php:85
+#: inc/customizer/customizer-settings/theme-settings/arilewp-list-view-blog-customizer-settings.php:67
+#: inc/customizer/customizer-settings/theme-settings/arilewp-masonry-blog-customizer-settings.php:67
+#: inc/customizer/customizer-settings/theme-settings/arilewp-menu-bar-customizer-settings.php:64
+#: inc/customizer/customizer-settings/theme-settings/arilewp-page-header-customizer-settings.php:100
+#: inc/customizer/customizer-settings/theme-settings/arilewp-portfolio-template-customizer-settings.php:90
+#: inc/customizer/customizer-settings/theme-settings/arilewp-portfolio-template-customizer-settings.php:165
+msgid "Container"
+msgstr "Thùng đựng hàng"
+
+#: inc/metabox.php:109
+#: inc/customizer/customizer-settings/home/arilewp-home-blog-customizer-settings.php:167
+#: inc/customizer/customizer-settings/home/arilewp-home-client-customizer-settings.php:234
+#: inc/customizer/customizer-settings/home/arilewp-home-cta-customizer-settings.php:133
+#: inc/customizer/customizer-settings/home/arilewp-home-funfact-customizer-settings.php:113
+#: inc/customizer/customizer-settings/home/arilewp-home-project-customizer-settings.php:175
+#: inc/customizer/customizer-settings/home/arilewp-home-service-customizer-settings.php:102
+#: inc/customizer/customizer-settings/home/arilewp-home-site-top-header-customizer-settings.php:118
+#: inc/customizer/customizer-settings/home/arilewp-home-team-customizer-settings.php:154
+#: inc/customizer/customizer-settings/home/arilewp-home-testimonial-customizer-settings.php:157
+#: inc/customizer/customizer-settings/home/arilewp-home-wooshop-customizer-settings.php:134
+#: inc/customizer/customizer-settings/theme-settings/arilewp-blog-general-customizer-settings.php:77
+#: inc/customizer/customizer-settings/theme-settings/arilewp-blog-general-customizer-settings.php:128
+#: inc/customizer/customizer-settings/theme-settings/arilewp-blog-general-customizer-settings.php:176
+#: inc/customizer/customizer-settings/theme-settings/arilewp-blog-grid-view-customizer-settings.php:86
+#: inc/customizer/customizer-settings/theme-settings/arilewp-footer-widget-customizer-settings.php:86
+#: inc/customizer/customizer-settings/theme-settings/arilewp-list-view-blog-customizer-settings.php:68
+#: inc/customizer/customizer-settings/theme-settings/arilewp-masonry-blog-customizer-settings.php:68
+#: inc/customizer/customizer-settings/theme-settings/arilewp-menu-bar-customizer-settings.php:65
+#: inc/customizer/customizer-settings/theme-settings/arilewp-page-header-customizer-settings.php:101
+#: inc/customizer/customizer-settings/theme-settings/arilewp-portfolio-template-customizer-settings.php:91
+#: inc/customizer/customizer-settings/theme-settings/arilewp-portfolio-template-customizer-settings.php:166
+msgid "Container Full"
+msgstr "Container đầy đủ"
+
+#: inc/metabox.php:97
+#: inc/customizer/customizer-settings/home/arilewp-home-blog-customizer-settings.php:163
+#: inc/customizer/customizer-settings/home/arilewp-home-client-customizer-settings.php:230
+#: inc/customizer/customizer-settings/home/arilewp-home-cta-customizer-settings.php:129
+#: inc/customizer/customizer-settings/home/arilewp-home-funfact-customizer-settings.php:109
+#: inc/customizer/customizer-settings/home/arilewp-home-project-customizer-settings.php:171
+#: inc/customizer/customizer-settings/home/arilewp-home-service-customizer-settings.php:98
+#: inc/customizer/customizer-settings/home/arilewp-home-site-top-header-customizer-settings.php:114
+#: inc/customizer/customizer-settings/home/arilewp-home-team-customizer-settings.php:150
+#: inc/customizer/customizer-settings/home/arilewp-home-testimonial-customizer-settings.php:153
+#: inc/customizer/customizer-settings/home/arilewp-home-wooshop-customizer-settings.php:130
+#: inc/customizer/customizer-settings/theme-settings/arilewp-blog-general-customizer-settings.php:73
+#: inc/customizer/customizer-settings/theme-settings/arilewp-blog-general-customizer-settings.php:124
+#: inc/customizer/customizer-settings/theme-settings/arilewp-blog-general-customizer-settings.php:172
+#: inc/customizer/customizer-settings/theme-settings/arilewp-blog-grid-view-customizer-settings.php:82
+#: inc/customizer/customizer-settings/theme-settings/arilewp-footer-widget-customizer-settings.php:82
+#: inc/customizer/customizer-settings/theme-settings/arilewp-list-view-blog-customizer-settings.php:64
+#: inc/customizer/customizer-settings/theme-settings/arilewp-masonry-blog-customizer-settings.php:64
+#: inc/customizer/customizer-settings/theme-settings/arilewp-menu-bar-customizer-settings.php:61
+#: inc/customizer/customizer-settings/theme-settings/arilewp-page-header-customizer-settings.php:97
+#: inc/customizer/customizer-settings/theme-settings/arilewp-portfolio-template-customizer-settings.php:87
+#: inc/customizer/customizer-settings/theme-settings/arilewp-portfolio-template-customizer-settings.php:162
+msgid "Container Width"
+msgstr "Chiều rộng container"
+
+#: inc/customizer/arilewp-customizer-options.php:1228
+msgid "Copyright Text"
+msgstr "Bản quyền văn bản"
+
+#: inc/customizer/controls/code/arilewp-customize-background-control.php:125
+msgid "Cover"
+msgstr "Che"
+
+#: inc/customizer/arilewp-customizer-default.php:254
+msgid "Cups of Coffee"
+msgstr "Tách cà phê"
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-theme-color-scheme-customizer-settings.php:64
+msgid "Custom Color"
+msgstr "Tự phối màu"
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-theme-color-scheme-customizer-settings.php:77
+msgid "Custom Color Enable/Disable"
+msgstr "Bật / Tắt màu tùy chỉnh"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:38
+msgid "Customizer Repeater"
+msgstr "Repeater tùy biến"
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-footer-widget-customizer-settings.php:47
+msgid "Dark"
+msgstr "Tối"
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:53
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:79
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:99
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:172
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:198
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:218
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:289
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:315
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:335
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:400
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:426
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:446
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:506
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:532
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:552
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:613
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:639
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:659
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:719
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:745
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:765
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:824
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:850
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:870
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:930
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:956
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:976
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:1051
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:1077
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:1097
+msgid "Default"
+msgstr "Mặc định"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:367
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:486
+msgid "Delete field"
+msgstr "Xóa trường"
+
+#: inc/metabox.php:194 inc/metabox.php:195
+#: inc/customizer/arilewp-customizer-options.php:1109
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:270
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:419
+#: inc/customizer/customizer-settings/theme-settings/arilewp-portfolio-template-customizer-settings.php:59
+#: inc/customizer/customizer-settings/theme-settings/arilewp-portfolio-template-customizer-settings.php:128
+msgid "Description"
+msgstr "Sự miêu tả"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:351
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:475
+msgid "Designation"
+msgstr "Chỉ định"
+
+#: inc/customizer/arilewp-customizer-default.php:354
+msgid "Developer"
+msgstr "Nhà phát triển"
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-forntpage-section-ordering-customizer-settings.php:48
+msgid "Drag & Drop items to re-arrange the order and"
+msgstr "Kéo và thả các mục để sắp xếp lại thứ tự và"
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-blog-general-customizer-settings.php:44
+#: inc/customizer/customizer-settings/theme-settings/arilewp-blog-grid-view-customizer-settings.php:44
+#: inc/customizer/customizer-settings/theme-settings/arilewp-list-view-blog-customizer-settings.php:45
+#: inc/customizer/customizer-settings/theme-settings/arilewp-masonry-blog-customizer-settings.php:46
+msgid "Drag & Drop post items to re-arrange the order"
+msgstr "Kéo và thả các mục bài để sắp xếp lại thứ tự"
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:272
+msgid "Dropdown Menu"
+msgstr "Trình đơn thả xuống"
+
+#: comments.php:55 template-parts/contact-info.php:68
+#: inc/customizer/arilewp-customizer-default.php:509
+msgid "Email"
+msgstr "E-mail"
+
+#: inc/customizer/arilewp-panels-and-sections.php:121
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:32
+msgid "Enable Typography"
+msgstr "Kích hoạt kiểu chữ"
+
+#: inc/customizer/customizer-settings/home/arilewp-home-blog-customizer-settings.php:42
+#: inc/customizer/customizer-settings/home/arilewp-home-client-customizer-settings.php:42
+#: inc/customizer/customizer-settings/home/arilewp-home-cta-customizer-settings.php:42
+#: inc/customizer/customizer-settings/home/arilewp-home-funfact-customizer-settings.php:42
+#: inc/customizer/customizer-settings/home/arilewp-home-team-customizer-settings.php:42
+#: inc/customizer/customizer-settings/home/arilewp-home-testimonial-customizer-settings.php:42
+#: inc/customizer/customizer-settings/home/arilewp-home-theme-info-customizer-settings.php:42
+#: inc/customizer/customizer-settings/home/arilewp-home-wooshop-customizer-settings.php:42
+#: inc/customizer/customizer-settings/theme-settings/arilewp-contact-template-customizer-settings.php:47
+#: inc/customizer/customizer-settings/theme-settings/arilewp-contact-template-customizer-settings.php:90
+#: inc/customizer/customizer-settings/theme-settings/arilewp-contact-template-customizer-settings.php:138
+msgid "Enable/Disable"
+msgstr "Cho phép vô hiệu hóa"
+
+#: inc/customizer/customizer-settings/home/arilewp-home-cta-customizer-settings.php:98
+msgid "Enter a YouTube URL"
+msgstr "Nhập URL YouTube"
+
+#: inc/template-functions.php:276
+msgid "Error 404"
+msgstr "Lỗi 404"
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:61
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:180
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:297
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:408
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:514
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:621
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:727
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:832
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:938
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:1059
+msgid "Extra Bold 800"
+msgstr "Thêm đậm 800"
+
+#: inc/customizer/customizer-settings/home/arilewp-home-slider-customizer-settings.php:109
+msgid "Fade"
+msgstr "Phai màu"
+
+#: page-templates/service-one.php:366 page-templates/service-two.php:385
+#: template-parts/index-testimonial.php:164
+#: template-parts/index-testimonial.php:207
+#: inc/customizer/arilewp-customizer-default.php:290
+msgid "Financer"
+msgstr "Tài chính"
+
+#: inc/customizer/controls/code/arilewp-customize-background-control.php:152
+msgid "Fixed"
+msgstr "Dã sửa"
+
+#: inc/customizer/arilewp-customizer-options.php:812
+#: inc/customizer/arilewp-customizer-options.php:826
+#: inc/customizer/arilewp-customizer-options.php:840
+#: inc/customizer/arilewp-customizer-options.php:853
+#: inc/customizer/arilewp-customizer-options.php:866
+#: inc/customizer/arilewp-customizer-options.php:879
+#: inc/customizer/arilewp-customizer-options.php:892
+#: inc/customizer/arilewp-customizer-options.php:905
+#: inc/customizer/arilewp-customizer-options.php:918
+#: inc/customizer/arilewp-customizer-options.php:931
+msgid "Font Family"
+msgstr "Họ phông chữ"
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:115
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:235
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:352
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:463
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:569
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:676
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:782
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:887
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:993
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:1114
+msgid "Font Size"
+msgstr "Cỡ chữ"
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:76
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:195
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:312
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:423
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:529
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:636
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:742
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:847
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:953
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:1074
+msgid "Font Style"
+msgstr "Kiểu chữ"
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:49
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:169
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:286
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:397
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:503
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:610
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:716
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:821
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:927
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:1048
+msgid "Font Weight"
+msgstr "Trọng lượng phông chữ"
+
+#: inc/customizer/arilewp-panels-and-sections.php:84
+msgid "Footer"
+msgstr "Chân trang"
+
+#: inc/customizer/arilewp-panels-and-sections.php:97
+msgid "Footer Copyright"
+msgstr "Bản quyền chân trang"
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-footer-copyright-customizer-settings.php:29
+msgid "Footer Copyright Enable/Disable"
+msgstr "Footer Bản quyền Kích hoạt / Vô hiệu hóa"
+
+#: functions.php:114
+msgid "Footer Sidebar Four"
+msgstr "Sider Sidebar Four"
+
+#: functions.php:111
+msgid "Footer Sidebar One"
+msgstr "Thanh bên chân trang Một"
+
+#: functions.php:113
+msgid "Footer Sidebar Three"
+msgstr "Thanh bên chân trang Ba"
+
+#: functions.php:112
+msgid "Footer Sidebar Two"
+msgstr "Thanh bên chân trang Hai"
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-footer-widget-customizer-settings.php:44
+msgid "Footer Style"
+msgstr "Phong cách chân trang"
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-footer-widget-customizer-settings.php:30
+msgid "Footer Widget Area Enable/Disable"
+msgstr "Khu vực tiện ích chân trang Kích hoạt / vô hiệu hóa"
+
+#: inc/customizer/arilewp-panels-and-sections.php:90
+msgid "Footer Widgets"
+msgstr "Tiện ích chân trang"
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-footer-widget-customizer-settings.php:61
+msgid "Footer Widgets Layout"
+msgstr "Giao diện Wider Footer"
+
+#: page-templates/about-one.php:223 page-templates/about-two.php:225
+#: page-templates/service-one.php:354 page-templates/service-two.php:369
+#: template-parts/index-team.php:181 template-parts/index-team.php:246
+#: template-parts/index-testimonial.php:148
+#: template-parts/index-testimonial.php:195
+#: inc/customizer/arilewp-customizer-default.php:280
+#: inc/customizer/arilewp-customizer-default.php:323
+msgid "Founder"
+msgstr "Người sáng lập"
+
+#. Name of the template
+msgid "Frontpage"
+msgstr "Frontpage"
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-forntpage-section-ordering-customizer-settings.php:47
+msgid "Frontpage Section Order"
+msgstr "Đặt hàng phần trước"
+
+#: inc/customizer/arilewp-panels-and-sections.php:190
+msgid "Frontpage Section Ordering"
+msgstr "Đặt hàng phần trước"
+
+#: inc/customizer/arilewp-customizer-options.php:63
+msgid "Frontpage Sections"
+msgstr "Phần trước trang"
+
+#: inc/metabox.php:23
+msgid "Full Width"
+msgstr "Chiều rộng đầy đủ"
+
+#: inc/customizer/arilewp-customizer-options.php:311
+#: inc/customizer/customizer-settings/theme-settings/arilewp-forntpage-section-ordering-customizer-settings.php:54
+msgid "Funfact"
+msgstr "Sự thật thú vị"
+
+#: inc/customizer/customizer-settings/home/arilewp-home-funfact-customizer-settings.php:124
+msgid "Funfact Area Before After Content"
+msgstr "Khu vực Funfact trước sau nội dung"
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-about-template-customizer-settings.php:49
+#: inc/customizer/customizer-settings/theme-settings/arilewp-service-template-customizer-settings.php:49
+msgid "Funfact Enable/Disable"
+msgstr "Bật / Tắt Funfact"
+
+#: inc/customizer/arilewp-customizer-options.php:325
+msgid "Funfact Item"
+msgstr "Mục Funfact"
+
+#: inc/customizer/arilewp-customizer-options.php:321
+msgid "Funfact Items content"
+msgstr "Nội dung mục Funfact"
+
+#: inc/customizer/customizer-settings/home/arilewp-home-funfact-customizer-settings.php:57
+msgid "Funfact Layout"
+msgstr "Giao diện Funfact"
+
+#: inc/customizer/customizer-settings/home/arilewp-home-funfact-customizer-settings.php:28
+msgid "Funfact Options"
+msgstr "Tùy chọn Funfact"
+
+#: inc/customizer/arilewp-panels-and-sections.php:44
+msgid "General"
+msgstr "Chung"
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-blog-general-customizer-settings.php:43
+msgid "General Post"
+msgstr "Tổng cục"
+
+#: searchform.php:4
+msgid "Go"
+msgstr "Đi"
+
+#: 404.php:22
+msgid "Go Back Now"
+msgstr "Quay lại ngay"
+
+#: inc/customizer/controls/code/arilewp-customize-typography-control.php:50
+msgid "Google Fonts"
+msgstr "Phông chữ Google"
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-contact-template-customizer-settings.php:77
+msgid "Google Map"
+msgstr "Bản đồ Google"
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-contact-template-customizer-settings.php:115
+msgid "Google Map Shortcode"
+msgstr "Mã ngắn Google Map"
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-blog-grid-view-customizer-settings.php:27
+msgid "Grid Layout"
+msgstr "Bố cục lưới"
+
+#: inc/customizer/arilewp-panels-and-sections.php:51
+msgid "Grid View"
+msgstr "Chế độ hiển thị theo ô"
+
+#: page-templates/about-one.php:111 page-templates/about-two.php:372
+#: page-templates/service-one.php:246 page-templates/service-two.php:255
+#: template-parts/index-funfact.php:116 template-parts/index-funfact.php:122
+msgid "Happy Clients"
+msgstr "Chúc mừng khách hàng"
+
+#: inc/customizer/arilewp-panels-and-sections.php:20
+msgid "Header"
+msgstr "Tiêu đề"
+
+#: inc/customizer/customizer-settings/home/arilewp-home-site-top-header-customizer-settings.php:42
+msgid "Header Enable/Disable"
+msgstr "Bật / Tắt tiêu đề"
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-header-customizer-settings.php:43
+msgid "Header Style"
+msgstr "Phong cách tiêu đề"
+
+#: inc/customizer/arilewp-panels-and-sections.php:142
+msgid "Headings H1"
+msgstr "Tiêu đề H1"
+
+#: inc/customizer/arilewp-panels-and-sections.php:148
+msgid "Headings H2"
+msgstr "Tiêu đề H2"
+
+#: inc/customizer/arilewp-panels-and-sections.php:154
+msgid "Headings H3"
+msgstr "Tiêu đề H3"
+
+#: inc/customizer/arilewp-panels-and-sections.php:160
+msgid "Headings H4"
+msgstr "Tiêu đề H4"
+
+#: inc/customizer/arilewp-panels-and-sections.php:166
+msgid "Headings H5"
+msgstr "Tiêu đề H5"
+
+#: inc/customizer/arilewp-panels-and-sections.php:172
+msgid "Headings H6"
+msgstr "Tiêu đề H6"
+
+#: inc/template-functions.php:65 inc/template-functions.php:234
+#: inc/template-functions.php:237
+msgid "Home"
+msgstr "Trang Chủ"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:540
+msgid "http://fontawesome.io/icons/"
+msgstr "http://fontawesome.io/icons/"
+
+#. Author URI of the theme
+msgid "https://themearile.com"
+msgstr "https://themearile.com"
+
+#. URI of the theme
+msgid "https://themearile.com/themes/arilewp-pro/"
+msgstr "https://themearile.com/themes/arilewp-pro/"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:534
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:594
+msgid "Icon"
+msgstr "Biểu tượng"
+
+#: inc/customizer/customizer-settings/home/arilewp-home-site-top-header-customizer-settings.php:97
+msgid "Icon Color"
+msgstr "Màu biểu tượng"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:557
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:595
+msgid "Image"
+msgstr "Hình ảnh"
+
+#: inc/customizer/customizer-settings/home/arilewp-home-slider-customizer-settings.php:87
+msgid "Image overlay color"
+msgstr "Màu lớp phủ hình ảnh"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:591
+msgid "Image type"
+msgstr "Lọai hình ảnh"
+
+#: inc/customizer/customizer-settings/home/arilewp-home-site-top-header-customizer-settings.php:55
+msgid "Info Enable/Disable"
+msgstr "Thông tin Kích hoạt / Vô hiệu hóa"
+
+#: inc/customizer/arilewp-customizer-options.php:83
+#: inc/customizer/arilewp-customizer-options.php:147
+msgid "Info Item"
+msgstr "Mục thông tin"
+
+#: inc/customizer/arilewp-customizer-options.php:80
+#: inc/customizer/arilewp-customizer-options.php:144
+msgid "Info Items Content"
+msgstr "Thông tin mục Nội dung"
+
+#: template-parts/contact-info.php:69 template-parts/site-header.php:50
+#: inc/customizer/arilewp-customizer-default.php:24
+msgid "info@arilewp.com"
+msgstr "info@arilewp.com"
+
+#: template-parts/content-none.php:42
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+"Có vẻ như chúng tôi không thể tìm thấy những gì bạn đang tìm kiếm. Có lẽ tìm "
+"kiếm có thể giúp đỡ."
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:81
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:200
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:317
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:428
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:534
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:641
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:747
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:852
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:958
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:1079
+msgid "Italic"
+msgstr "In nghiêng"
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-blog-general-customizer-settings.php:103
+#: inc/customizer/customizer-settings/theme-settings/arilewp-blog-general-customizer-settings.php:152
+msgid "Layout"
+msgstr "Bố trí"
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-theme-color-scheme-customizer-settings.php:133
+msgid "Layout And Background"
+msgstr "Bố cục và nền"
+
+#: inc/customizer/customizer-settings/home/arilewp-home-blog-customizer-settings.php:60
+#: inc/customizer/customizer-settings/home/arilewp-home-client-customizer-settings.php:60
+#: inc/customizer/customizer-settings/home/arilewp-home-funfact-customizer-settings.php:60
+#: inc/customizer/customizer-settings/home/arilewp-home-project-customizer-settings.php:60
+#: inc/customizer/customizer-settings/home/arilewp-home-service-customizer-settings.php:62
+#: inc/customizer/customizer-settings/home/arilewp-home-slider-customizer-settings.php:60
+#: inc/customizer/customizer-settings/home/arilewp-home-team-customizer-settings.php:60
+#: inc/customizer/customizer-settings/home/arilewp-home-testimonial-customizer-settings.php:60
+msgid "Layout One"
+msgstr "Bố cục một"
+
+#: inc/customizer/customizer-settings/home/arilewp-home-blog-customizer-settings.php:61
+#: inc/customizer/customizer-settings/home/arilewp-home-client-customizer-settings.php:61
+#: inc/customizer/customizer-settings/home/arilewp-home-funfact-customizer-settings.php:61
+#: inc/customizer/customizer-settings/home/arilewp-home-project-customizer-settings.php:61
+#: inc/customizer/customizer-settings/home/arilewp-home-service-customizer-settings.php:63
+#: inc/customizer/customizer-settings/home/arilewp-home-slider-customizer-settings.php:61
+#: inc/customizer/customizer-settings/home/arilewp-home-team-customizer-settings.php:61
+#: inc/customizer/customizer-settings/home/arilewp-home-testimonial-customizer-settings.php:61
+msgid "Layout Two"
+msgstr "Layout Two"
+
+#: comments.php:69
+msgid "Leave a Reply"
+msgstr "Leave a Reply"
+
+#: inc/customizer/controls/code/arilewp-customize-dimensions-control.php:132
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:573
+msgid "Left"
+msgstr "Trái"
+
+#: inc/customizer/controls/code/arilewp-customize-background-control.php:96
+msgid "Left Bottom"
+msgstr "Phía dưới bên trái"
+
+#: inc/customizer/controls/code/arilewp-customize-background-control.php:93
+msgid "Left Center"
+msgstr "Trung tâm bên trái"
+
+#: inc/metabox.php:28
+msgid "Left Sidebar"
+msgstr "Thanh bên trái"
+
+#: inc/customizer/controls/code/arilewp-customize-background-control.php:90
+msgid "Left Top"
+msgstr "Trên bên trái"
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-footer-widget-customizer-settings.php:48
+msgid "light"
+msgstr "ánh sáng"
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:55
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:174
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:291
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:402
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:508
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:615
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:721
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:826
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:932
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:1053
+msgid "Light 200"
+msgstr "Ánh sáng 200"
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:133
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:253
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:370
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:481
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:587
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:694
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:800
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:905
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:1011
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:1132
+msgid "Line Height"
+msgstr "Chiều cao giữa các dòng"
+
+#: inc/metabox.php:191 inc/metabox.php:192
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:290
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:437
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:618
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:640
+msgid "Link"
+msgstr "Liên kết"
+
+#: inc/customizer/arilewp-panels-and-sections.php:58
+msgid "List View"
+msgstr "Xem danh sách"
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-list-view-blog-customizer-settings.php:27
+msgid "List View Layout"
+msgstr "Giao diện danh sách xem"
+
+#: comments.php:65
+msgid "Logged in as"
+msgstr "Đăng nhập như"
+
+#: comments.php:65
+msgid "Logout"
+msgstr "Đăng xuất"
+
+#: page-templates/service-one.php:141 page-templates/service-one.php:152
+#: page-templates/service-one.php:163 page-templates/service-two.php:139
+#: page-templates/service-two.php:151 page-templates/service-two.php:163
+#: template-parts/index-service.php:127 template-parts/index-service.php:139
+#: template-parts/index-service.php:151
+msgid ""
+"Lorem Ipsum is simply text of the printing and typesetting industry. Lorem "
+"Ipsum has been standard dummy."
+msgstr ""
+"Lorem Ipsum chỉ đơn giản là văn bản của ngành công nghiệp in ấn và sắp chữ. "
+"Lorem Ipsum đã là một hình nộm tiêu chuẩn."
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:101
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:220
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:337
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:448
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:554
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:661
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:767
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:872
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:978
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:1099
+msgid "Lowercase"
+msgstr "Chữ thường"
+
+#: inc/customizer/arilewp-customizer-options.php:110
+msgid "Main Slider"
+msgstr "Thanh trượt chính"
+
+#: page-templates/about-one.php:259 page-templates/about-two.php:275
+#: template-parts/index-team.php:227 template-parts/index-team.php:280
+#: inc/customizer/arilewp-customizer-default.php:385
+msgid "Manager"
+msgstr "Giám đốc"
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-contact-template-customizer-settings.php:103
+msgid "Map Title"
+msgstr "Tiêu đề bản đồ"
+
+#: inc/customizer/arilewp-panels-and-sections.php:65
+msgid "Masonry"
+msgstr "Vật thợ nề xây"
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-masonry-blog-customizer-settings.php:28
+msgid "Masonry Layout"
+msgstr "Building layout"
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:58
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:177
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:294
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:405
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:511
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:618
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:724
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:829
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:935
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:1056
+msgid "Medium 500"
+msgstr "Trung bình 500"
+
+#: inc/customizer/arilewp-panels-and-sections.php:29
+msgid "Menu"
+msgstr "Thực đơn"
+
+#: inc/customizer/arilewp-panels-and-sections.php:135
+msgid "Menu Bar"
+msgstr "Thanh menu"
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-menu-bar-customizer-settings.php:93
+msgid "Menu Items"
+msgstr "Các mục menu"
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-menu-bar-customizer-settings.php:27
+msgid "Menu Settings"
+msgstr "Cài đặt menu"
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-menu-bar-customizer-settings.php:42
+msgid "Menu Style"
+msgstr "Phong cách thực đơn"
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-blog-grid-view-customizer-settings.php:47
+#: inc/customizer/customizer-settings/theme-settings/arilewp-masonry-blog-customizer-settings.php:49
+msgid "Meta"
+msgstr "Tổng hợp"
+
+#: inc/customizer/customizer-settings/home/arilewp-home-blog-customizer-settings.php:75
+msgid "Meta Enable/Disable"
+msgstr "Bật / Tắt Meta"
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-blog-general-customizer-settings.php:47
+#: inc/customizer/customizer-settings/theme-settings/arilewp-list-view-blog-customizer-settings.php:48
+msgid "Meta One"
+msgstr "Tối đa"
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-blog-general-customizer-settings.php:49
+#: inc/customizer/customizer-settings/theme-settings/arilewp-list-view-blog-customizer-settings.php:50
+msgid "Meta Two"
+msgstr "Meta Two"
+
+#: inc/customizer/customizer-settings/home/arilewp-home-client-customizer-settings.php:208
+#: inc/customizer/customizer-settings/home/arilewp-home-project-customizer-settings.php:149
+#: inc/customizer/customizer-settings/home/arilewp-home-slider-customizer-settings.php:164
+#: inc/customizer/customizer-settings/home/arilewp-home-team-customizer-settings.php:135
+#: inc/customizer/customizer-settings/home/arilewp-home-testimonial-customizer-settings.php:138
+#: inc/customizer/customizer-settings/home/arilewp-home-wooshop-customizer-settings.php:116
+msgid "Mouse drag Enable/Disable"
+msgstr "Chuột kéo Bật / Tắt"
+
+#: comments.php:54
+msgid "Name"
+msgstr "Tên"
+
+#: inc/custom-post.php:13
+msgid "New Link"
+msgstr "Liên kết mới"
+
+#: comments.php:38
+msgid "Newer Comments &rarr;"
+msgstr "Nhận xét mới hơn &rarr;"
+
+#: comments.php:26
+msgid "No Comments"
+msgstr "Miễn bình luận"
+
+#: inc/customizer/controls/code/arilewp-customize-background-control.php:55
+msgid "No File Selected"
+msgstr "Không tài liệu nào được chọn"
+
+#: inc/custom-post.php:17
+msgid "No Links found"
+msgstr "Không tìm thấy liên kết"
+
+#: inc/custom-post.php:18
+msgid "No Links found in Trash"
+msgstr "Không tìm thấy liên kết nào trong Thùng rác"
+
+#: inc/customizer/controls/code/arilewp-customize-background-control.php:71
+msgid "No Repeat"
+msgstr "Không lặp lại"
+
+#: inc/customizer/customizer-settings/arilewp-customize-base-customizer-settings.php:74
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:596
+msgid "None"
+msgstr "Không ai"
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:80
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:199
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:316
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:427
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:533
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:640
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:746
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:851
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:957
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:1078
+msgid "Normal"
+msgstr "Bình thường"
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:57
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:176
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:293
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:404
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:510
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:617
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:723
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:828
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:934
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:1055
+msgid "Normal 400"
+msgstr "Bình thường 400"
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:50
+msgid "Note: All fonts did not support every font-weight."
+msgstr "Lưu ý: Tất cả các phông chữ không hỗ trợ mọi trọng lượng phông chữ."
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:539
+#, php-format
+msgid ""
+"Note: Some icons may not be displayed here. You can see the full list of "
+"icons at %1$s."
+msgstr ""
+"Lưu ý: Một số biểu tượng có thể không được hiển thị ở đây. Bạn có thể xem "
+"danh sách đầy đủ các biểu tượng tại %1$s."
+
+#: comments.php:26
+msgid "One comment"
+msgstr "Một bình luận"
+
+#: inc/customizer/arilewp-customizer-options.php:50
+msgid "Only apply when transparent header option is enabled (210px*39px)."
+msgstr "Chỉ áp dụng khi tùy chọn tiêu đề trong suốt được bật (210px * 39px)."
+
+#: 404.php:20
+msgid "OOPS, SORRY WE CAN'T FIND THAT PAGE !"
+msgstr "OOPS, SORRY CHÚNG TÔI KHÔNG THỂ TÌM ĐƯỢC TRANG!"
+
+#: inc/metabox.php:193
+msgid "Open link in new tab"
+msgstr "Mở liên kết trong tab mới"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:523
+msgid "Open link in new tab:"
+msgstr "Mở liên kết trong một tab mới:"
+
+#: inc/customizer/customizer-settings/home/arilewp-home-blog-customizer-settings.php:122
+#: inc/customizer/customizer-settings/home/arilewp-home-cta-customizer-settings.php:69
+#: inc/customizer/customizer-settings/theme-settings/arilewp-menu-bar-customizer-settings.php:187
+msgid "Open New Tab Enable/Disable"
+msgstr "Mở tab mới Bật / Tắt"
+
+#: template-parts/index-wooshop.php:52
+msgid "out of 5"
+msgstr "ngoài 5"
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-header-customizer-settings.php:49
+msgid "Overlap Classic Header"
+msgstr "Chồng chéo tiêu đề cổ điển"
+
+#: inc/customizer/customizer-settings/home/arilewp-home-funfact-customizer-settings.php:75
+#: inc/customizer/customizer-settings/home/arilewp-home-slider-customizer-settings.php:74
+#: inc/customizer/customizer-settings/home/arilewp-home-testimonial-customizer-settings.php:180
+msgid "Overlay Enable/Disable"
+msgstr "Bật / Tắt lớp phủ"
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-page-header-customizer-settings.php:117
+msgid "Padding"
+msgstr "Đệm"
+
+#: inc/customizer/arilewp-customizer-options.php:24
+#: inc/customizer/arilewp-panels-and-sections.php:75
+#: inc/customizer/customizer-settings/theme-settings/arilewp-page-header-customizer-settings.php:33
+msgid "Page Header"
+msgstr "Tiêu đề trang"
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-page-header-customizer-settings.php:46
+msgid "Page Header Enable/Disable"
+msgstr "Bật / Tắt tiêu đề trang"
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-page-header-customizer-settings.php:77
+msgid "Page Header Layouts"
+msgstr "Bố cục tiêu đề trang"
+
+#: inc/customizer/arilewp-panels-and-sections.php:208
+msgid "Page Templates"
+msgstr "Mẫu trang"
+
+#: template-parts/content-page.php:22 template-parts/content.php:48
+#: template-parts/contentgrid.php:40 template-parts/contentlist.php:49
+#: template-parts/contentmasonry.php:37
+msgid "Pages:"
+msgstr "Trang:"
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:155
+msgid "Parent Menu"
+msgstr "Menu phụ huynh"
+
+#: template-parts/contact-info.php:54
+#: inc/customizer/arilewp-customizer-default.php:493
+msgid "Phone"
+msgstr "Điện thoại"
+
+#: page-templates/service-one.php:140 page-templates/service-two.php:138
+#: template-parts/index-service.php:126
+#: inc/customizer/arilewp-customizer-default.php:190
+msgid "Pixel Perfect Design"
+msgstr "Thiết kế hoàn hảo Pixel"
+
+#: inc/customizer/arilewp-panels-and-sections.php:225
+msgid "Portfolio"
+msgstr "Danh mục đầu tư"
+
+#. Name of the template
+msgid "Portfolio 2 Column"
+msgstr "Danh mục đầu tư 2 cột"
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-portfolio-template-customizer-settings.php:33
+msgid "Portfolio 2/3/4 Column"
+msgstr "Danh mục đầu tư 2/3/4"
+
+#. Name of the template
+msgid "Portfolio 3 Column"
+msgstr "Danh mục đầu tư 3 cột"
+
+#. Name of the template
+msgid "Portfolio 4 Column"
+msgstr "Danh mục đầu tư 4 cột"
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-portfolio-template-customizer-settings.php:102
+msgid "Portfolio Category Archive"
+msgstr "Danh mục đầu tư Lưu trữ"
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-theme-color-scheme-customizer-settings.php:28
+msgid "Predefined Color Scheme"
+msgstr "Phối màu được xác định trước"
+
+#: functions.php:48
+msgid "Primary"
+msgstr "Sơ cấp"
+
+#: inc/customizer/arilewp-customizer-options.php:231
+#: inc/customizer/customizer-settings/theme-settings/arilewp-forntpage-section-ordering-customizer-settings.php:53
+msgid "Project"
+msgstr "Dự án"
+
+#: inc/customizer/customizer-settings/home/arilewp-home-project-customizer-settings.php:187
+msgid "Project Area Before After Content"
+msgstr "Khu vực dự án trước khi nội dung"
+
+#: inc/metabox.php:179
+msgid "Project Details"
+msgstr "Chi tiết dự án"
+
+#: inc/customizer/customizer-settings/home/arilewp-home-project-customizer-settings.php:42
+msgid "Project Enable/Disable"
+msgstr "Project Enable/Disable"
+
+#: inc/customizer/customizer-settings/home/arilewp-home-project-customizer-settings.php:57
+msgid "Project Layout"
+msgstr "Bố trí dự án"
+
+#: inc/customizer/customizer-settings/home/arilewp-home-project-customizer-settings.php:28
+msgid "Project Options"
+msgstr "Tùy chọn dự án"
+
+#: inc/custom-post.php:9 page-templates/about-one.php:97
+#: page-templates/about-two.php:354 page-templates/service-one.php:232
+#: page-templates/service-two.php:237 template-parts/index-funfact.php:86
+#: template-parts/index-funfact.php:92
+#: inc/customizer/arilewp-customizer-default.php:241
+msgid "Projects"
+msgstr "Dự án"
+
+#: template-parts/index-wooshop.php:52
+#, php-format
+msgid "Rated %s out of 5"
+msgstr "Xếp hang %s trên 5"
+
+#: inc/template-functions.php:136 page-templates/contact-one.php:73
+#: page-templates/contact-two.php:56 page-templates/service-one.php:142
+#: page-templates/service-one.php:153 page-templates/service-one.php:164
+#: page-templates/service-two.php:140 page-templates/service-two.php:152
+#: page-templates/service-two.php:164 template-parts/content-single.php:46
+#: template-parts/content.php:47 template-parts/contentgrid.php:39
+#: template-parts/contentlist.php:48 template-parts/contentmasonry.php:36
+#: template-parts/index-blog.php:86 template-parts/index-service.php:128
+#: template-parts/index-service.php:140 template-parts/index-service.php:152
+#: inc/customizer/arilewp-customizer-default.php:192
+#: inc/customizer/arilewp-customizer-default.php:202
+#: inc/customizer/arilewp-customizer-default.php:212
+msgid "Read More"
+msgstr "Đọc thêm"
+
+#. 1: link to WP admin new post page.
+#: template-parts/content-none.php:22
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+"Bạn đã sẵn sàng để đăng bài viết đầu tiên của bạn? <a href=\"%1$s\">hãy bắt "
+"đầu từ đây</a>."
+
+#: template-parts/content-single.php:62
+msgid "Related Posts"
+msgstr "Bài viết liên quan"
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-blog-general-customizer-settings.php:189
+msgid "Related Posts Enable/Disable"
+msgstr "Bài viết liên quan Kích hoạt / Vô hiệu hóa"
+
+#: inc/customizer/controls/code/arilewp-customize-background-control.php:58
+msgid "Remove"
+msgstr "Tẩy"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:621
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:651
+msgid "Remove Icon"
+msgstr "Xóa biểu tượng"
+
+#: inc/customizer/controls/code/arilewp-customize-background-control.php:74
+msgid "Repeat All"
+msgstr "Lặp lại tất cả"
+
+#: inc/customizer/controls/code/arilewp-customize-background-control.php:77
+msgid "Repeat Horizontally"
+msgstr "Lặp lại theo chiều ngang"
+
+#: inc/customizer/controls/code/arilewp-customize-background-control.php:80
+msgid "Repeat Vertically"
+msgstr "Lặp lại theo chiều dọc"
+
+#: inc/template-functions.php:100
+msgid "Reply"
+msgstr "Đáp lại"
+
+#: inc/customizer/controls/code/arilewp-customize-slider-control.php:70
+msgid "Reset"
+msgstr "Cài lại"
+
+#: inc/customizer/controls/code/arilewp-customize-dimensions-control.php:130
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:577
+msgid "Right"
+msgstr "Đúng"
+
+#: inc/customizer/controls/code/arilewp-customize-background-control.php:105
+msgid "Right Bottom"
+msgstr "Ở dưới bên phải"
+
+#: inc/customizer/controls/code/arilewp-customize-background-control.php:102
+msgid "Right Center"
+msgstr "Trung tâm phải"
+
+#: inc/metabox.php:18
+msgid "Right Sidebar"
+msgstr "Quyền bổ sung"
+
+#: inc/customizer/controls/code/arilewp-customize-background-control.php:99
+msgid "Right Top"
+msgstr "Bên phải trên cùng"
+
+#: template-parts/index-wooshop.php:46
+msgid "Sale"
+msgstr "Giảm giá"
+
+#: page-templates/service-one.php:378 page-templates/service-two.php:401
+#: template-parts/index-testimonial.php:180
+#: template-parts/index-testimonial.php:219
+#: inc/customizer/arilewp-customizer-default.php:299
+msgid "Sales Manager"
+msgstr "Quản lý kinh doanh"
+
+#: page-templates/service-one.php:162 page-templates/service-two.php:162
+#: template-parts/index-service.php:150
+#: inc/customizer/arilewp-customizer-default.php:210
+msgid "Satisfied Clients"
+msgstr "Khách hàng hài lòng"
+
+#: inc/customizer/customizer-page-editor/customizer-page-editor.php:25
+msgid "Save and close"
+msgstr "Lưu và đóng"
+
+#: inc/customizer/controls/code/arilewp-customize-background-control.php:147
+msgid "Scroll"
+msgstr "Cuộn"
+
+#: inc/customizer/arilewp-panels-and-sections.php:104
+msgid "Scroll to Top"
+msgstr "Di chuyển lên trên cùng"
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-scroll-to-top-customizer-settings.php:27
+msgid "Scroll to Top Enable/Disable"
+msgstr "Cuộn lên đầu Bật / Tắt"
+
+#: searchform.php:2 template-parts/site-navbar.php:170
+msgid "Search"
+msgstr "Tìm kiếm"
+
+#: template-parts/site-navbar.php:169
+msgid "Search here"
+msgstr "Tìm kiếm ở đây"
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-menu-bar-customizer-settings.php:119
+msgid "Search Icon Enable/Disable"
+msgstr "Biểu tượng tìm kiếm Bật / Tắt"
+
+#: inc/custom-post.php:16
+msgid "Search Links"
+msgstr "Liên kết tìm kiếm"
+
+#: inc/template-functions.php:188
+msgid "Search results for"
+msgstr "Tìm kiếm kết quả Cho"
+
+#: inc/customizer/arilewp-customizer-options.php:970
+#: inc/customizer/arilewp-customizer-options.php:1002
+#: inc/customizer/arilewp-customizer-options.php:1034
+#: inc/customizer/arilewp-customizer-options.php:1065
+#: inc/customizer/arilewp-customizer-options.php:1167
+#: inc/customizer/arilewp-customizer-options.php:1198
+msgid "Section Description"
+msgstr "Phần Mô tả"
+
+#: inc/customizer/arilewp-customizer-options.php:956
+#: inc/customizer/arilewp-customizer-options.php:987
+#: inc/customizer/arilewp-customizer-options.php:1019
+#: inc/customizer/arilewp-customizer-options.php:1051
+#: inc/customizer/arilewp-customizer-options.php:1153
+#: inc/customizer/arilewp-customizer-options.php:1184
+msgid "Section Title"
+msgstr "Mục tiêu đề"
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-theme-color-scheme-customizer-settings.php:166
+msgid "Select Background"
+msgstr "Chọn lựa phông nền"
+
+#: inc/customizer/arilewp-customizer-options.php:671
+msgid "Select Blog Category for Masonry Templates"
+msgstr "Chọn Danh mục Blog cho Mẫu Masonry"
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-theme-color-scheme-customizer-settings.php:90
+msgid "Select Custom color"
+msgstr "Chọn màu tùy chỉnh"
+
+#: inc/customizer/controls/code/arilewp-customize-background-control.php:60
+msgid "Select File"
+msgstr "Chọn tập tin"
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-theme-color-scheme-customizer-settings.php:147
+msgid "Select Layout"
+msgstr "Chọn bố cục"
+
+#: inc/metabox.php:121
+msgid "Select the Container Size for the Default Page Templates"
+msgstr "Chọn Kích thước vùng chứa cho Mẫu trang mặc định"
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-theme-color-scheme-customizer-settings.php:117
+msgid "Select Theme Color Skin"
+msgstr "Chọn màu da chủ đề"
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-theme-color-scheme-customizer-settings.php:42
+msgid "Select Theme Colors"
+msgstr "Chọn màu chủ đề"
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:59
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:178
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:295
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:406
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:512
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:619
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:725
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:830
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:936
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:1057
+msgid "Semibold 600"
+msgstr "Bán kết 600"
+
+#: inc/customizer/customizer-settings/home/arilewp-home-blog-customizer-settings.php:88
+msgid "Separator Enable/Disable"
+msgstr "Dấu tách / bật"
+
+#: inc/customizer/arilewp-customizer-options.php:159
+#: inc/customizer/arilewp-panels-and-sections.php:219
+#: inc/customizer/customizer-settings/theme-settings/arilewp-forntpage-section-ordering-customizer-settings.php:52
+msgid "Service"
+msgstr "Dịch vụ"
+
+#: inc/customizer/customizer-settings/home/arilewp-home-service-customizer-settings.php:113
+msgid "Service Area Before After Content"
+msgstr "Khu vực dịch vụ trước sau nội dung"
+
+#: inc/customizer/customizer-settings/home/arilewp-home-service-customizer-settings.php:44
+#: inc/customizer/customizer-settings/theme-settings/arilewp-service-template-customizer-settings.php:36
+msgid "Service Enable/Disable"
+msgstr "Bật / Tắt dịch vụ"
+
+#: inc/customizer/arilewp-customizer-options.php:173
+msgid "Service Item"
+msgstr "Mục dịch vụ"
+
+#: inc/customizer/arilewp-customizer-options.php:169
+msgid "Service Items content"
+msgstr "Nội dung mục dịch vụ"
+
+#: inc/customizer/customizer-settings/home/arilewp-home-service-customizer-settings.php:59
+msgid "Service Layout"
+msgstr "Bố trí dịch vụ"
+
+#. Name of the template
+msgid "Service One"
+msgstr "Dịch vụ một"
+
+#: inc/customizer/customizer-settings/home/arilewp-home-service-customizer-settings.php:30
+msgid "Service Options"
+msgstr "Tùy chọn dịch vụ"
+
+#. Name of the template
+msgid "Service Two"
+msgstr "Dịch vụ hai"
+
+#: inc/customizer/arilewp-customizer-options.php:34
+msgid "Set Sticky Bar Logo"
+msgstr "Đặt Logo Thanh dính"
+
+#: inc/template-functions.php:173
+msgid "Shop"
+msgstr "Cửa tiệm"
+
+#: inc/customizer/customizer-settings/home/arilewp-home-wooshop-customizer-settings.php:144
+msgid "Shop Area Before After Content"
+msgstr "Khu vực cửa hàng trước sau khi nội dung"
+
+#: inc/customizer/customizer-settings/home/arilewp-home-wooshop-customizer-settings.php:28
+msgid "Shop Options"
+msgstr "Tùy chọn cửa hàng"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:343
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:466
+msgid "Shortcode"
+msgstr "Mã ngắn"
+
+#: inc/metabox.php:180 inc/metabox.php:202
+msgid "Show Slider on the Page"
+msgstr "Hiển thị thanh trượt trên trang"
+
+#: functions.php:110
+msgid "Sidebar"
+msgstr "Thanh bên"
+
+#: inc/metabox.php:10
+msgid "Sidebar Layout"
+msgstr "Bố cục thanh bên"
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-blog-general-customizer-settings.php:139
+msgid "Single Blog Pages"
+msgstr "Trang blog đơn"
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-forntpage-section-ordering-customizer-settings.php:51
+msgid "Site Info"
+msgstr "Thông tin trang"
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-about-template-customizer-settings.php:36
+msgid "Site Info Area Enable/Disable"
+msgstr "Khu vực thông tin trang web Kích hoạt / Vô hiệu hóa"
+
+#: inc/customizer/arilewp-customizer-options.php:70
+msgid "Site Top Header"
+msgstr "Trang web hàng đầu"
+
+#: inc/customizer/customizer-settings/home/arilewp-home-slider-customizer-settings.php:108
+msgid "Slide"
+msgstr "Cầu trượt"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:569
+msgid "Slide Content Format"
+msgstr "Định dạng nội dung slide"
+
+#: inc/customizer/arilewp-customizer-options.php:122
+msgid "Slide Item"
+msgstr "Mục trượt"
+
+#: inc/customizer/customizer-settings/home/arilewp-home-slider-customizer-settings.php:42
+msgid "Slider Enable/Disable"
+msgstr "Bật / Tắt thanh trượt"
+
+#: inc/customizer/arilewp-customizer-options.php:119
+msgid "Slider Items Content"
+msgstr "Mục trượt"
+
+#: inc/customizer/customizer-settings/home/arilewp-home-slider-customizer-settings.php:28
+msgid "Slider Options"
+msgstr "Tùy chọn thanh trượt"
+
+#: inc/customizer/customizer-settings/home/arilewp-home-client-customizer-settings.php:183
+#: inc/customizer/customizer-settings/home/arilewp-home-project-customizer-settings.php:124
+#: inc/customizer/customizer-settings/home/arilewp-home-slider-customizer-settings.php:146
+#: inc/customizer/customizer-settings/home/arilewp-home-team-customizer-settings.php:117
+#: inc/customizer/customizer-settings/home/arilewp-home-testimonial-customizer-settings.php:120
+#: inc/customizer/customizer-settings/home/arilewp-home-wooshop-customizer-settings.php:98
+msgid "Smart Speed"
+msgstr "Tốc độ thông minh"
+
+#: inc/customizer/arilewp-customizer-options.php:99
+msgid "Social Icon"
+msgstr "Biểu tượng xã hội"
+
+#: inc/customizer/customizer-settings/home/arilewp-home-site-top-header-customizer-settings.php:68
+msgid "Social Icon Enable/Disable"
+msgstr "Biểu tượng xã hội Kích hoạt / Vô hiệu hóa"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:604
+msgid "Social icons"
+msgstr "Biểu tượng xã hội"
+
+#: inc/customizer/arilewp-customizer-options.php:96
+msgid "Social Items Content"
+msgstr "Nội dung mục xã hội"
+
+#: template-parts/content-none.php:35
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"Xin lỗi, nhưng không có gì phù hợp với cụm từ tìm kiếm của bạn. Vui lòng thử "
+"lại với một số từ khóa khác nhau."
+
+#: inc/customizer/controls/code/arilewp-customize-typography-control.php:39
+msgid "Standard Fonts"
+msgstr "Phông chữ chuẩn"
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-header-customizer-settings.php:46
+msgid "Standard Header"
+msgstr "Tiêu đề tiêu chuẩn"
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-menu-bar-customizer-settings.php:46
+msgid "Static"
+msgstr "Tĩnh"
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-menu-bar-customizer-settings.php:45
+msgid "Sticky"
+msgstr "Dính"
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-menu-bar-customizer-settings.php:78
+msgid "Sticky Bar Background Color"
+msgstr "Màu nền thanh dính"
+
+#: comments.php:67
+msgid "Submit"
+msgstr "Gửi đi"
+
+#: inc/customizer/arilewp-customizer-options.php:1095
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:263
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:412
+msgid "Subtitle"
+msgstr "Phụ đề"
+
+#: inc/template-functions.php:171
+msgid "Tag"
+msgstr "Nhãn"
+
+#: inc/customizer/customizer-settings/home/arilewp-home-team-customizer-settings.php:165
+msgid "Team Area Before After Content"
+msgstr "Khu vực nhóm trước sau nội dung"
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-about-template-customizer-settings.php:62
+msgid "Team Enable/Disable"
+msgstr "Kích hoạt / vô hiệu hóa đội"
+
+#: inc/customizer/arilewp-customizer-options.php:591
+msgid "Team Items content"
+msgstr "Nội dung mục nhóm"
+
+#: inc/customizer/customizer-settings/home/arilewp-home-team-customizer-settings.php:57
+msgid "Team Layout"
+msgstr "Bố trí đội"
+
+#: inc/customizer/arilewp-customizer-options.php:595
+msgid "Team Member"
+msgstr "Thành viên của đội"
+
+#: inc/customizer/arilewp-customizer-options.php:580
+#: inc/customizer/customizer-settings/theme-settings/arilewp-forntpage-section-ordering-customizer-settings.php:58
+msgid "Team Members"
+msgstr "Thành viên trong nhóm"
+
+#: inc/customizer/customizer-settings/home/arilewp-home-team-customizer-settings.php:28
+msgid "Team Options"
+msgstr "Tùy chọn đội"
+
+#: inc/customizer/arilewp-customizer-options.php:387
+#: inc/customizer/customizer-settings/theme-settings/arilewp-forntpage-section-ordering-customizer-settings.php:55
+msgid "Testimonial"
+msgstr "Lời chứng thực"
+
+#: inc/customizer/customizer-settings/home/arilewp-home-testimonial-customizer-settings.php:167
+msgid "Testimonial Area Before After Content"
+msgstr "Khu vực chứng thực trước sau nội dung"
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-service-template-customizer-settings.php:62
+msgid "Testimonial Enable/Disable"
+msgstr "Bật / Tắt lời chứng thực"
+
+#: inc/customizer/arilewp-customizer-options.php:400
+msgid "Testimonial Item"
+msgstr "Mục chứng thực"
+
+#: inc/customizer/arilewp-customizer-options.php:397
+msgid "Testimonial Items content"
+msgstr "Nội dung mục chứng thực"
+
+#: inc/customizer/customizer-settings/home/arilewp-home-testimonial-customizer-settings.php:57
+msgid "Testimonial Layout"
+msgstr "Giao diện chứng thực"
+
+#: inc/customizer/customizer-settings/home/arilewp-home-testimonial-customizer-settings.php:28
+msgid "Testimonial Options"
+msgstr "Tùy chọn chứng thực"
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:96
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:215
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:332
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:443
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:549
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:656
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:762
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:867
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:973
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:1094
+msgid "Text Transform"
+msgstr "Chuyển đổi văn bản"
+
+#: inc/customizer/arilewp-panels-and-sections.php:198
+msgid "Theme Color Scheme"
+msgstr "Phối màu chủ đề"
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-theme-color-scheme-customizer-settings.php:103
+msgid "Theme Color Skins"
+msgstr "Skins màu chủ đề"
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-header-customizer-settings.php:29
+msgid "Theme Header "
+msgstr "Tiêu đề chủ đề "
+
+#: inc/customizer/arilewp-customizer-options.php:135
+msgid "Theme Info Area"
+msgstr "Khu vực thông tin chủ đề"
+
+#: inc/customizer/customizer-settings/home/arilewp-home-theme-info-customizer-settings.php:29
+msgid "Theme Info Area Options"
+msgstr "Thông tin chủ đề Tùy chọn khu vực"
+
+#: inc/customizer/arilewp-panels-and-sections.php:12
+msgid "Theme Options"
+msgstr "Tùy chọn chủ đề"
+
+#. Author of the theme
+msgid "ThemeArile"
+msgstr "ThemeArile"
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:54
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:173
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:290
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:401
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:507
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:614
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:720
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:825
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:931
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:1052
+msgid "Thin 100"
+msgstr "Mỏng 100"
+
+#: comments.php:20
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr ""
+"Bài đăng này được bảo vệ bằng mật khẩu. Nhập mật khẩu để xem bất kỳ ý kiến."
+
+#: inc/customizer/arilewp-customizer-options.php:1081
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:256
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:405
+#: inc/customizer/customizer-settings/home/arilewp-home-client-customizer-settings.php:75
+#: inc/customizer/customizer-settings/theme-settings/arilewp-blog-general-customizer-settings.php:48
+#: inc/customizer/customizer-settings/theme-settings/arilewp-blog-grid-view-customizer-settings.php:48
+#: inc/customizer/customizer-settings/theme-settings/arilewp-contact-template-customizer-settings.php:151
+#: inc/customizer/customizer-settings/theme-settings/arilewp-list-view-blog-customizer-settings.php:49
+#: inc/customizer/customizer-settings/theme-settings/arilewp-masonry-blog-customizer-settings.php:50
+#: inc/customizer/customizer-settings/theme-settings/arilewp-portfolio-template-customizer-settings.php:46
+#: inc/customizer/customizer-settings/theme-settings/arilewp-portfolio-template-customizer-settings.php:115
+msgid "Title"
+msgstr "Tiêu đề"
+
+#: inc/customizer/controls/code/arilewp-customize-dimensions-control.php:129
+msgid "Top"
+msgstr "Hàng đầu"
+
+#: inc/customizer/customizer-settings/home/arilewp-home-site-top-header-customizer-settings.php:29
+msgid "Top Header Options"
+msgstr "Tùy chọn tiêu đề hàng đầu"
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-header-customizer-settings.php:47
+msgid "Transparent Header"
+msgstr "Tiêu đề trong suốt"
+
+#: inc/customizer/arilewp-customizer-options.php:49
+msgid "Transparent Header Logo"
+msgstr "Logo tiêu đề trong suốt"
+
+#: template-parts/index-siteinfo.php:57
+#: inc/customizer/arilewp-customizer-default.php:150
+msgid "Trusted Services"
+msgstr "Dịch vụ đáng tin cậy"
+
+#: inc/customizer/arilewp-panels-and-sections.php:115
+msgid "Typography"
+msgstr "Kiểu chữ"
+
+#: page-templates/about-one.php:241 page-templates/about-two.php:250
+#: template-parts/index-team.php:204 template-parts/index-team.php:263
+msgid "UI Developer"
+msgstr "Nhà phát triển giao diện người dùng"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:560
+msgid "Upload Image"
+msgstr "Tải lên hình ảnh"
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:102
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:221
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:338
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:449
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:555
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:662
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:768
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:873
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:979
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:1100
+msgid "Uppercase"
+msgstr "Chữ hoa"
+
+#: inc/customizer/customizer-settings/home/arilewp-home-cta-customizer-settings.php:83
+msgid "Video Enable/Disable"
+msgstr "Bật / Tắt video"
+
+#: inc/customizer/arilewp-customizer-options.php:1137
+msgid "Video Text"
+msgstr "Văn bản video"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:309
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:455
+msgid "Video Url"
+msgstr "Video Url"
+
+#: inc/custom-post.php:15
+msgid "View Link"
+msgstr "Xem liên kết"
+
+#: template-parts/index-siteinfo.php:58
+#: inc/customizer/arilewp-customizer-default.php:151
+msgid "We are trusted our customers"
+msgstr "Chúng tôi tin tưởng khách hàng của chúng tôi"
+
+#: inc/customizer/arilewp-customizer-default.php:121
+msgid "We are very happy to present to you"
+msgstr "Chúng tôi rất vui mừng được giới thiệu với bạn"
+
+#: template-parts/index-slider.php:97
+msgid "We Are Very Happy to Present to You ArileWP"
+msgstr "Chúng tôi rất vui mừng được giới thiệu với bạn ArileWP"
+
+#: template-parts/index-slider.php:68 template-parts/index-slider.php:83
+#: template-parts/index-slider.php:98
+#: inc/customizer/arilewp-customizer-default.php:102
+#: inc/customizer/arilewp-customizer-default.php:112
+#: inc/customizer/arilewp-customizer-default.php:122
+msgid ""
+"We are very happy to present to you ArileWP, the powerful and flexible multi-"
+"purpose WordPress theme. Not only does ArileWP outstand with many new "
+"features but suitable for all creatives and businesses. Join 2500+ customers."
+msgstr ""
+"Chúng tôi rất vui mừng được giới thiệu với bạn ArileWP, chủ đề WordPress đa "
+"năng mạnh mẽ và linh hoạt. ArileWP không chỉ nổi bật với nhiều tính năng mới "
+"mà còn phù hợp với mọi doanh nghiệp và doanh nghiệp. Tham gia hơn 2500 khách "
+"hàng."
+
+#: template-parts/index-slider.php:67
+#: inc/customizer/arilewp-customizer-default.php:101
+msgid "We Create Amazing WordPress Themes"
+msgstr "Chúng tôi tạo chủ đề WordPress tuyệt vời"
+
+#: template-parts/index-siteinfo.php:75
+#: inc/customizer/arilewp-customizer-default.php:166
+msgid "Well Experienced"
+msgstr "Có kinh nghiệm"
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:1034
+msgid "Widget Title"
+msgstr "Tên tiện ích"
+
+#: inc/customizer/arilewp-panels-and-sections.php:180
+msgid "Widgets"
+msgstr "Widgets"
+
+#: page-templates/service-one.php:151 page-templates/service-two.php:150
+#: template-parts/index-service.php:138
+#: inc/customizer/arilewp-customizer-default.php:200
+msgid "WooCommerce Ready"
+msgstr "WooCommerce Ready"
+
+#: inc/customizer/arilewp-customizer-options.php:467
+#: inc/customizer/customizer-settings/theme-settings/arilewp-forntpage-section-ordering-customizer-settings.php:56
+msgid "WooCommerce Shop"
+msgstr "Cửa hàng thương mại WooC"
+
+#: functions.php:118
+msgid "WooCommerce Sidebar"
+msgstr "Thanh bên WooC Commerce"
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:236
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:353
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:464
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:570
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:677
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:783
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:888
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:994
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:1115
+msgid "You can enter font size in px or rem"
+msgstr "Bạn có thể nhập cỡ chữ trong px hoặc rem"
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:116
+msgid "You can enter size in px or rem "
+msgstr "Bạn có thể nhập kích thước trong px hoặc rem "
+
+#: inc/customizer/arilewp-customizer-options.php:35
+msgid "You can Upload the Standrad size of logo (210px*39px)"
+msgstr "Bạn có thể Tải lên kích thước chuẩn của logo (210px * 39px)"
+
+#. %1$s %2$s: logged in
+#: comments.php:48
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment"
+msgstr "Bạn phải <a href=\"%s\">đăng nhập</a> để viết bình luận"
+
+#: inc/template-functions.php:119
+msgid "Your comment is awaiting moderation."
+msgstr "Bình luận của bạn đang chờ kiểm duyệt."

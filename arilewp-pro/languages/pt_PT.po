@@ -1,0 +1,2377 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ArileWP Pro\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-01-25 16:50+0530\n"
+"PO-Revision-Date: 2020-01-29 17:16+0530\n"
+"Language-Team: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.3\n"
+"X-Loco-Version: 2.3.0; wp-5.3.2\n"
+"Last-Translator: \n"
+"Language: pt_PT\n"
+
+#: page-templates/service-one.php:352 page-templates/service-one.php:364
+#: page-templates/service-one.php:376 page-templates/service-two.php:361
+#: page-templates/service-two.php:377 page-templates/service-two.php:393
+#: template-parts/index-testimonial.php:140
+#: template-parts/index-testimonial.php:156
+#: template-parts/index-testimonial.php:172
+#: template-parts/index-testimonial.php:193
+#: template-parts/index-testimonial.php:205
+#: template-parts/index-testimonial.php:217
+msgid ""
+"\"You guys are legendary! You guys are great and having amazing support & "
+"service. I couldn’t ask for any better. Thank you!\""
+msgstr ""
+"\"Vocês são lendários! Vocês são ótimos e têm um suporte e serviço "
+"incríveis. Eu não poderia pedir melhor. Obrigado!\""
+
+#: comments.php:26
+#, php-format
+msgid "% comments"
+msgstr "% comentários"
+
+#: inc/template-functions.php:182
+#, php-format
+msgid "%1$s "
+msgstr "%1$s "
+
+#: inc/template-functions.php:161 inc/template-functions.php:163
+#: inc/template-functions.php:165 inc/template-functions.php:167
+#: inc/template-functions.php:169 inc/template-functions.php:171
+#: inc/template-functions.php:173 inc/template-functions.php:188
+#, php-format
+msgid "%1$s %2$s"
+msgstr "%1$s %2$s"
+
+#: comments.php:37
+msgid "&larr; Older Comments"
+msgstr "&larr; Comentários mais antigos"
+
+#: inc/customizer/customizer-page-editor/class/class-arilewp-page-editor.php:76
+msgid "(Edit)"
+msgstr "(Editar)"
+
+#: template-parts/contact-info.php:55 template-parts/site-header.php:49
+#: inc/customizer/arilewp-customizer-default.php:494
+msgid "+14 1-800-1234-567"
+msgstr "+14 1-800-1234-567"
+
+#: template-parts/index-siteinfo.php:67
+msgid "014 1547 925 - 123 4567 890"
+msgstr "014 1547 925 - 123 4567 890"
+
+#: page-templates/about-one.php:112 page-templates/about-two.php:371
+#: page-templates/service-one.php:247 page-templates/service-two.php:254
+#: template-parts/index-funfact.php:117 template-parts/index-funfact.php:121
+msgid "125"
+msgstr "125"
+
+#: page-templates/about-one.php:98 page-templates/about-two.php:353
+#: page-templates/service-one.php:233 page-templates/service-two.php:236
+#: template-parts/index-funfact.php:87 template-parts/index-funfact.php:91
+msgid "175"
+msgstr "175"
+
+#: template-parts/index-siteinfo.php:76
+#: inc/customizer/arilewp-customizer-default.php:167
+msgid "18 years of experience"
+msgstr "18 anos de experiência"
+
+#: template-parts/site-header.php:48
+#: inc/customizer/arilewp-customizer-default.php:10
+msgid "2130 Fulton Street, San Francisco, CA 94117-1080 USA"
+msgstr "2130 Fulton Street, São Francisco, CA 94117-1080 EUA"
+
+#: template-parts/contact-info.php:62
+msgid "2130 Fulton Street, San Francisco, USA"
+msgstr "2130 Fulton Street, São Francisco, EUA"
+
+#: template-parts/index-siteinfo.php:66
+#: inc/customizer/arilewp-customizer-default.php:158
+msgid "24/7 Support"
+msgstr "Suporte 24/7"
+
+#: inc/template-functions.php:182
+msgid "404"
+msgstr "404"
+
+#: page-templates/about-one.php:91 page-templates/about-two.php:344
+#: page-templates/service-one.php:226 page-templates/service-two.php:227
+#: template-parts/index-funfact.php:72 template-parts/index-funfact.php:76
+msgid "507"
+msgstr "507"
+
+#: page-templates/about-one.php:105 page-templates/about-two.php:362
+#: page-templates/service-one.php:240 page-templates/service-two.php:245
+#: template-parts/index-funfact.php:102 template-parts/index-funfact.php:106
+msgid "98%"
+msgstr "98%"
+
+#: inc/customizer/arilewp-panels-and-sections.php:213
+msgid "About"
+msgstr "Sobre"
+
+#: inc/customizer/customizer-page-editor/class/class-arilewp-page-editor.php:60
+msgid "About background"
+msgstr "Sobre o plano de fundo"
+
+#. Name of the template
+msgid "About One"
+msgstr "Sobre um"
+
+#. Name of the template
+msgid "About Two"
+msgstr "Cerca de dois"
+
+#: inc/class-bootstrap-navwalker.php:207
+msgid "Add a menu"
+msgstr "Adicionar um menu"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:626
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:659
+msgid "Add Icon"
+msgstr "Adicionar ícone"
+
+#: inc/custom-post.php:10 inc/custom-post.php:12
+msgid "Add New"
+msgstr "Adicionar novo"
+
+#: inc/customizer/arilewp-customizer-options.php:737
+msgid "Add new client"
+msgstr "Adicionar novo cliente"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:33
+msgid "Add new field"
+msgstr "Adicionar novo campo"
+
+#: inc/customizer/arilewp-customizer-options.php:324
+msgid "Add new funfact"
+msgstr "Adicionar novo fato divertido"
+
+#: inc/customizer/arilewp-customizer-options.php:98
+msgid "Add new icon"
+msgstr "Adicionar novo ícone"
+
+#: inc/customizer/arilewp-customizer-options.php:82
+#: inc/customizer/arilewp-customizer-options.php:146
+#: inc/customizer/arilewp-customizer-options.php:796
+msgid "Add new info"
+msgstr "Adicionar nova informação"
+
+#: inc/customizer/arilewp-customizer-options.php:594
+msgid "Add new Member"
+msgstr "Adicionar novo membro"
+
+#: inc/custom-post.php:11
+msgid "Add New Project"
+msgstr "Adicionar novo projeto"
+
+#: inc/customizer/arilewp-customizer-options.php:172
+msgid "Add new Service"
+msgstr "Adicionar novo serviço"
+
+#: inc/customizer/arilewp-customizer-options.php:121
+msgid "Add new slide"
+msgstr "Adicionar novo slide"
+
+#: inc/customizer/arilewp-customizer-options.php:399
+msgid "Add new Testimonial"
+msgstr "Adicionar novo depoimento"
+
+#: functions.php:126
+msgid "Add widgets here."
+msgstr "Adicione widgets aqui."
+
+#: template-parts/contact-info.php:61
+#: inc/customizer/arilewp-customizer-default.php:501
+msgid "Address"
+msgstr "Endereço"
+
+#: inc/customizer/arilewp-customizer-options.php:218
+#: inc/customizer/arilewp-customizer-options.php:279
+#: inc/customizer/arilewp-customizer-options.php:365
+#: inc/customizer/arilewp-customizer-options.php:443
+#: inc/customizer/arilewp-customizer-options.php:505
+#: inc/customizer/arilewp-customizer-options.php:569
+#: inc/customizer/arilewp-customizer-options.php:642
+#: inc/customizer/arilewp-customizer-options.php:711
+#: inc/customizer/arilewp-customizer-options.php:780
+msgid "After Content"
+msgstr "Após o conteúdo"
+
+#: inc/template-functions.php:167
+msgid "All posts by"
+msgstr "Todas as mensagens de"
+
+#: inc/custom-post.php:14
+msgid "All Projects"
+msgstr "Todos os Projetos"
+
+#: inc/customizer/customizer-settings/home/arilewp-home-client-customizer-settings.php:155
+#: inc/customizer/customizer-settings/home/arilewp-home-project-customizer-settings.php:96
+#: inc/customizer/customizer-settings/home/arilewp-home-slider-customizer-settings.php:125
+#: inc/customizer/customizer-settings/home/arilewp-home-team-customizer-settings.php:96
+#: inc/customizer/customizer-settings/home/arilewp-home-testimonial-customizer-settings.php:99
+#: inc/customizer/customizer-settings/home/arilewp-home-wooshop-customizer-settings.php:77
+msgid "Animation Speed"
+msgstr "Velocidade da animação"
+
+#: inc/customizer/customizer-settings/home/arilewp-home-slider-customizer-settings.php:105
+msgid "Animation type"
+msgstr "Tipo de animação"
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-blog-general-customizer-settings.php:89
+msgid "Archive Blog Pages"
+msgstr "Arquivar páginas do blog"
+
+#: inc/template-functions.php:239
+msgid "Archive by category"
+msgstr "Arquivar por categoria"
+
+#: inc/template-functions.php:161 inc/template-functions.php:163
+#: inc/template-functions.php:165
+msgid "Archives"
+msgstr "Arquivos"
+
+#. Description of the theme
+msgid ""
+"ArileWP is a powerful, modern and professional multipurpose WordPress theme "
+"with pixel perfect design and outstanding functionality. As well as "
+"sophisticated plus it has some exotic features like customization and clean "
+"code, advanced typography, sticky menu, logo upload, header image, Bootstrap "
+"4 framework, built with SEO in mind, and theme info area besides being "
+"Mobile ready, translation ready (WPML, Polylang) and it's built to be "
+"beautiful on all screen sizes. The theme perfectly suited for business, "
+"consultant, finance, corporate, freelancer, agency, business promotion, "
+"electrician, industries, education, SEO, construction, fashion, online shop, "
+"health &amp; medical, Beauty &amp; spa salons, wedding, photography, gym, "
+"cafe, music, architecture, lawyer, restaurant, hotel, blog, magazine, travel "
+"agency and many other websites compatible. This theme supports the best "
+"Elementor page builder to create, edit and updates page designs as per the "
+"requirement. ArileWP also supports popular free and premium WordPress "
+"plugins such as Elementor, Yoast SEO, WooCommerce, Contact Form 7, Jetpack, "
+"Google Analytics and much more."
+msgstr ""
+"O ArileWP é um tema WordPress multiuso poderoso, moderno e profissional, com "
+"design perfeito para pixels e excelente funcionalidade. Além de sofisticado, "
+"possui alguns recursos exóticos, como personalização e código limpo, "
+"tipografia avançada, menu fixo, upload de logotipo, imagem de cabeçalho, "
+"estrutura do Bootstrap 4, construída com o SEO em mente e área de "
+"informações sobre o tema, além de estar pronto para celular, pronto para "
+"tradução ( WPML, Polylang) e foi desenvolvido para ser bonito em todos os "
+"tamanhos de tela. O tema é perfeitamente adequado para negócios, consultor, "
+"finanças, corporativo, freelancer, agência, promoção de negócios, "
+"eletricista, indústrias, educação, SEO, construção, moda, loja on-line, "
+"saúde e amp; médico, Beleza & amp; salões de spa, casamento, fotografia, "
+"academia, café, música, arquitetura, advogado, restaurante, hotel, blog, "
+"revista, agência de viagens e muitos outros sites compatíveis. Este tema "
+"suporta o melhor construtor de páginas Elementor para criar, editar e "
+"atualizar designs de página, conforme o requisito. O ArileWP também suporta "
+"plugins populares gratuitos e premium do WordPress, como Elementor, Yoast "
+"SEO, WooCommerce, Formulário de contato 7, Jetpack, Google Analytics e muito "
+"mais."
+
+#. Name of the theme
+msgid "ArileWP Pro"
+msgstr "ArileWP Pro"
+
+#: inc/template-functions.php:111
+msgid "at"
+msgstr "às"
+
+#: inc/customizer/controls/code/arilewp-customize-background-control.php:135
+msgid "Auto"
+msgstr "Auto"
+
+#: inc/customizer/controls/code/arilewp-customize-background-control.php:142
+msgid "Background Attachment"
+msgstr "Anexo em segundo plano"
+
+#: inc/customizer/controls/code/arilewp-customize-background-control.php:42
+#: inc/customizer/customizer-settings/home/arilewp-home-site-top-header-customizer-settings.php:81
+msgid "Background Color"
+msgstr "Cor de fundo"
+
+#: inc/customizer/customizer-settings/home/arilewp-home-theme-info-customizer-settings.php:74
+#: inc/customizer/customizer-settings/theme-settings/arilewp-page-header-customizer-settings.php:60
+msgid "Background color"
+msgstr "Cor de fundo"
+
+#: inc/customizer/arilewp-customizer-options.php:379
+#: inc/customizer/arilewp-customizer-options.php:457
+#: inc/customizer/arilewp-customizer-options.php:529
+#: inc/customizer/controls/code/arilewp-customize-background-control.php:49
+msgid "Background Image"
+msgstr "Imagem de fundo"
+
+#: inc/customizer/controls/code/arilewp-customize-background-control.php:86
+msgid "Background Position"
+msgstr "Posição de fundo"
+
+#: inc/customizer/controls/code/arilewp-customize-background-control.php:67
+msgid "Background Repeat"
+msgstr "Fundo de repetição"
+
+#: inc/customizer/controls/code/arilewp-customize-background-control.php:120
+msgid "Background Size"
+msgstr "Tamanho do plano de fundo"
+
+#: inc/customizer/customizer-settings/home/arilewp-home-cta-customizer-settings.php:111
+msgid "Background image overlay color"
+msgstr "Cor da sobreposição da imagem de fundo"
+
+#: inc/customizer/arilewp-panels-and-sections.php:128
+msgid "Base Typography"
+msgstr "Tipografia de Base"
+
+#: inc/customizer/arilewp-customizer-options.php:197
+#: inc/customizer/arilewp-customizer-options.php:258
+#: inc/customizer/arilewp-customizer-options.php:344
+#: inc/customizer/arilewp-customizer-options.php:422
+#: inc/customizer/arilewp-customizer-options.php:484
+#: inc/customizer/arilewp-customizer-options.php:548
+#: inc/customizer/arilewp-customizer-options.php:621
+#: inc/customizer/arilewp-customizer-options.php:690
+#: inc/customizer/arilewp-customizer-options.php:759
+msgid "Before Content"
+msgstr "Antes do conteúdo"
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-blog-grid-view-customizer-settings.php:43
+msgid "Below options apply for grid view templates."
+msgstr "As opções abaixo se aplicam aos modelos de exibição em grade."
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-list-view-blog-customizer-settings.php:44
+msgid "Below options apply for list view templates."
+msgstr "As opções abaixo se aplicam aos modelos de exibição de lista."
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-masonry-blog-customizer-settings.php:45
+msgid "Below options apply for masonry layout templates."
+msgstr "As opções abaixo se aplicam aos modelos de layout de alvenaria."
+
+#: template-parts/index-slider.php:82
+#: inc/customizer/arilewp-customizer-default.php:111
+msgid "Best Digital Marketing Solutions"
+msgstr "Melhores soluções de marketing digital"
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:62
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:181
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:298
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:409
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:515
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:622
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:728
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:833
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:939
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:1060
+msgid "Black 900"
+msgstr "Black 900"
+
+#: inc/template-functions.php:65
+#: inc/customizer/arilewp-customizer-options.php:654
+#: inc/customizer/arilewp-panels-and-sections.php:38
+#: inc/customizer/customizer-settings/theme-settings/arilewp-forntpage-section-ordering-customizer-settings.php:59
+msgid "Blog"
+msgstr "Blog"
+
+#: inc/customizer/customizer-settings/home/arilewp-home-blog-customizer-settings.php:178
+msgid "Blog Area Before After Content"
+msgstr "Área do blog Antes do conteúdo"
+
+#: inc/customizer/arilewp-customizer-options.php:662
+msgid "Blog Category"
+msgstr "Categoria do blog"
+
+#. Name of the template
+msgid "Blog Full Width"
+msgstr "Largura total do blog"
+
+#. Name of the template
+msgid "Blog Grid View Left Sidebar"
+msgstr "Exibição em grade do blog Barra lateral esquerda"
+
+#. Name of the template
+msgid "Blog Grid View No Sidebar"
+msgstr "Visualização da Grade do Blog Sem Barra Lateral"
+
+#. Name of the template
+msgid "Blog Grid View Right Sidebar"
+msgstr "Visualização em grade do blog Barra lateral direita"
+
+#: inc/customizer/customizer-settings/home/arilewp-home-blog-customizer-settings.php:57
+msgid "Blog Layout"
+msgstr "Layout do blog"
+
+#. Name of the template
+msgid "Blog Left Sidebar"
+msgstr "Barra lateral esquerda do blog"
+
+#. Name of the template
+msgid "Blog List View Left Sidebar"
+msgstr "Visualização da lista de blogs na barra lateral esquerda"
+
+#. Name of the template
+msgid "Blog List View No Sidebar"
+msgstr "Exibição de lista de blogs sem barra lateral"
+
+#. Name of the template
+msgid "Blog List View Right Sidebar"
+msgstr "Exibição da lista de blogs Barra lateral direita"
+
+#. Name of the template
+msgid "Blog Masonry 2 Column"
+msgstr "Coluna de alvenaria 2 do blog"
+
+#. Name of the template
+msgid "Blog Masonry 3 Column"
+msgstr "Coluna de alvenaria 3 do blog"
+
+#. Name of the template
+msgid "Blog Masonry 4 Column"
+msgstr "Coluna de alvenaria 4 do blog"
+
+#: inc/customizer/customizer-settings/home/arilewp-home-blog-customizer-settings.php:28
+msgid "Blog Options"
+msgstr "Opções de blog"
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-blog-general-customizer-settings.php:59
+msgid "Blog Pages"
+msgstr "Páginas do blog"
+
+#. Name of the template
+msgid "Blog Right Sidebar"
+msgstr "Barra lateral direita do blog"
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-blog-general-customizer-settings.php:26
+msgid "Blog/Archive/Single"
+msgstr "Blog / Arquivo / Single"
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:60
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:179
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:296
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:407
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:513
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:620
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:726
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:831
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:937
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:1058
+msgid "Bold 700"
+msgstr "Negrito 700"
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:56
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:175
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:292
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:403
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:509
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:616
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:722
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:827
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:933
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:1054
+msgid "Book 300"
+msgstr "Livro 300"
+
+#: inc/customizer/controls/code/arilewp-customize-dimensions-control.php:131
+msgid "Bottom"
+msgstr "Inferior"
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-page-header-customizer-settings.php:157
+msgid "Breadcrumb Separator"
+msgstr "Separador de migalhas de pão"
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-page-header-customizer-settings.php:131
+msgid "Breadcrumbs"
+msgstr "Migalhas de pão"
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-page-header-customizer-settings.php:144
+msgid "Breadcrumbs Enable/Disable"
+msgstr "Breadcrumbs Ativar / Desativar"
+
+#. Name of the template
+msgid "Builder Page"
+msgstr "Página do Construtor"
+
+#: page-templates/about-one.php:104 page-templates/about-two.php:363
+#: page-templates/service-one.php:239 page-templates/service-two.php:246
+#: template-parts/index-funfact.php:101 template-parts/index-funfact.php:107
+#: inc/customizer/arilewp-customizer-default.php:247
+msgid "Business Growth"
+msgstr "O crescimento do negócio"
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-menu-bar-customizer-settings.php:132
+msgid "Button Enable/Disable"
+msgstr "Botão Ativar / Desativar"
+
+#: inc/customizer/customizer-settings/home/arilewp-home-blog-customizer-settings.php:109
+#: inc/customizer/customizer-settings/home/arilewp-home-cta-customizer-settings.php:56
+#: inc/customizer/customizer-settings/theme-settings/arilewp-menu-bar-customizer-settings.php:167
+msgid "Button Link"
+msgstr "Botão de link"
+
+#: inc/customizer/arilewp-customizer-options.php:1123
+#: inc/customizer/arilewp-customizer-options.php:1212
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:279
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:427
+#: inc/customizer/customizer-settings/theme-settings/arilewp-menu-bar-customizer-settings.php:146
+msgid "Button Text"
+msgstr "Botão de texto"
+
+#: template-parts/content-single.php:37 template-parts/content.php:38
+#: template-parts/contentlist.php:39 template-parts/index-blog.php:76
+msgid "by "
+msgstr "por "
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-forntpage-section-ordering-customizer-settings.php:57
+msgid "Call to Action"
+msgstr "Apelo à ação"
+
+#: inc/customizer/arilewp-customizer-options.php:519
+msgid "Call to action"
+msgstr "Apelo à ação"
+
+#: inc/customizer/customizer-settings/home/arilewp-home-cta-customizer-settings.php:144
+msgid "Call to Action Area Before After Content"
+msgstr "Área de Chamada à Ação Antes Depois do Conteúdo"
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-about-template-customizer-settings.php:89
+#: inc/customizer/customizer-settings/theme-settings/arilewp-service-template-customizer-settings.php:88
+msgid "Call to Action Enable/Disable"
+msgstr "Ativar / Desativar chamada à ação"
+
+#: inc/customizer/customizer-settings/home/arilewp-home-cta-customizer-settings.php:28
+msgid "Call to Action Options"
+msgstr "Opções de apelo à ação"
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:100
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:219
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:336
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:447
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:553
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:660
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:766
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:871
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:977
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:1098
+msgid "Capitalize"
+msgstr "Capitalizar"
+
+#: inc/customizer/customizer-settings/home/arilewp-home-slider-customizer-settings.php:57
+msgid "Caption Layout"
+msgstr "Layout da legenda"
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-menu-bar-customizer-settings.php:106
+msgid "Cart Icon Enable/Disable"
+msgstr "Ícone do carrinho Ativar / Desativar"
+
+#: inc/template-functions.php:169
+msgid "Category"
+msgstr "Categoria"
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-portfolio-template-customizer-settings.php:73
+msgid "Category Bar Enable/Disable"
+msgstr "Barra de categoria Ativar / Desativar"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:581
+msgid "Center"
+msgstr "Centro"
+
+#: inc/customizer/controls/code/arilewp-customize-background-control.php:114
+msgid "Center Bottom"
+msgstr "Parte inferior central"
+
+#: inc/customizer/controls/code/arilewp-customize-background-control.php:111
+msgid "Center Center"
+msgstr "Center Center"
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-header-customizer-settings.php:48
+msgid "Center Logo Header"
+msgstr "Cabeçalho do logotipo do centro"
+
+#: inc/customizer/controls/code/arilewp-customize-background-control.php:108
+msgid "Center Top"
+msgstr "Topo central"
+
+#: template-parts/index-slider.php:70 template-parts/index-slider.php:85
+#: template-parts/index-slider.php:100
+#: inc/customizer/arilewp-customizer-default.php:103
+#: inc/customizer/arilewp-customizer-default.php:113
+#: inc/customizer/arilewp-customizer-default.php:123
+msgid "Check it out"
+msgstr "Confira"
+
+#: inc/customizer/arilewp-customizer-options.php:239
+msgid "Choose Project Category for Layout One"
+msgstr "Escolha a categoria do projeto para o layout um"
+
+#: inc/metabox.php:41
+msgid "Choose Sidebar Template for the Default Page Templates"
+msgstr "Escolha Modelo da barra lateral para os modelos de página padrão"
+
+#: inc/customizer/arilewp-customizer-options.php:296
+msgid "Click to Add Project"
+msgstr "Clique para adicionar projeto"
+
+#: inc/customizer/arilewp-customizer-options.php:724
+#: inc/customizer/arilewp-customizer-options.php:738
+#: inc/customizer/customizer-settings/theme-settings/arilewp-forntpage-section-ordering-customizer-settings.php:60
+msgid "Client"
+msgstr "Cliente"
+
+#: inc/customizer/customizer-settings/home/arilewp-home-client-customizer-settings.php:245
+msgid "Client Area Before After Content"
+msgstr "Área do Cliente Antes Depois do Conteúdo"
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-about-template-customizer-settings.php:76
+#: inc/customizer/customizer-settings/theme-settings/arilewp-service-template-customizer-settings.php:75
+msgid "Client Enable/Disable"
+msgstr "Ativar / desativar cliente"
+
+#: inc/customizer/customizer-settings/home/arilewp-home-client-customizer-settings.php:57
+msgid "Client Layout"
+msgstr "Layout do cliente"
+
+#: inc/customizer/customizer-settings/home/arilewp-home-client-customizer-settings.php:28
+msgid "Client Options"
+msgstr "Opções do Cliente"
+
+#: inc/customizer/arilewp-customizer-options.php:735
+msgid "Clients Content"
+msgstr "Conteúdo dos Clientes"
+
+#: page-templates/about-one.php:90 page-templates/about-two.php:345
+#: page-templates/service-one.php:225 page-templates/service-two.php:228
+#: template-parts/index-funfact.php:71 template-parts/index-funfact.php:77
+#: inc/customizer/arilewp-customizer-default.php:235
+msgid "Coffee Cups"
+msgstr "Xícaras de café"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:333
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:397
+msgid "Color"
+msgstr "Cor"
+
+#: inc/customizer/customizer-settings/home/arilewp-home-blog-customizer-settings.php:136
+#: inc/customizer/customizer-settings/home/arilewp-home-client-customizer-settings.php:96
+#: inc/customizer/customizer-settings/home/arilewp-home-client-customizer-settings.php:125
+#: inc/customizer/customizer-settings/home/arilewp-home-funfact-customizer-settings.php:88
+#: inc/customizer/customizer-settings/home/arilewp-home-project-customizer-settings.php:74
+#: inc/customizer/customizer-settings/home/arilewp-home-service-customizer-settings.php:77
+#: inc/customizer/customizer-settings/home/arilewp-home-team-customizer-settings.php:74
+#: inc/customizer/customizer-settings/home/arilewp-home-testimonial-customizer-settings.php:75
+#: inc/customizer/customizer-settings/home/arilewp-home-theme-info-customizer-settings.php:55
+#: inc/customizer/customizer-settings/home/arilewp-home-wooshop-customizer-settings.php:55
+#: inc/customizer/customizer-settings/theme-settings/arilewp-blog-grid-view-customizer-settings.php:61
+#: inc/customizer/customizer-settings/theme-settings/arilewp-contact-template-customizer-settings.php:60
+#: inc/customizer/customizer-settings/theme-settings/arilewp-portfolio-template-customizer-settings.php:142
+msgid "Column Layout"
+msgstr "Layout da coluna"
+
+#: comments.php:63
+msgid "Comment"
+msgstr "Comente"
+
+#: comments.php:36
+msgid "Comment navigation"
+msgstr "Navegação de comentários"
+
+#: inc/customizer/arilewp-panels-and-sections.php:231
+msgid "Contact"
+msgstr "Contato"
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-contact-template-customizer-settings.php:125
+msgid "Contact Form"
+msgstr "Formulário de Contato"
+
+#: inc/customizer/arilewp-customizer-options.php:797
+msgid "Contact Info"
+msgstr "Informações para contato"
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-contact-template-customizer-settings.php:34
+msgid "Contact Info Area"
+msgstr "Área de Informações de Contato"
+
+#: inc/customizer/arilewp-customizer-options.php:794
+msgid "Contact Info Content"
+msgstr "Conteúdo das informações de contato"
+
+#. Name of the template
+msgid "Contact One"
+msgstr "Contate um"
+
+#. Name of the template
+msgid "Contact Two"
+msgstr "Contato dois"
+
+#: inc/customizer/controls/code/arilewp-customize-background-control.php:130
+msgid "Contain"
+msgstr "Conter"
+
+#: inc/metabox.php:105
+#: inc/customizer/customizer-settings/home/arilewp-home-blog-customizer-settings.php:166
+#: inc/customizer/customizer-settings/home/arilewp-home-client-customizer-settings.php:233
+#: inc/customizer/customizer-settings/home/arilewp-home-cta-customizer-settings.php:132
+#: inc/customizer/customizer-settings/home/arilewp-home-funfact-customizer-settings.php:112
+#: inc/customizer/customizer-settings/home/arilewp-home-project-customizer-settings.php:174
+#: inc/customizer/customizer-settings/home/arilewp-home-service-customizer-settings.php:101
+#: inc/customizer/customizer-settings/home/arilewp-home-site-top-header-customizer-settings.php:117
+#: inc/customizer/customizer-settings/home/arilewp-home-team-customizer-settings.php:153
+#: inc/customizer/customizer-settings/home/arilewp-home-testimonial-customizer-settings.php:156
+#: inc/customizer/customizer-settings/home/arilewp-home-wooshop-customizer-settings.php:133
+#: inc/customizer/customizer-settings/theme-settings/arilewp-blog-general-customizer-settings.php:76
+#: inc/customizer/customizer-settings/theme-settings/arilewp-blog-general-customizer-settings.php:127
+#: inc/customizer/customizer-settings/theme-settings/arilewp-blog-general-customizer-settings.php:175
+#: inc/customizer/customizer-settings/theme-settings/arilewp-blog-grid-view-customizer-settings.php:85
+#: inc/customizer/customizer-settings/theme-settings/arilewp-footer-widget-customizer-settings.php:85
+#: inc/customizer/customizer-settings/theme-settings/arilewp-list-view-blog-customizer-settings.php:67
+#: inc/customizer/customizer-settings/theme-settings/arilewp-masonry-blog-customizer-settings.php:67
+#: inc/customizer/customizer-settings/theme-settings/arilewp-menu-bar-customizer-settings.php:64
+#: inc/customizer/customizer-settings/theme-settings/arilewp-page-header-customizer-settings.php:100
+#: inc/customizer/customizer-settings/theme-settings/arilewp-portfolio-template-customizer-settings.php:90
+#: inc/customizer/customizer-settings/theme-settings/arilewp-portfolio-template-customizer-settings.php:165
+msgid "Container"
+msgstr "Recipiente"
+
+#: inc/metabox.php:109
+#: inc/customizer/customizer-settings/home/arilewp-home-blog-customizer-settings.php:167
+#: inc/customizer/customizer-settings/home/arilewp-home-client-customizer-settings.php:234
+#: inc/customizer/customizer-settings/home/arilewp-home-cta-customizer-settings.php:133
+#: inc/customizer/customizer-settings/home/arilewp-home-funfact-customizer-settings.php:113
+#: inc/customizer/customizer-settings/home/arilewp-home-project-customizer-settings.php:175
+#: inc/customizer/customizer-settings/home/arilewp-home-service-customizer-settings.php:102
+#: inc/customizer/customizer-settings/home/arilewp-home-site-top-header-customizer-settings.php:118
+#: inc/customizer/customizer-settings/home/arilewp-home-team-customizer-settings.php:154
+#: inc/customizer/customizer-settings/home/arilewp-home-testimonial-customizer-settings.php:157
+#: inc/customizer/customizer-settings/home/arilewp-home-wooshop-customizer-settings.php:134
+#: inc/customizer/customizer-settings/theme-settings/arilewp-blog-general-customizer-settings.php:77
+#: inc/customizer/customizer-settings/theme-settings/arilewp-blog-general-customizer-settings.php:128
+#: inc/customizer/customizer-settings/theme-settings/arilewp-blog-general-customizer-settings.php:176
+#: inc/customizer/customizer-settings/theme-settings/arilewp-blog-grid-view-customizer-settings.php:86
+#: inc/customizer/customizer-settings/theme-settings/arilewp-footer-widget-customizer-settings.php:86
+#: inc/customizer/customizer-settings/theme-settings/arilewp-list-view-blog-customizer-settings.php:68
+#: inc/customizer/customizer-settings/theme-settings/arilewp-masonry-blog-customizer-settings.php:68
+#: inc/customizer/customizer-settings/theme-settings/arilewp-menu-bar-customizer-settings.php:65
+#: inc/customizer/customizer-settings/theme-settings/arilewp-page-header-customizer-settings.php:101
+#: inc/customizer/customizer-settings/theme-settings/arilewp-portfolio-template-customizer-settings.php:91
+#: inc/customizer/customizer-settings/theme-settings/arilewp-portfolio-template-customizer-settings.php:166
+msgid "Container Full"
+msgstr "Container Full"
+
+#: inc/metabox.php:97
+#: inc/customizer/customizer-settings/home/arilewp-home-blog-customizer-settings.php:163
+#: inc/customizer/customizer-settings/home/arilewp-home-client-customizer-settings.php:230
+#: inc/customizer/customizer-settings/home/arilewp-home-cta-customizer-settings.php:129
+#: inc/customizer/customizer-settings/home/arilewp-home-funfact-customizer-settings.php:109
+#: inc/customizer/customizer-settings/home/arilewp-home-project-customizer-settings.php:171
+#: inc/customizer/customizer-settings/home/arilewp-home-service-customizer-settings.php:98
+#: inc/customizer/customizer-settings/home/arilewp-home-site-top-header-customizer-settings.php:114
+#: inc/customizer/customizer-settings/home/arilewp-home-team-customizer-settings.php:150
+#: inc/customizer/customizer-settings/home/arilewp-home-testimonial-customizer-settings.php:153
+#: inc/customizer/customizer-settings/home/arilewp-home-wooshop-customizer-settings.php:130
+#: inc/customizer/customizer-settings/theme-settings/arilewp-blog-general-customizer-settings.php:73
+#: inc/customizer/customizer-settings/theme-settings/arilewp-blog-general-customizer-settings.php:124
+#: inc/customizer/customizer-settings/theme-settings/arilewp-blog-general-customizer-settings.php:172
+#: inc/customizer/customizer-settings/theme-settings/arilewp-blog-grid-view-customizer-settings.php:82
+#: inc/customizer/customizer-settings/theme-settings/arilewp-footer-widget-customizer-settings.php:82
+#: inc/customizer/customizer-settings/theme-settings/arilewp-list-view-blog-customizer-settings.php:64
+#: inc/customizer/customizer-settings/theme-settings/arilewp-masonry-blog-customizer-settings.php:64
+#: inc/customizer/customizer-settings/theme-settings/arilewp-menu-bar-customizer-settings.php:61
+#: inc/customizer/customizer-settings/theme-settings/arilewp-page-header-customizer-settings.php:97
+#: inc/customizer/customizer-settings/theme-settings/arilewp-portfolio-template-customizer-settings.php:87
+#: inc/customizer/customizer-settings/theme-settings/arilewp-portfolio-template-customizer-settings.php:162
+msgid "Container Width"
+msgstr "Largura do container"
+
+#: inc/customizer/arilewp-customizer-options.php:1228
+msgid "Copyright Text"
+msgstr "Texto de direitos autorais"
+
+#: inc/customizer/controls/code/arilewp-customize-background-control.php:125
+msgid "Cover"
+msgstr "Cobrir"
+
+#: inc/customizer/arilewp-customizer-default.php:254
+msgid "Cups of Coffee"
+msgstr "Copos de café"
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-theme-color-scheme-customizer-settings.php:64
+msgid "Custom Color"
+msgstr "Cor customizada"
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-theme-color-scheme-customizer-settings.php:77
+msgid "Custom Color Enable/Disable"
+msgstr "Ativar / desativar cores personalizadas"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:38
+msgid "Customizer Repeater"
+msgstr "Repetidor Personalizador"
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-footer-widget-customizer-settings.php:47
+msgid "Dark"
+msgstr "Sombria"
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:53
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:79
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:99
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:172
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:198
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:218
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:289
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:315
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:335
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:400
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:426
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:446
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:506
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:532
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:552
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:613
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:639
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:659
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:719
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:745
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:765
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:824
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:850
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:870
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:930
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:956
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:976
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:1051
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:1077
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:1097
+msgid "Default"
+msgstr "Padrão"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:367
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:486
+msgid "Delete field"
+msgstr "Excluir campo"
+
+#: inc/metabox.php:194 inc/metabox.php:195
+#: inc/customizer/arilewp-customizer-options.php:1109
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:270
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:419
+#: inc/customizer/customizer-settings/theme-settings/arilewp-portfolio-template-customizer-settings.php:59
+#: inc/customizer/customizer-settings/theme-settings/arilewp-portfolio-template-customizer-settings.php:128
+msgid "Description"
+msgstr "Descrição"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:351
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:475
+msgid "Designation"
+msgstr "Designação"
+
+#: inc/customizer/arilewp-customizer-default.php:354
+msgid "Developer"
+msgstr "Desenvolvedora"
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-forntpage-section-ordering-customizer-settings.php:48
+msgid "Drag & Drop items to re-arrange the order and"
+msgstr "Arraste e solte itens para reorganizar o pedido e"
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-blog-general-customizer-settings.php:44
+#: inc/customizer/customizer-settings/theme-settings/arilewp-blog-grid-view-customizer-settings.php:44
+#: inc/customizer/customizer-settings/theme-settings/arilewp-list-view-blog-customizer-settings.php:45
+#: inc/customizer/customizer-settings/theme-settings/arilewp-masonry-blog-customizer-settings.php:46
+msgid "Drag & Drop post items to re-arrange the order"
+msgstr "Arraste e solte itens da lista para reorganizar o pedido"
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:272
+msgid "Dropdown Menu"
+msgstr "Menu suspenso"
+
+#: comments.php:55 template-parts/contact-info.php:68
+#: inc/customizer/arilewp-customizer-default.php:509
+msgid "Email"
+msgstr "O email"
+
+#: inc/customizer/arilewp-panels-and-sections.php:121
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:32
+msgid "Enable Typography"
+msgstr "Ativar tipografia"
+
+#: inc/customizer/customizer-settings/home/arilewp-home-blog-customizer-settings.php:42
+#: inc/customizer/customizer-settings/home/arilewp-home-client-customizer-settings.php:42
+#: inc/customizer/customizer-settings/home/arilewp-home-cta-customizer-settings.php:42
+#: inc/customizer/customizer-settings/home/arilewp-home-funfact-customizer-settings.php:42
+#: inc/customizer/customizer-settings/home/arilewp-home-team-customizer-settings.php:42
+#: inc/customizer/customizer-settings/home/arilewp-home-testimonial-customizer-settings.php:42
+#: inc/customizer/customizer-settings/home/arilewp-home-theme-info-customizer-settings.php:42
+#: inc/customizer/customizer-settings/home/arilewp-home-wooshop-customizer-settings.php:42
+#: inc/customizer/customizer-settings/theme-settings/arilewp-contact-template-customizer-settings.php:47
+#: inc/customizer/customizer-settings/theme-settings/arilewp-contact-template-customizer-settings.php:90
+#: inc/customizer/customizer-settings/theme-settings/arilewp-contact-template-customizer-settings.php:138
+msgid "Enable/Disable"
+msgstr "Habilitar desabilitar"
+
+#: inc/customizer/customizer-settings/home/arilewp-home-cta-customizer-settings.php:98
+msgid "Enter a YouTube URL"
+msgstr "Digite um URL do YouTube"
+
+#: inc/template-functions.php:276
+msgid "Error 404"
+msgstr "Erro 404"
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:61
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:180
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:297
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:408
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:514
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:621
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:727
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:832
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:938
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:1059
+msgid "Extra Bold 800"
+msgstr "Extra Bold 800"
+
+#: inc/customizer/customizer-settings/home/arilewp-home-slider-customizer-settings.php:109
+msgid "Fade"
+msgstr "Desvaneça"
+
+#: page-templates/service-one.php:366 page-templates/service-two.php:385
+#: template-parts/index-testimonial.php:164
+#: template-parts/index-testimonial.php:207
+#: inc/customizer/arilewp-customizer-default.php:290
+msgid "Financer"
+msgstr "Financista"
+
+#: inc/customizer/controls/code/arilewp-customize-background-control.php:152
+msgid "Fixed"
+msgstr "Fixa"
+
+#: inc/customizer/arilewp-customizer-options.php:812
+#: inc/customizer/arilewp-customizer-options.php:826
+#: inc/customizer/arilewp-customizer-options.php:840
+#: inc/customizer/arilewp-customizer-options.php:853
+#: inc/customizer/arilewp-customizer-options.php:866
+#: inc/customizer/arilewp-customizer-options.php:879
+#: inc/customizer/arilewp-customizer-options.php:892
+#: inc/customizer/arilewp-customizer-options.php:905
+#: inc/customizer/arilewp-customizer-options.php:918
+#: inc/customizer/arilewp-customizer-options.php:931
+msgid "Font Family"
+msgstr "Família de fontes"
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:115
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:235
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:352
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:463
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:569
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:676
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:782
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:887
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:993
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:1114
+msgid "Font Size"
+msgstr "Tamanho da fonte"
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:76
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:195
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:312
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:423
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:529
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:636
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:742
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:847
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:953
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:1074
+msgid "Font Style"
+msgstr "Estilo de fonte"
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:49
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:169
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:286
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:397
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:503
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:610
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:716
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:821
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:927
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:1048
+msgid "Font Weight"
+msgstr "Espessura da fonte"
+
+#: inc/customizer/arilewp-panels-and-sections.php:84
+msgid "Footer"
+msgstr "Rodapé"
+
+#: inc/customizer/arilewp-panels-and-sections.php:97
+msgid "Footer Copyright"
+msgstr "Direitos autorais do rodapé"
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-footer-copyright-customizer-settings.php:29
+msgid "Footer Copyright Enable/Disable"
+msgstr "Ativar / desativar direitos autorais de rodapé"
+
+#: functions.php:114
+msgid "Footer Sidebar Four"
+msgstr "Rodapé Barra Lateral Quatro"
+
+#: functions.php:111
+msgid "Footer Sidebar One"
+msgstr "Rodapé da barra lateral um"
+
+#: functions.php:113
+msgid "Footer Sidebar Three"
+msgstr "Rodapé da barra lateral três"
+
+#: functions.php:112
+msgid "Footer Sidebar Two"
+msgstr "Rodapé da barra lateral dois"
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-footer-widget-customizer-settings.php:44
+msgid "Footer Style"
+msgstr "Estilo do rodapé"
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-footer-widget-customizer-settings.php:30
+msgid "Footer Widget Area Enable/Disable"
+msgstr "Área do widget do rodapé Ativar / Desativar"
+
+#: inc/customizer/arilewp-panels-and-sections.php:90
+msgid "Footer Widgets"
+msgstr "Widgets de rodapé"
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-footer-widget-customizer-settings.php:61
+msgid "Footer Widgets Layout"
+msgstr "Layout do widget do rodapé"
+
+#: page-templates/about-one.php:223 page-templates/about-two.php:225
+#: page-templates/service-one.php:354 page-templates/service-two.php:369
+#: template-parts/index-team.php:181 template-parts/index-team.php:246
+#: template-parts/index-testimonial.php:148
+#: template-parts/index-testimonial.php:195
+#: inc/customizer/arilewp-customizer-default.php:280
+#: inc/customizer/arilewp-customizer-default.php:323
+msgid "Founder"
+msgstr "Fundadora"
+
+#. Name of the template
+msgid "Frontpage"
+msgstr "Primeira página"
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-forntpage-section-ordering-customizer-settings.php:47
+msgid "Frontpage Section Order"
+msgstr "Ordem da seção da página inicial"
+
+#: inc/customizer/arilewp-panels-and-sections.php:190
+msgid "Frontpage Section Ordering"
+msgstr "Seção da Página Inicial"
+
+#: inc/customizer/arilewp-customizer-options.php:63
+msgid "Frontpage Sections"
+msgstr "Seções de Frontpage"
+
+#: inc/metabox.php:23
+msgid "Full Width"
+msgstr "Largura completa"
+
+#: inc/customizer/arilewp-customizer-options.php:311
+#: inc/customizer/customizer-settings/theme-settings/arilewp-forntpage-section-ordering-customizer-settings.php:54
+msgid "Funfact"
+msgstr "Fato engraçado"
+
+#: inc/customizer/customizer-settings/home/arilewp-home-funfact-customizer-settings.php:124
+msgid "Funfact Area Before After Content"
+msgstr "Área de fatos divertidos antes e depois do conteúdo"
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-about-template-customizer-settings.php:49
+#: inc/customizer/customizer-settings/theme-settings/arilewp-service-template-customizer-settings.php:49
+msgid "Funfact Enable/Disable"
+msgstr "Curiosidades Ativar / Desativar"
+
+#: inc/customizer/arilewp-customizer-options.php:325
+msgid "Funfact Item"
+msgstr "Item de curiosidades"
+
+#: inc/customizer/arilewp-customizer-options.php:321
+msgid "Funfact Items content"
+msgstr "Curiosidade Conteúdo dos itens"
+
+#: inc/customizer/customizer-settings/home/arilewp-home-funfact-customizer-settings.php:57
+msgid "Funfact Layout"
+msgstr "Layout de curiosidades"
+
+#: inc/customizer/customizer-settings/home/arilewp-home-funfact-customizer-settings.php:28
+msgid "Funfact Options"
+msgstr "Opções de Funfact"
+
+#: inc/customizer/arilewp-panels-and-sections.php:44
+msgid "General"
+msgstr "Geral"
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-blog-general-customizer-settings.php:43
+msgid "General Post"
+msgstr "Correio Geral"
+
+#: searchform.php:4
+msgid "Go"
+msgstr "Ir"
+
+#: 404.php:22
+msgid "Go Back Now"
+msgstr "Voltar agora"
+
+#: inc/customizer/controls/code/arilewp-customize-typography-control.php:50
+msgid "Google Fonts"
+msgstr "Fontes do Google"
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-contact-template-customizer-settings.php:77
+msgid "Google Map"
+msgstr "Google Map"
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-contact-template-customizer-settings.php:115
+msgid "Google Map Shortcode"
+msgstr "Código de acesso do Google Map"
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-blog-grid-view-customizer-settings.php:27
+msgid "Grid Layout"
+msgstr "Layout da grade"
+
+#: inc/customizer/arilewp-panels-and-sections.php:51
+msgid "Grid View"
+msgstr "Visualização em Grade"
+
+#: page-templates/about-one.php:111 page-templates/about-two.php:372
+#: page-templates/service-one.php:246 page-templates/service-two.php:255
+#: template-parts/index-funfact.php:116 template-parts/index-funfact.php:122
+msgid "Happy Clients"
+msgstr "Clientes Felizes"
+
+#: inc/customizer/arilewp-panels-and-sections.php:20
+msgid "Header"
+msgstr "Cabeçalho"
+
+#: inc/customizer/customizer-settings/home/arilewp-home-site-top-header-customizer-settings.php:42
+msgid "Header Enable/Disable"
+msgstr "Ativar / desativar cabeçalho"
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-header-customizer-settings.php:43
+msgid "Header Style"
+msgstr "Estilo do cabeçalho"
+
+#: inc/customizer/arilewp-panels-and-sections.php:142
+msgid "Headings H1"
+msgstr "Rubricas H1"
+
+#: inc/customizer/arilewp-panels-and-sections.php:148
+msgid "Headings H2"
+msgstr "Rubricas H2"
+
+#: inc/customizer/arilewp-panels-and-sections.php:154
+msgid "Headings H3"
+msgstr "Rubricas H3"
+
+#: inc/customizer/arilewp-panels-and-sections.php:160
+msgid "Headings H4"
+msgstr "Rubricas H4"
+
+#: inc/customizer/arilewp-panels-and-sections.php:166
+msgid "Headings H5"
+msgstr "Rubricas H5"
+
+#: inc/customizer/arilewp-panels-and-sections.php:172
+msgid "Headings H6"
+msgstr "Rubricas H6"
+
+#: inc/template-functions.php:65 inc/template-functions.php:234
+#: inc/template-functions.php:237
+msgid "Home"
+msgstr "Casa"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:540
+msgid "http://fontawesome.io/icons/"
+msgstr "http://fontawesome.io/icons/"
+
+#. Author URI of the theme
+msgid "https://themearile.com"
+msgstr "https://themearile.com"
+
+#. URI of the theme
+msgid "https://themearile.com/themes/arilewp-pro/"
+msgstr "https://themearile.com/themes/arilewp-pro/"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:534
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:594
+msgid "Icon"
+msgstr "Ícone"
+
+#: inc/customizer/customizer-settings/home/arilewp-home-site-top-header-customizer-settings.php:97
+msgid "Icon Color"
+msgstr "Cor do ícone"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:557
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:595
+msgid "Image"
+msgstr "Imagem"
+
+#: inc/customizer/customizer-settings/home/arilewp-home-slider-customizer-settings.php:87
+msgid "Image overlay color"
+msgstr "Cor da sobreposição da imagem"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:591
+msgid "Image type"
+msgstr "Tipo de imagem"
+
+#: inc/customizer/customizer-settings/home/arilewp-home-site-top-header-customizer-settings.php:55
+msgid "Info Enable/Disable"
+msgstr "Informações Ativar / Desativar"
+
+#: inc/customizer/arilewp-customizer-options.php:83
+#: inc/customizer/arilewp-customizer-options.php:147
+msgid "Info Item"
+msgstr "Item de informação"
+
+#: inc/customizer/arilewp-customizer-options.php:80
+#: inc/customizer/arilewp-customizer-options.php:144
+msgid "Info Items Content"
+msgstr "Info Itens Conteúdo"
+
+#: template-parts/contact-info.php:69 template-parts/site-header.php:50
+#: inc/customizer/arilewp-customizer-default.php:24
+msgid "info@arilewp.com"
+msgstr "info@arilewp.com"
+
+#: template-parts/content-none.php:42
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+"Parece que não conseguimos encontrar o que você está procurando. Talvez a "
+"pesquisa possa ajudar."
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:81
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:200
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:317
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:428
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:534
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:641
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:747
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:852
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:958
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:1079
+msgid "Italic"
+msgstr "Itálica"
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-blog-general-customizer-settings.php:103
+#: inc/customizer/customizer-settings/theme-settings/arilewp-blog-general-customizer-settings.php:152
+msgid "Layout"
+msgstr "Layout"
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-theme-color-scheme-customizer-settings.php:133
+msgid "Layout And Background"
+msgstr "Layout e plano de fundo"
+
+#: inc/customizer/customizer-settings/home/arilewp-home-blog-customizer-settings.php:60
+#: inc/customizer/customizer-settings/home/arilewp-home-client-customizer-settings.php:60
+#: inc/customizer/customizer-settings/home/arilewp-home-funfact-customizer-settings.php:60
+#: inc/customizer/customizer-settings/home/arilewp-home-project-customizer-settings.php:60
+#: inc/customizer/customizer-settings/home/arilewp-home-service-customizer-settings.php:62
+#: inc/customizer/customizer-settings/home/arilewp-home-slider-customizer-settings.php:60
+#: inc/customizer/customizer-settings/home/arilewp-home-team-customizer-settings.php:60
+#: inc/customizer/customizer-settings/home/arilewp-home-testimonial-customizer-settings.php:60
+msgid "Layout One"
+msgstr "Layout Um"
+
+#: inc/customizer/customizer-settings/home/arilewp-home-blog-customizer-settings.php:61
+#: inc/customizer/customizer-settings/home/arilewp-home-client-customizer-settings.php:61
+#: inc/customizer/customizer-settings/home/arilewp-home-funfact-customizer-settings.php:61
+#: inc/customizer/customizer-settings/home/arilewp-home-project-customizer-settings.php:61
+#: inc/customizer/customizer-settings/home/arilewp-home-service-customizer-settings.php:63
+#: inc/customizer/customizer-settings/home/arilewp-home-slider-customizer-settings.php:61
+#: inc/customizer/customizer-settings/home/arilewp-home-team-customizer-settings.php:61
+#: inc/customizer/customizer-settings/home/arilewp-home-testimonial-customizer-settings.php:61
+msgid "Layout Two"
+msgstr "Layout Dois"
+
+#: comments.php:69
+msgid "Leave a Reply"
+msgstr "Deixe uma resposta"
+
+#: inc/customizer/controls/code/arilewp-customize-dimensions-control.php:132
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:573
+msgid "Left"
+msgstr "Esquerda"
+
+#: inc/customizer/controls/code/arilewp-customize-background-control.php:96
+msgid "Left Bottom"
+msgstr "Inferior esquerdo"
+
+#: inc/customizer/controls/code/arilewp-customize-background-control.php:93
+msgid "Left Center"
+msgstr "Centro Esquerdo"
+
+#: inc/metabox.php:28
+msgid "Left Sidebar"
+msgstr "Barra lateral esquerda"
+
+#: inc/customizer/controls/code/arilewp-customize-background-control.php:90
+msgid "Left Top"
+msgstr "Topo Esquerdo"
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-footer-widget-customizer-settings.php:48
+msgid "light"
+msgstr "luz"
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:55
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:174
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:291
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:402
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:508
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:615
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:721
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:826
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:932
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:1053
+msgid "Light 200"
+msgstr "Light 200"
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:133
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:253
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:370
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:481
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:587
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:694
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:800
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:905
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:1011
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:1132
+msgid "Line Height"
+msgstr "Altura da linha"
+
+#: inc/metabox.php:191 inc/metabox.php:192
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:290
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:437
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:618
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:640
+msgid "Link"
+msgstr "Ligação"
+
+#: inc/customizer/arilewp-panels-and-sections.php:58
+msgid "List View"
+msgstr "Exibição de lista"
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-list-view-blog-customizer-settings.php:27
+msgid "List View Layout"
+msgstr "Layout da exibição de lista"
+
+#: comments.php:65
+msgid "Logged in as"
+msgstr "Logado como"
+
+#: comments.php:65
+msgid "Logout"
+msgstr "Sair"
+
+#: page-templates/service-one.php:141 page-templates/service-one.php:152
+#: page-templates/service-one.php:163 page-templates/service-two.php:139
+#: page-templates/service-two.php:151 page-templates/service-two.php:163
+#: template-parts/index-service.php:127 template-parts/index-service.php:139
+#: template-parts/index-service.php:151
+msgid ""
+"Lorem Ipsum is simply text of the printing and typesetting industry. Lorem "
+"Ipsum has been standard dummy."
+msgstr ""
+"Lorem Ipsum is simply text of the printing and typesetting industry. Lorem "
+"Ipsum has been standard dummy."
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:101
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:220
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:337
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:448
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:554
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:661
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:767
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:872
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:978
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:1099
+msgid "Lowercase"
+msgstr "Minúsculas"
+
+#: inc/customizer/arilewp-customizer-options.php:110
+msgid "Main Slider"
+msgstr "Slider principal"
+
+#: page-templates/about-one.php:259 page-templates/about-two.php:275
+#: template-parts/index-team.php:227 template-parts/index-team.php:280
+#: inc/customizer/arilewp-customizer-default.php:385
+msgid "Manager"
+msgstr "Gerente"
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-contact-template-customizer-settings.php:103
+msgid "Map Title"
+msgstr "Título do mapa"
+
+#: inc/customizer/arilewp-panels-and-sections.php:65
+msgid "Masonry"
+msgstr "Alvenaria"
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-masonry-blog-customizer-settings.php:28
+msgid "Masonry Layout"
+msgstr "Layout de alvenaria"
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:58
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:177
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:294
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:405
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:511
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:618
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:724
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:829
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:935
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:1056
+msgid "Medium 500"
+msgstr "Médio 500"
+
+#: inc/customizer/arilewp-panels-and-sections.php:29
+msgid "Menu"
+msgstr "Cardápio"
+
+#: inc/customizer/arilewp-panels-and-sections.php:135
+msgid "Menu Bar"
+msgstr "Barra de menu"
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-menu-bar-customizer-settings.php:93
+msgid "Menu Items"
+msgstr "Itens do menu"
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-menu-bar-customizer-settings.php:27
+msgid "Menu Settings"
+msgstr "Configurações do menu"
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-menu-bar-customizer-settings.php:42
+msgid "Menu Style"
+msgstr "Estilo do Menu"
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-blog-grid-view-customizer-settings.php:47
+#: inc/customizer/customizer-settings/theme-settings/arilewp-masonry-blog-customizer-settings.php:49
+msgid "Meta"
+msgstr "Meta"
+
+#: inc/customizer/customizer-settings/home/arilewp-home-blog-customizer-settings.php:75
+msgid "Meta Enable/Disable"
+msgstr "Meta Ativar / Desativar"
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-blog-general-customizer-settings.php:47
+#: inc/customizer/customizer-settings/theme-settings/arilewp-list-view-blog-customizer-settings.php:48
+msgid "Meta One"
+msgstr "Meta One"
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-blog-general-customizer-settings.php:49
+#: inc/customizer/customizer-settings/theme-settings/arilewp-list-view-blog-customizer-settings.php:50
+msgid "Meta Two"
+msgstr "Meta Dois"
+
+#: inc/customizer/customizer-settings/home/arilewp-home-client-customizer-settings.php:208
+#: inc/customizer/customizer-settings/home/arilewp-home-project-customizer-settings.php:149
+#: inc/customizer/customizer-settings/home/arilewp-home-slider-customizer-settings.php:164
+#: inc/customizer/customizer-settings/home/arilewp-home-team-customizer-settings.php:135
+#: inc/customizer/customizer-settings/home/arilewp-home-testimonial-customizer-settings.php:138
+#: inc/customizer/customizer-settings/home/arilewp-home-wooshop-customizer-settings.php:116
+msgid "Mouse drag Enable/Disable"
+msgstr "Arrastar o mouse Ativar / Desativar"
+
+#: comments.php:54
+msgid "Name"
+msgstr "Nome"
+
+#: inc/custom-post.php:13
+msgid "New Link"
+msgstr "Novo link"
+
+#: comments.php:38
+msgid "Newer Comments &rarr;"
+msgstr "Comentários mais recentes &rarr;"
+
+#: comments.php:26
+msgid "No Comments"
+msgstr "Sem comentários"
+
+#: inc/customizer/controls/code/arilewp-customize-background-control.php:55
+msgid "No File Selected"
+msgstr "Nenhum arquivo selecionado"
+
+#: inc/custom-post.php:17
+msgid "No Links found"
+msgstr "Nenhum Links encontrado"
+
+#: inc/custom-post.php:18
+msgid "No Links found in Trash"
+msgstr "Nenhum link encontrado na lixeira"
+
+#: inc/customizer/controls/code/arilewp-customize-background-control.php:71
+msgid "No Repeat"
+msgstr "Sem repetição"
+
+#: inc/customizer/customizer-settings/arilewp-customize-base-customizer-settings.php:74
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:596
+msgid "None"
+msgstr "Nenhum"
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:80
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:199
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:316
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:427
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:533
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:640
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:746
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:851
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:957
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:1078
+msgid "Normal"
+msgstr "Normal"
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:57
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:176
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:293
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:404
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:510
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:617
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:723
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:828
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:934
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:1055
+msgid "Normal 400"
+msgstr "Normal 400"
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:50
+msgid "Note: All fonts did not support every font-weight."
+msgstr "Nota: Todas as fontes não suportam todos os pesos de fonte."
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:539
+#, php-format
+msgid ""
+"Note: Some icons may not be displayed here. You can see the full list of "
+"icons at %1$s."
+msgstr ""
+"Nota: Alguns ícones podem não ser exibidos aqui. Você pode ver a lista "
+"completa de ícones em %1$s."
+
+#: comments.php:26
+msgid "One comment"
+msgstr "Um comentário"
+
+#: inc/customizer/arilewp-customizer-options.php:50
+msgid "Only apply when transparent header option is enabled (210px*39px)."
+msgstr ""
+"Aplique somente quando a opção de cabeçalho transparente estiver ativada "
+"(210 px * 39 px)."
+
+#: 404.php:20
+msgid "OOPS, SORRY WE CAN'T FIND THAT PAGE !"
+msgstr "Opa, desculpe, não podemos encontrar essa página!"
+
+#: inc/metabox.php:193
+msgid "Open link in new tab"
+msgstr "Abrir link em uma nova aba"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:523
+msgid "Open link in new tab:"
+msgstr "Abra o link em uma nova guia:"
+
+#: inc/customizer/customizer-settings/home/arilewp-home-blog-customizer-settings.php:122
+#: inc/customizer/customizer-settings/home/arilewp-home-cta-customizer-settings.php:69
+#: inc/customizer/customizer-settings/theme-settings/arilewp-menu-bar-customizer-settings.php:187
+msgid "Open New Tab Enable/Disable"
+msgstr "Abrir nova guia Ativar / Desativar"
+
+#: template-parts/index-wooshop.php:52
+msgid "out of 5"
+msgstr "de 5"
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-header-customizer-settings.php:49
+msgid "Overlap Classic Header"
+msgstr "Sobreposição de cabeçalho clássico"
+
+#: inc/customizer/customizer-settings/home/arilewp-home-funfact-customizer-settings.php:75
+#: inc/customizer/customizer-settings/home/arilewp-home-slider-customizer-settings.php:74
+#: inc/customizer/customizer-settings/home/arilewp-home-testimonial-customizer-settings.php:180
+msgid "Overlay Enable/Disable"
+msgstr "Sobreposição Ativar / Desativar"
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-page-header-customizer-settings.php:117
+msgid "Padding"
+msgstr "Preenchimento"
+
+#: inc/customizer/arilewp-customizer-options.php:24
+#: inc/customizer/arilewp-panels-and-sections.php:75
+#: inc/customizer/customizer-settings/theme-settings/arilewp-page-header-customizer-settings.php:33
+msgid "Page Header"
+msgstr "Cabeçalho da página"
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-page-header-customizer-settings.php:46
+msgid "Page Header Enable/Disable"
+msgstr "Ativar / desativar cabeçalho da página"
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-page-header-customizer-settings.php:77
+msgid "Page Header Layouts"
+msgstr "Layouts de cabeçalho da página"
+
+#: inc/customizer/arilewp-panels-and-sections.php:208
+msgid "Page Templates"
+msgstr "Modelos de página"
+
+#: template-parts/content-page.php:22 template-parts/content.php:48
+#: template-parts/contentgrid.php:40 template-parts/contentlist.php:49
+#: template-parts/contentmasonry.php:37
+msgid "Pages:"
+msgstr "Páginas:"
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:155
+msgid "Parent Menu"
+msgstr "Menu principal"
+
+#: template-parts/contact-info.php:54
+#: inc/customizer/arilewp-customizer-default.php:493
+msgid "Phone"
+msgstr "Telefone"
+
+#: page-templates/service-one.php:140 page-templates/service-two.php:138
+#: template-parts/index-service.php:126
+#: inc/customizer/arilewp-customizer-default.php:190
+msgid "Pixel Perfect Design"
+msgstr "Pixel Perfect Design"
+
+#: inc/customizer/arilewp-panels-and-sections.php:225
+msgid "Portfolio"
+msgstr "Portfólio"
+
+#. Name of the template
+msgid "Portfolio 2 Column"
+msgstr "Coluna do portfólio 2"
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-portfolio-template-customizer-settings.php:33
+msgid "Portfolio 2/3/4 Column"
+msgstr "Coluna 2/3/4 do portfólio"
+
+#. Name of the template
+msgid "Portfolio 3 Column"
+msgstr "Coluna do portfólio 3"
+
+#. Name of the template
+msgid "Portfolio 4 Column"
+msgstr "Coluna do portfólio 4"
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-portfolio-template-customizer-settings.php:102
+msgid "Portfolio Category Archive"
+msgstr "Arquivo de categorias de portfólio"
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-theme-color-scheme-customizer-settings.php:28
+msgid "Predefined Color Scheme"
+msgstr "Esquema de cores predefinidas"
+
+#: functions.php:48
+msgid "Primary"
+msgstr "Primária"
+
+#: inc/customizer/arilewp-customizer-options.php:231
+#: inc/customizer/customizer-settings/theme-settings/arilewp-forntpage-section-ordering-customizer-settings.php:53
+msgid "Project"
+msgstr "Projeto"
+
+#: inc/customizer/customizer-settings/home/arilewp-home-project-customizer-settings.php:187
+msgid "Project Area Before After Content"
+msgstr "Área do Projeto Antes Depois do Conteúdo"
+
+#: inc/metabox.php:179
+msgid "Project Details"
+msgstr "Detalhes do Projeto"
+
+#: inc/customizer/customizer-settings/home/arilewp-home-project-customizer-settings.php:42
+msgid "Project Enable/Disable"
+msgstr "Ativar / desativar projeto"
+
+#: inc/customizer/customizer-settings/home/arilewp-home-project-customizer-settings.php:57
+msgid "Project Layout"
+msgstr "Layout do Projeto"
+
+#: inc/customizer/customizer-settings/home/arilewp-home-project-customizer-settings.php:28
+msgid "Project Options"
+msgstr "Opções do Projeto"
+
+#: inc/custom-post.php:9 page-templates/about-one.php:97
+#: page-templates/about-two.php:354 page-templates/service-one.php:232
+#: page-templates/service-two.php:237 template-parts/index-funfact.php:86
+#: template-parts/index-funfact.php:92
+#: inc/customizer/arilewp-customizer-default.php:241
+msgid "Projects"
+msgstr "Projetos"
+
+#: template-parts/index-wooshop.php:52
+#, php-format
+msgid "Rated %s out of 5"
+msgstr "%s avaliado em 5"
+
+#: inc/template-functions.php:136 page-templates/contact-one.php:73
+#: page-templates/contact-two.php:56 page-templates/service-one.php:142
+#: page-templates/service-one.php:153 page-templates/service-one.php:164
+#: page-templates/service-two.php:140 page-templates/service-two.php:152
+#: page-templates/service-two.php:164 template-parts/content-single.php:46
+#: template-parts/content.php:47 template-parts/contentgrid.php:39
+#: template-parts/contentlist.php:48 template-parts/contentmasonry.php:36
+#: template-parts/index-blog.php:86 template-parts/index-service.php:128
+#: template-parts/index-service.php:140 template-parts/index-service.php:152
+#: inc/customizer/arilewp-customizer-default.php:192
+#: inc/customizer/arilewp-customizer-default.php:202
+#: inc/customizer/arilewp-customizer-default.php:212
+msgid "Read More"
+msgstr "Consulte Mais informação"
+
+#. 1: link to WP admin new post page.
+#: template-parts/content-none.php:22
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+"Pronto para publicar seu primeiro post? <a href=\"%1$s\"> Comece aqui </a>."
+
+#: template-parts/content-single.php:62
+msgid "Related Posts"
+msgstr "Posts Relacionados"
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-blog-general-customizer-settings.php:189
+msgid "Related Posts Enable/Disable"
+msgstr "Postagens relacionadas Ativar / Desativar"
+
+#: inc/customizer/controls/code/arilewp-customize-background-control.php:58
+msgid "Remove"
+msgstr "Retirar"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:621
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:651
+msgid "Remove Icon"
+msgstr "Remover ícone"
+
+#: inc/customizer/controls/code/arilewp-customize-background-control.php:74
+msgid "Repeat All"
+msgstr "Repita tudo"
+
+#: inc/customizer/controls/code/arilewp-customize-background-control.php:77
+msgid "Repeat Horizontally"
+msgstr "Repita horizontalmente"
+
+#: inc/customizer/controls/code/arilewp-customize-background-control.php:80
+msgid "Repeat Vertically"
+msgstr "Repita verticalmente"
+
+#: inc/template-functions.php:100
+msgid "Reply"
+msgstr "Resposta"
+
+#: inc/customizer/controls/code/arilewp-customize-slider-control.php:70
+msgid "Reset"
+msgstr "Redefinir"
+
+#: inc/customizer/controls/code/arilewp-customize-dimensions-control.php:130
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:577
+msgid "Right"
+msgstr "Certa"
+
+#: inc/customizer/controls/code/arilewp-customize-background-control.php:105
+msgid "Right Bottom"
+msgstr "Inferior direito"
+
+#: inc/customizer/controls/code/arilewp-customize-background-control.php:102
+msgid "Right Center"
+msgstr "Centro Direito"
+
+#: inc/metabox.php:18
+msgid "Right Sidebar"
+msgstr "Barra lateral direita"
+
+#: inc/customizer/controls/code/arilewp-customize-background-control.php:99
+msgid "Right Top"
+msgstr "Bem no topo"
+
+#: template-parts/index-wooshop.php:46
+msgid "Sale"
+msgstr "Venda"
+
+#: page-templates/service-one.php:378 page-templates/service-two.php:401
+#: template-parts/index-testimonial.php:180
+#: template-parts/index-testimonial.php:219
+#: inc/customizer/arilewp-customizer-default.php:299
+msgid "Sales Manager"
+msgstr "Gerente de vendas"
+
+#: page-templates/service-one.php:162 page-templates/service-two.php:162
+#: template-parts/index-service.php:150
+#: inc/customizer/arilewp-customizer-default.php:210
+msgid "Satisfied Clients"
+msgstr "Clientes satisfeitos"
+
+#: inc/customizer/customizer-page-editor/customizer-page-editor.php:25
+msgid "Save and close"
+msgstr "Salvar e fechar"
+
+#: inc/customizer/controls/code/arilewp-customize-background-control.php:147
+msgid "Scroll"
+msgstr "Rolagem"
+
+#: inc/customizer/arilewp-panels-and-sections.php:104
+msgid "Scroll to Top"
+msgstr "Role para cima"
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-scroll-to-top-customizer-settings.php:27
+msgid "Scroll to Top Enable/Disable"
+msgstr "Role para cima Ativar / Desativar"
+
+#: searchform.php:2 template-parts/site-navbar.php:170
+msgid "Search"
+msgstr "Procurar"
+
+#: template-parts/site-navbar.php:169
+msgid "Search here"
+msgstr "Procure aqui"
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-menu-bar-customizer-settings.php:119
+msgid "Search Icon Enable/Disable"
+msgstr "Ícone de pesquisa Ativar / Desativar"
+
+#: inc/custom-post.php:16
+msgid "Search Links"
+msgstr "Pesquisar Links"
+
+#: inc/template-functions.php:188
+msgid "Search results for"
+msgstr "Resultados da busca por"
+
+#: inc/customizer/arilewp-customizer-options.php:970
+#: inc/customizer/arilewp-customizer-options.php:1002
+#: inc/customizer/arilewp-customizer-options.php:1034
+#: inc/customizer/arilewp-customizer-options.php:1065
+#: inc/customizer/arilewp-customizer-options.php:1167
+#: inc/customizer/arilewp-customizer-options.php:1198
+msgid "Section Description"
+msgstr "Seção Descrição"
+
+#: inc/customizer/arilewp-customizer-options.php:956
+#: inc/customizer/arilewp-customizer-options.php:987
+#: inc/customizer/arilewp-customizer-options.php:1019
+#: inc/customizer/arilewp-customizer-options.php:1051
+#: inc/customizer/arilewp-customizer-options.php:1153
+#: inc/customizer/arilewp-customizer-options.php:1184
+msgid "Section Title"
+msgstr "Título da seção"
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-theme-color-scheme-customizer-settings.php:166
+msgid "Select Background"
+msgstr "Selecionar plano de fundo"
+
+#: inc/customizer/arilewp-customizer-options.php:671
+msgid "Select Blog Category for Masonry Templates"
+msgstr "Selecionar categoria de blog para modelos de alvenaria"
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-theme-color-scheme-customizer-settings.php:90
+msgid "Select Custom color"
+msgstr "Selecione cor personalizada"
+
+#: inc/customizer/controls/code/arilewp-customize-background-control.php:60
+msgid "Select File"
+msgstr "Selecione o arquivo"
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-theme-color-scheme-customizer-settings.php:147
+msgid "Select Layout"
+msgstr "Selecionar layout"
+
+#: inc/metabox.php:121
+msgid "Select the Container Size for the Default Page Templates"
+msgstr "Selecione o tamanho do contêiner para os modelos de página padrão"
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-theme-color-scheme-customizer-settings.php:117
+msgid "Select Theme Color Skin"
+msgstr "Selecionar tema Cor da pele"
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-theme-color-scheme-customizer-settings.php:42
+msgid "Select Theme Colors"
+msgstr "Selecionar cores do tema"
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:59
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:178
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:295
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:406
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:512
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:619
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:725
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:830
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:936
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:1057
+msgid "Semibold 600"
+msgstr "Semibold 600"
+
+#: inc/customizer/customizer-settings/home/arilewp-home-blog-customizer-settings.php:88
+msgid "Separator Enable/Disable"
+msgstr "Ativar / desativar separador"
+
+#: inc/customizer/arilewp-customizer-options.php:159
+#: inc/customizer/arilewp-panels-and-sections.php:219
+#: inc/customizer/customizer-settings/theme-settings/arilewp-forntpage-section-ordering-customizer-settings.php:52
+msgid "Service"
+msgstr "Serviço"
+
+#: inc/customizer/customizer-settings/home/arilewp-home-service-customizer-settings.php:113
+msgid "Service Area Before After Content"
+msgstr "Área de Serviço Antes Depois do Conteúdo"
+
+#: inc/customizer/customizer-settings/home/arilewp-home-service-customizer-settings.php:44
+#: inc/customizer/customizer-settings/theme-settings/arilewp-service-template-customizer-settings.php:36
+msgid "Service Enable/Disable"
+msgstr "Serviço Ativar / Desativar"
+
+#: inc/customizer/arilewp-customizer-options.php:173
+msgid "Service Item"
+msgstr "Item de serviço"
+
+#: inc/customizer/arilewp-customizer-options.php:169
+msgid "Service Items content"
+msgstr "Conteúdo de itens de serviço"
+
+#: inc/customizer/customizer-settings/home/arilewp-home-service-customizer-settings.php:59
+msgid "Service Layout"
+msgstr "Layout do serviço"
+
+#. Name of the template
+msgid "Service One"
+msgstr "Service One"
+
+#: inc/customizer/customizer-settings/home/arilewp-home-service-customizer-settings.php:30
+msgid "Service Options"
+msgstr "Opções de serviço"
+
+#. Name of the template
+msgid "Service Two"
+msgstr "Serviço Dois"
+
+#: inc/customizer/arilewp-customizer-options.php:34
+msgid "Set Sticky Bar Logo"
+msgstr "Definir logotipo da barra adesiva"
+
+#: inc/template-functions.php:173
+msgid "Shop"
+msgstr "Fazer compras"
+
+#: inc/customizer/customizer-settings/home/arilewp-home-wooshop-customizer-settings.php:144
+msgid "Shop Area Before After Content"
+msgstr "Área da loja antes do conteúdo"
+
+#: inc/customizer/customizer-settings/home/arilewp-home-wooshop-customizer-settings.php:28
+msgid "Shop Options"
+msgstr "Opções da loja"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:343
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:466
+msgid "Shortcode"
+msgstr "Código curto"
+
+#: inc/metabox.php:180 inc/metabox.php:202
+msgid "Show Slider on the Page"
+msgstr "Mostrar controle deslizante na página"
+
+#: functions.php:110
+msgid "Sidebar"
+msgstr "Barra Lateral"
+
+#: inc/metabox.php:10
+msgid "Sidebar Layout"
+msgstr "Layout da barra lateral"
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-blog-general-customizer-settings.php:139
+msgid "Single Blog Pages"
+msgstr "Páginas de blog únicas"
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-forntpage-section-ordering-customizer-settings.php:51
+msgid "Site Info"
+msgstr "Informações do site"
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-about-template-customizer-settings.php:36
+msgid "Site Info Area Enable/Disable"
+msgstr "Área de Informações do Site Ativar / Desativar"
+
+#: inc/customizer/arilewp-customizer-options.php:70
+msgid "Site Top Header"
+msgstr "Cabeçalho superior do site"
+
+#: inc/customizer/customizer-settings/home/arilewp-home-slider-customizer-settings.php:108
+msgid "Slide"
+msgstr "Deslizar"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:569
+msgid "Slide Content Format"
+msgstr "Formato de conteúdo do slide"
+
+#: inc/customizer/arilewp-customizer-options.php:122
+msgid "Slide Item"
+msgstr "Item do slide"
+
+#: inc/customizer/customizer-settings/home/arilewp-home-slider-customizer-settings.php:42
+msgid "Slider Enable/Disable"
+msgstr "Slider Ativar / Desativar"
+
+#: inc/customizer/arilewp-customizer-options.php:119
+msgid "Slider Items Content"
+msgstr "Conteúdo dos itens do slider"
+
+#: inc/customizer/customizer-settings/home/arilewp-home-slider-customizer-settings.php:28
+msgid "Slider Options"
+msgstr "Opções de controle deslizante"
+
+#: inc/customizer/customizer-settings/home/arilewp-home-client-customizer-settings.php:183
+#: inc/customizer/customizer-settings/home/arilewp-home-project-customizer-settings.php:124
+#: inc/customizer/customizer-settings/home/arilewp-home-slider-customizer-settings.php:146
+#: inc/customizer/customizer-settings/home/arilewp-home-team-customizer-settings.php:117
+#: inc/customizer/customizer-settings/home/arilewp-home-testimonial-customizer-settings.php:120
+#: inc/customizer/customizer-settings/home/arilewp-home-wooshop-customizer-settings.php:98
+msgid "Smart Speed"
+msgstr "Smart Speed"
+
+#: inc/customizer/arilewp-customizer-options.php:99
+msgid "Social Icon"
+msgstr "Social Icon"
+
+#: inc/customizer/customizer-settings/home/arilewp-home-site-top-header-customizer-settings.php:68
+msgid "Social Icon Enable/Disable"
+msgstr "Ícone Social Ativar / Desativar"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:604
+msgid "Social icons"
+msgstr "Ícones sociais"
+
+#: inc/customizer/arilewp-customizer-options.php:96
+msgid "Social Items Content"
+msgstr "Conteúdo de itens sociais"
+
+#: template-parts/content-none.php:35
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"Desculpe, mas nada corresponde aos seus termos de pesquisa. Por favor, tente "
+"novamente com algumas palavras-chave diferentes."
+
+#: inc/customizer/controls/code/arilewp-customize-typography-control.php:39
+msgid "Standard Fonts"
+msgstr "Fontes Padrão"
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-header-customizer-settings.php:46
+msgid "Standard Header"
+msgstr "Cabeçalho padrão"
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-menu-bar-customizer-settings.php:46
+msgid "Static"
+msgstr "Estática"
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-menu-bar-customizer-settings.php:45
+msgid "Sticky"
+msgstr "Pegajosa"
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-menu-bar-customizer-settings.php:78
+msgid "Sticky Bar Background Color"
+msgstr "Cor de fundo da barra pegajosa"
+
+#: comments.php:67
+msgid "Submit"
+msgstr "Enviar"
+
+#: inc/customizer/arilewp-customizer-options.php:1095
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:263
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:412
+msgid "Subtitle"
+msgstr "Legenda"
+
+#: inc/template-functions.php:171
+msgid "Tag"
+msgstr "Tag"
+
+#: inc/customizer/customizer-settings/home/arilewp-home-team-customizer-settings.php:165
+msgid "Team Area Before After Content"
+msgstr "Área da Equipe Antes Depois do Conteúdo"
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-about-template-customizer-settings.php:62
+msgid "Team Enable/Disable"
+msgstr "Ativar / desativar equipe"
+
+#: inc/customizer/arilewp-customizer-options.php:591
+msgid "Team Items content"
+msgstr "Conteúdo dos itens da equipe"
+
+#: inc/customizer/customizer-settings/home/arilewp-home-team-customizer-settings.php:57
+msgid "Team Layout"
+msgstr "Layout da equipe"
+
+#: inc/customizer/arilewp-customizer-options.php:595
+msgid "Team Member"
+msgstr "Membro da equipe"
+
+#: inc/customizer/arilewp-customizer-options.php:580
+#: inc/customizer/customizer-settings/theme-settings/arilewp-forntpage-section-ordering-customizer-settings.php:58
+msgid "Team Members"
+msgstr "Membros do time"
+
+#: inc/customizer/customizer-settings/home/arilewp-home-team-customizer-settings.php:28
+msgid "Team Options"
+msgstr "Opções da equipe"
+
+#: inc/customizer/arilewp-customizer-options.php:387
+#: inc/customizer/customizer-settings/theme-settings/arilewp-forntpage-section-ordering-customizer-settings.php:55
+msgid "Testimonial"
+msgstr "Depoimento"
+
+#: inc/customizer/customizer-settings/home/arilewp-home-testimonial-customizer-settings.php:167
+msgid "Testimonial Area Before After Content"
+msgstr "Área de Depoimentos Antes Depois do Conteúdo"
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-service-template-customizer-settings.php:62
+msgid "Testimonial Enable/Disable"
+msgstr "Depoimento Ativar / Desativar"
+
+#: inc/customizer/arilewp-customizer-options.php:400
+msgid "Testimonial Item"
+msgstr "Item depoimento"
+
+#: inc/customizer/arilewp-customizer-options.php:397
+msgid "Testimonial Items content"
+msgstr "Conteúdo dos itens de depoimento"
+
+#: inc/customizer/customizer-settings/home/arilewp-home-testimonial-customizer-settings.php:57
+msgid "Testimonial Layout"
+msgstr "Layout de Depoimentos"
+
+#: inc/customizer/customizer-settings/home/arilewp-home-testimonial-customizer-settings.php:28
+msgid "Testimonial Options"
+msgstr "Opções de depoimento"
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:96
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:215
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:332
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:443
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:549
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:656
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:762
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:867
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:973
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:1094
+msgid "Text Transform"
+msgstr "Transformação de texto"
+
+#: inc/customizer/arilewp-panels-and-sections.php:198
+msgid "Theme Color Scheme"
+msgstr "Esquema de cores do tema"
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-theme-color-scheme-customizer-settings.php:103
+msgid "Theme Color Skins"
+msgstr "Tema Cor Skins"
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-header-customizer-settings.php:29
+msgid "Theme Header "
+msgstr "Cabeçalho do tema "
+
+#: inc/customizer/arilewp-customizer-options.php:135
+msgid "Theme Info Area"
+msgstr "Área de informações do tema"
+
+#: inc/customizer/customizer-settings/home/arilewp-home-theme-info-customizer-settings.php:29
+msgid "Theme Info Area Options"
+msgstr "Opções da área de informações do tema"
+
+#: inc/customizer/arilewp-panels-and-sections.php:12
+msgid "Theme Options"
+msgstr "Opções de temas"
+
+#. Author of the theme
+msgid "ThemeArile"
+msgstr "ThemeArile"
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:54
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:173
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:290
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:401
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:507
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:614
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:720
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:825
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:931
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:1052
+msgid "Thin 100"
+msgstr "Thin 100"
+
+#: comments.php:20
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr ""
+"Esta postagem é protegida por senha. Digite a senha para ver quaisquer "
+"comentários."
+
+#: inc/customizer/arilewp-customizer-options.php:1081
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:256
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:405
+#: inc/customizer/customizer-settings/home/arilewp-home-client-customizer-settings.php:75
+#: inc/customizer/customizer-settings/theme-settings/arilewp-blog-general-customizer-settings.php:48
+#: inc/customizer/customizer-settings/theme-settings/arilewp-blog-grid-view-customizer-settings.php:48
+#: inc/customizer/customizer-settings/theme-settings/arilewp-contact-template-customizer-settings.php:151
+#: inc/customizer/customizer-settings/theme-settings/arilewp-list-view-blog-customizer-settings.php:49
+#: inc/customizer/customizer-settings/theme-settings/arilewp-masonry-blog-customizer-settings.php:50
+#: inc/customizer/customizer-settings/theme-settings/arilewp-portfolio-template-customizer-settings.php:46
+#: inc/customizer/customizer-settings/theme-settings/arilewp-portfolio-template-customizer-settings.php:115
+msgid "Title"
+msgstr "Título"
+
+#: inc/customizer/controls/code/arilewp-customize-dimensions-control.php:129
+msgid "Top"
+msgstr "Topo"
+
+#: inc/customizer/customizer-settings/home/arilewp-home-site-top-header-customizer-settings.php:29
+msgid "Top Header Options"
+msgstr "Opções de cabeçalho superior"
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-header-customizer-settings.php:47
+msgid "Transparent Header"
+msgstr "Cabeçalho transparente"
+
+#: inc/customizer/arilewp-customizer-options.php:49
+msgid "Transparent Header Logo"
+msgstr "Logotipo transparente do cabeçalho"
+
+#: template-parts/index-siteinfo.php:57
+#: inc/customizer/arilewp-customizer-default.php:150
+msgid "Trusted Services"
+msgstr "Serviços Confiáveis"
+
+#: inc/customizer/arilewp-panels-and-sections.php:115
+msgid "Typography"
+msgstr "Tipografia"
+
+#: page-templates/about-one.php:241 page-templates/about-two.php:250
+#: template-parts/index-team.php:204 template-parts/index-team.php:263
+msgid "UI Developer"
+msgstr "Desenvolvedor de UI"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:560
+msgid "Upload Image"
+msgstr "Enviar Imagem"
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:102
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:221
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:338
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:449
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:555
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:662
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:768
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:873
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:979
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:1100
+msgid "Uppercase"
+msgstr "Maiúsculas"
+
+#: inc/customizer/customizer-settings/home/arilewp-home-cta-customizer-settings.php:83
+msgid "Video Enable/Disable"
+msgstr "Ativar / desativar vídeo"
+
+#: inc/customizer/arilewp-customizer-options.php:1137
+msgid "Video Text"
+msgstr "Texto em vídeo"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:309
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:455
+msgid "Video Url"
+msgstr "URL do vídeo"
+
+#: inc/custom-post.php:15
+msgid "View Link"
+msgstr "Ver Link"
+
+#: template-parts/index-siteinfo.php:58
+#: inc/customizer/arilewp-customizer-default.php:151
+msgid "We are trusted our customers"
+msgstr "Temos a confiança de nossos clientes"
+
+#: inc/customizer/arilewp-customizer-default.php:121
+msgid "We are very happy to present to you"
+msgstr "Estamos muito felizes em apresentar a você"
+
+#: template-parts/index-slider.php:97
+msgid "We Are Very Happy to Present to You ArileWP"
+msgstr "Estamos muito felizes em apresentar a você ArileWP"
+
+#: template-parts/index-slider.php:68 template-parts/index-slider.php:83
+#: template-parts/index-slider.php:98
+#: inc/customizer/arilewp-customizer-default.php:102
+#: inc/customizer/arilewp-customizer-default.php:112
+#: inc/customizer/arilewp-customizer-default.php:122
+msgid ""
+"We are very happy to present to you ArileWP, the powerful and flexible multi-"
+"purpose WordPress theme. Not only does ArileWP outstand with many new "
+"features but suitable for all creatives and businesses. Join 2500+ customers."
+msgstr ""
+"Estamos muito felizes em apresentar a você o ArileWP, o poderoso e flexível "
+"tema WordPress de múltiplos propósitos. O ArileWP não apenas se destaca com "
+"muitos novos recursos, mas também é adequado para todos os criativos e "
+"empresas. Junte-se a mais de 2500 clientes."
+
+#: template-parts/index-slider.php:67
+#: inc/customizer/arilewp-customizer-default.php:101
+msgid "We Create Amazing WordPress Themes"
+msgstr "Criamos incríveis temas para WordPress"
+
+#: template-parts/index-siteinfo.php:75
+#: inc/customizer/arilewp-customizer-default.php:166
+msgid "Well Experienced"
+msgstr "Bem Experiente"
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:1034
+msgid "Widget Title"
+msgstr "Título do widget"
+
+#: inc/customizer/arilewp-panels-and-sections.php:180
+msgid "Widgets"
+msgstr "Widgets"
+
+#: page-templates/service-one.php:151 page-templates/service-two.php:150
+#: template-parts/index-service.php:138
+#: inc/customizer/arilewp-customizer-default.php:200
+msgid "WooCommerce Ready"
+msgstr "Pronto para WooCommerce"
+
+#: inc/customizer/arilewp-customizer-options.php:467
+#: inc/customizer/customizer-settings/theme-settings/arilewp-forntpage-section-ordering-customizer-settings.php:56
+msgid "WooCommerce Shop"
+msgstr "Loja WooCommerce"
+
+#: functions.php:118
+msgid "WooCommerce Sidebar"
+msgstr "Barra Lateral do WooCommerce"
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:236
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:353
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:464
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:570
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:677
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:783
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:888
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:994
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:1115
+msgid "You can enter font size in px or rem"
+msgstr "Você pode inserir o tamanho da fonte em px ou rem"
+
+#: inc/customizer/customizer-settings/theme-settings/arilewp-typography-customizer-settings.php:116
+msgid "You can enter size in px or rem "
+msgstr "Você pode inserir o tamanho em px ou rem "
+
+#: inc/customizer/arilewp-customizer-options.php:35
+msgid "You can Upload the Standrad size of logo (210px*39px)"
+msgstr "Você pode carregar o tamanho padrão do logotipo (210 px * 39 px)"
+
+#. %1$s %2$s: logged in
+#: comments.php:48
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment"
+msgstr ""
+"Você deve estar <a href=\"%s\"> conectado </a> para publicar um comentário"
+
+#: inc/template-functions.php:119
+msgid "Your comment is awaiting moderation."
+msgstr "Seu comentário aguarda moderação."
