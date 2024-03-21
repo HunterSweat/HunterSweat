@@ -64,3 +64,67 @@ Text Domain: arilewp-pro-child-theme
 #hidden-paragraph {
     display: none;
 }
+
+h1 {
+    text-align: center;
+}
+
+/* Sets the width for the accordion. Sets the margin to 90px on the top and bottom and auto to the left and right */
+
+.accordion {
+    /*width: 800px;*/
+    /*margin: 90px auto;*/
+    /*padding: 45px 45px;*/
+}
+.accordion .container {
+    position: relative;
+    margin: 20px 20px;
+    border: 2px solid #3fef00;
+    border-radius: 25px;
+
+}
+.accordion .label {
+    position: relative;
+    padding: 10px 0;
+    font-size: 30px;
+    cursor: pointer;
+}
+
+/* Positions the plus sign 5px from the right. Centers it using the transform property. */
+
+.accordion .label::before {
+    content: '+';
+    position: absolute;
+    top: 50%;
+    right: -5px;
+    font-size: 30px;
+    transform: translateY(-50%);
+}
+
+/* Hides the content (height: 0), decreases font size, justifies text and adds transition */
+
+.accordion .content {
+    position: relative;
+    height: 0;
+    font-size: 20px;
+    text-align: justify;
+    /*width: 780px;*/
+    overflow: hidden;
+    transition: 0.5s;
+    color: #ddd;
+}
+
+
+.accordion .container.active .content {
+    height: auto;
+    margin: auto 10px 20px;
+    padding-bottom: 10px;
+    text-align: center;
+}
+
+/* Changes from plus sign to negative sign once active */
+
+.accordion .container.active .label::before {
+    content: '-';
+    font-size: 30px;
+}

@@ -7,3 +7,16 @@ function toggleParagraph() {
         paragraph.style.display = "none";
     }
 }
+
+function test() {
+    var accordion = document.getElementsByClassName('container');
+    var i;
+
+
+    for (i = 0; i < accordion.length; i++) {
+        accordion[i].addEventListener('click', function () {
+            this.classList.toggle('active');
+        })
+    }
+}
+

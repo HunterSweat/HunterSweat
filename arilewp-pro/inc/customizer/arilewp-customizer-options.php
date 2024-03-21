@@ -784,7 +784,37 @@ function arilewp_frontpage_sections_settings( $wp_customize ){
 							'customizer_repeater_checkbox_control' => true,
 							) ) );
 					}
-					
+
+                    if ( class_exists( 'ArileWP_Repeater' ) ) {
+                        $wp_customize->add_setting( 'arilewp_contact_about_desc', array( ) );
+                        $wp_customize->add_control( new ArileWP_Repeater(
+                            $wp_customize, 'arilewp_contact_about_desc', array(
+                            'label'                             => esc_html__( 'Accordion Section', 'arilewp' ),
+                            'section'                           => 'arilewp_contact_template',
+                            'add_field_label'                   => esc_html__( 'Add new info', 'arilewp' ),
+                            'item_name'                         => esc_html__( 'Accordion Info', 'arilewp' ),
+                            'customizer_repeater_title_control' => true,
+                            'customizer_repeater_text_control'  => true,
+                            'customizer_repeater_icon_control'  => false,
+                            'customizer_repeater_link_control'  => false,
+                            'customizer_repeater_checkbox_control' => false,
+                        ) ) );
+                    }
+
+//                    $selective_refresh = isset( $wp_customize->selective_refresh ) ? 'postMessage' : 'refresh';
+//                    $wp_customize->add_setting( 'arilewp_contact_about_desc',
+//                    array(
+//                            'default' => 'Add About Us Description',
+//                            'sanitize_callback' => 'sanitize_text_field',
+//                            'transport' => $selective_refresh,
+//                    ));
+//					$wp_customize->add_control( 'arilewp_contact_about_desc',
+//                    array(
+//                            'label'     => esc_html__('Section Description', 'arilewp' ),
+//                            'section'   => 'arilewp_contact_template',
+//                            'priority'  => 53,
+//                            'type'      => 'textarea',
+//                    ));
 					
 		$wp_customize->add_setting( 'arilewp_typography_base_font_family', array(
 			'sanitize_callback' => 'sanitize_text_field',

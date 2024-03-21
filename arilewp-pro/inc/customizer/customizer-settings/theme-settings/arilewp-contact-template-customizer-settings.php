@@ -151,10 +151,33 @@ if ( ! class_exists( 'ArileWP_Customize_Contact_Template_Option' ) ) :
 						'label'           => esc_html__( 'Title', 'arilewp' ),
 						'section'         => 'arilewp_contact_template',
 					),
-				),	
-				
+				),
 
-			);
+                'arilewp_contact_about_heading'     => array(
+                    'setting' => array(),
+                    'control' => array(
+                        'type'    => 'heading',
+                        'priority'        => 38,
+                        'label'   => esc_html__( 'Read About Us', 'arilewp' ),
+                        'section' => 'arilewp_contact_template',
+                    ),
+                ),
+
+                'arilewp_contact_about_title' => array(
+                    'setting' => array(
+                        'default'           => 'Read About Us',
+                        'sanitize_callback' => 'wp_kses_post',
+                    ),
+                    'control' => array(
+                        'type'            => 'text',
+                        'priority'        => 39,
+                        'label'           => esc_html__( 'Title', 'arilewp' ),
+                        'section'         => 'arilewp_contact_template',
+                    ),
+                ),
+
+
+            );
 
 		}
 

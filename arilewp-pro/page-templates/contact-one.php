@@ -21,6 +21,8 @@ $arilewp_contact_info_disabled = get_theme_mod('arilewp_contact_info_disabled', 
 $arilewp_google_map_disabled = get_theme_mod('arilewp_google_map_disabled', true);
 $arilewp_contact_form_disabled = get_theme_mod('arilewp_contact_form_disabled', true);
 $arilewp_contact_form_title = get_theme_mod('arilewp_contact_form_title', 'Drop Us a Message');
+$arilewp_contact_about_title = get_theme_mod('arilewp_contact_about_title', 'Read About Us');
+$arilewp_contact_about_desc = get_theme_mod('arilewp_contact_about_desc');
 ?>
 <!-- Contact Info -->
 	<section class="theme-block theme-bg-grey">
@@ -40,29 +42,51 @@ $arilewp_contact_form_title = get_theme_mod('arilewp_contact_form_title', 'Drop 
     <section class="theme-contact wow animate fadeInUp" data-wow-delay=".3s">
         <div class="container">
             <div class="row">
+
                 <div class="col-lg-12 col-md-12 col-xs-12">
                     <div class="theme-section-module text-center">
-                        <h4 onclick="toggleParagraph()" class="theme-section-title small">Read about Us</h4>
+                        <h4 class="theme-section-title small"><?php echo $arilewp_contact_about_title ?></h4>
                             <div class="theme-separator-line-horrizontal-full">
                             </div>
                     </div>
+
+                    <div class="accordion-body">
+                        <div class="accordion">
+
+                            <?php
+                            if ( ! empty( $arilewp_contact_about_desc ) ) {
+                            $allowed_html = array(
+                                'br'     => array(),
+                                'em'     => array(),
+                                'strong' => array(),
+                                'b'      => array(),
+                                'i'      => array(),
+                            );
+                            $arilewp_contact_about_desc = json_decode( $arilewp_contact_about_desc );
+
+
+
+                            foreach ($arilewp_contact_about_desc as $accordion_item) {
+                              $title = !empty($accordion_item->title) ? apply_filters( 'arilewp_translate_single_string', $accordion_item->title, 'Theme Accordion Info') : '';
+                              $text = !empty($accordion_item->text) ? apply_filters( 'arilewp_translate_single_string', $accordion_item->text, 'Theme Accordion Info') : '';
+                              ?>
+                                <div onclick="test()" class="container theme-contact-widget text-center wow animate fadeInUp" data-wow-delay=".3s">
+                                    <?php if( !empty($title) ) { ?>
+                                    <div class="label text-center"><?php echo esc_html( $title ); ?> </div>
+                                    <?php } ?>
+                                    <?php if( !empty( $text ) ) { ?>
+                                    <div class="content"><?php echo wp_kses( html_entity_decode( $text ), $allowed_html ); ?> </div>
+                                    <?php } ?>
+                                </div>
+
+                            <?php } }?>
                 </div>
             </div>
-            <h5 id="hidden-paragraph">
-                <br/><p>Principle Design was formed in 2019 with the core belief that offering a personal, handshake relationship, combined with accessibility, and accountability is what our clients value in their architect. This is becoming increasingly more rare in Oklahoma, as many historically prominent architecture firms are merging with, or being acquired by national corporations. This offers a distant and unfamiliar approach to working with Oklahoma schools, and the educators who operate them. The partners at Principle Design understand the success of any project is dependent on the quality of communication, and depth of trust.  We believe strongly in our responsibly as architects to help school districts, and public clients develop master plans, and explore long-term solutions, to plan for the future. Principle Design is committed to the success of public education in the state of Oklahoma. We recognize the importance of K-12 education, the need to sustain it, keep it vibrant, and provide long-term solutions to keep Oklahoma school districts growing responsibly. It’s time to Expect More!</p>
 
-                <p>Expect More, functional design revolving around what a school really needs. We are not here to sell magazine but provide the school with the best performing educational facility possible.</p>
 
-                Expect More, attention to the project budget! The budget is the most important thing in any project. Our responsibility is to give our client the highest quality and functional space within their budget. Blowing a budget is selfish and wastes the whole team’s time and energy.
+            <!--                <h5 id="hidden-paragraph">--><?php //echo $arilewp_contact_about_desc ?><!--</h5>-->
 
-                Expect More, communication with the architects themselves rather than a revolving door of project managers.
-
-                Expect More, on time deliveries. We value the schedule and take deadlines seriously as this equates to lost revenue for the University if the college cannot open on time.
-
-                Expect More, time and effort put into the code and communication with the code officials to insure the project meets and exceeds all rules and regulations.
-
-                Expect More, on site visits to really see what is being done and what can be improved.
-            </h5> </div>
+        </div>
 	</section>
 	
 	<?php if($arilewp_google_map_disabled == true) : ?>
@@ -111,5 +135,6 @@ $arilewp_contact_form_title = get_theme_mod('arilewp_contact_form_title', 'Drop 
 	</section>
 	<!-- /End of Contact Form -->
 	<?php endif; ?>
-<?php 
-get_footer();
+
+<?php
+get_footer();?>

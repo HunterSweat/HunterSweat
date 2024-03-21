@@ -241,3 +241,4 @@ $wp_customize->add_panel( new ArileWP_Customize_Panel( $wp_customize, 'arilewp_t
 		'panel'    => 'arilewp_theme_custom_template',
 		'priority' => 33,
 	) ) );
+
