@@ -84,7 +84,6 @@ $arilewp_contact_about_desc = get_theme_mod('arilewp_contact_about_desc');
             </div>
 
 
-            <!--                <h5 id="hidden-paragraph">--><?php //echo $arilewp_contact_about_desc ?><!--</h5>-->
 
         </div>
 	</section>

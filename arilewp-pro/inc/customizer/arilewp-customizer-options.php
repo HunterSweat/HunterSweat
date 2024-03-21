@@ -801,20 +801,6 @@ function arilewp_frontpage_sections_settings( $wp_customize ){
                         ) ) );
                     }
 
-//                    $selective_refresh = isset( $wp_customize->selective_refresh ) ? 'postMessage' : 'refresh';
-//                    $wp_customize->add_setting( 'arilewp_contact_about_desc',
-//                    array(
-//                            'default' => 'Add About Us Description',
-//                            'sanitize_callback' => 'sanitize_text_field',
-//                            'transport' => $selective_refresh,
-//                    ));
-//					$wp_customize->add_control( 'arilewp_contact_about_desc',
-//                    array(
-//                            'label'     => esc_html__('Section Description', 'arilewp' ),
-//                            'section'   => 'arilewp_contact_template',
-//                            'priority'  => 53,
-//                            'type'      => 'textarea',
-//                    ));
 					
 		$wp_customize->add_setting( 'arilewp_typography_base_font_family', array(
 			'sanitize_callback' => 'sanitize_text_field',
