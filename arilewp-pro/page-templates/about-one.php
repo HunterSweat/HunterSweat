@@ -23,19 +23,19 @@ $arilewp_about_team_disabled = get_theme_mod('arilewp_about_team_disabled', true
 $arilewp_about_client_disabled = get_theme_mod('arilewp_about_client_disabled', true);
 ?>
     <!--About-->
-    <section class="theme-block theme-about">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12 col-md-12 col-sm-12">
-                    <?php the_post();
-                    the_content(); ?>
-                </div>
-            </div>
-            <?php if ($arilewp_about_site_info_disabled == true) : ?>
-                <?php get_template_part('template-parts/index', 'siteinfo'); ?>
-            <?php endif; ?>
-        </div>
-    </section>
+<!--    <section class="theme-block theme-about">-->
+<!--        <div class="container">-->
+<!--            <div class="row">-->
+<!--                <div class="col-lg-12 col-md-12 col-sm-12">-->
+<!--                    --><?php //the_post();
+//                    the_content(); ?>
+<!--                </div>-->
+<!--            </div>-->
+<!--            --><?php //if ($arilewp_about_site_info_disabled == true) : ?>
+<!--                --><?php //get_template_part('template-parts/index', 'siteinfo'); ?>
+<!--            --><?php //endif; ?>
+<!--        </div>-->
+<!--    </section>-->
     <!-- /About -->
 
     <!-- Funfact -->
@@ -238,102 +238,102 @@ if ($arilewp_about_team_disabled == true) :
     <!-- Team -->
 
     <!-- Client -->
-<?php if ($arilewp_about_client_disabled == true) :
-
-    $arilewp_client_options = get_theme_mod('arilewp_clients_content');
-    $arilewp_client_front_container_size = get_theme_mod('arilewp_client_front_container_size', 'container');
-    ?>
-    <section class="theme-sponsors" id="theme-sponsors">
-        <div class="<?php echo $arilewp_client_front_container_size; ?>">
-            <div class="row theme-sponsors-content wow animate fadeInUp" data-wow-delay=".3s">
-                <div id="sponsors-slider" class="owl-carousel owl-theme col-lg-12">
-                    <?php
-                    $arilewp_client_options = json_decode($arilewp_client_options);
-                    if ($arilewp_client_options != '') {
-                        foreach ($arilewp_client_options as $client_iteam) {
-                            $title = !empty($client_iteam->title) ? apply_filters('arilewp_translate_single_string', $client_iteam->title, 'Theme Client') : '';
-                            $client_link = !empty($client_iteam->link) ? apply_filters('arilewp_translate_single_string', $client_iteam->link, 'Theme Client') : '';
-                            if (!empty($client_iteam->open_new_tab)) {
-                                $open_new_tab = $client_iteam->open_new_tab;
-                            } else {
-                                $open_new_tab = 'no';
-                            }
-                            ?>
-
-                            <div class="item">
-                                <a href="<?php echo $client_link; ?>"
-                                   class="clients-scroll" <?php if ($open_new_tab == 'yes') {
-                                    echo 'target="_blank"';
-                                } ?>>
-                                    <img src="<?php echo $client_iteam->image_url; ?>" class="img-fluid" alt="Client">
-                                </a>
-                            </div>
-
-                        <?php }
-                    } else { ?>
-
-                        <div class="item">
-                            <a href="#" class="clients-scroll">
-                                <img src="<?php echo get_template_directory_uri(); ?>/assets/img/sponsors/theme-client1.png"
-                                     class="img-fluid" alt="Client 1">
-                            </a>
-                        </div>
-
-                        <div class="item">
-                            <a href="#" class="clients-scroll">
-                                <img src="<?php echo get_template_directory_uri(); ?>/assets/img/sponsors/theme-client2.png"
-                                     class="img-fluid" alt="Client 2">
-                            </a>
-                        </div>
-
-                        <div class="item">
-                            <a href="#" class="clients-scroll">
-                                <img src="<?php echo get_template_directory_uri(); ?>/assets/img/sponsors/theme-client3.png"
-                                     class="img-fluid" alt="Client 3">
-                            </a>
-                        </div>
-
-                        <div class="item">
-                            <a href="#" class="clients-scroll">
-                                <img src="<?php echo get_template_directory_uri(); ?>/assets/img/sponsors/theme-client4.png"
-                                     class="img-fluid" alt="Client 4">
-                            </a>
-                        </div>
-
-                        <div class="item">
-                            <a href="#" class="clients-scroll">
-                                <img src="<?php echo get_template_directory_uri(); ?>/assets/img/sponsors/theme-client5.png"
-                                     class="img-fluid" alt="Client 5">
-                            </a>
-                        </div>
-
-                        <div class="item">
-                            <a href="#" class="clients-scroll">
-                                <img src="<?php echo get_template_directory_uri(); ?>/assets/img/sponsors/theme-client6.png"
-                                     class="img-fluid" alt="Client 6">
-                            </a>
-                        </div>
-
-                        <div class="item">
-                            <a href="#" class="clients-scroll">
-                                <img src="<?php echo get_template_directory_uri(); ?>/assets/img/sponsors/theme-client7.png"
-                                     class="img-fluid" alt="Client 7">
-                            </a>
-                        </div>
-
-                        <div class="item">
-                            <a href="#" class="clients-scroll">
-                                <img src="<?php echo get_template_directory_uri(); ?>/assets/img/sponsors/theme-client8.png"
-                                     class="img-fluid" alt="Client 8">
-                            </a>
-                        </div>
-
-                    <?php } ?>
-                </div>
-            </div>
-        </div>
-    </section>
-<?php endif; ?>
+<?php //if ($arilewp_about_client_disabled == true) :
+//
+//    $arilewp_client_options = get_theme_mod('arilewp_clients_content');
+//    $arilewp_client_front_container_size = get_theme_mod('arilewp_client_front_container_size', 'container');
+//    ?>
+<!--    <section class="theme-sponsors" id="theme-sponsors">-->
+<!--        <div class="--><?php //echo $arilewp_client_front_container_size; ?><!--">-->
+<!--            <div class="row theme-sponsors-content wow animate fadeInUp" data-wow-delay=".3s">-->
+<!--                <div id="sponsors-slider" class="owl-carousel owl-theme col-lg-12">-->
+<!--                    --><?php
+//                    $arilewp_client_options = json_decode($arilewp_client_options);
+//                    if ($arilewp_client_options != '') {
+//                        foreach ($arilewp_client_options as $client_iteam) {
+//                            $title = !empty($client_iteam->title) ? apply_filters('arilewp_translate_single_string', $client_iteam->title, 'Theme Client') : '';
+//                            $client_link = !empty($client_iteam->link) ? apply_filters('arilewp_translate_single_string', $client_iteam->link, 'Theme Client') : '';
+//                            if (!empty($client_iteam->open_new_tab)) {
+//                                $open_new_tab = $client_iteam->open_new_tab;
+//                            } else {
+//                                $open_new_tab = 'no';
+//                            }
+//                            ?>
+<!---->
+<!--                            <div class="item">-->
+<!--                                <a href="--><?php //echo $client_link; ?><!--"-->
+<!--                                   class="clients-scroll" --><?php //if ($open_new_tab == 'yes') {
+//                                    echo 'target="_blank"';
+//                                } ?>
+<!--                                    <img src="--><?php //echo $client_iteam->image_url; ?><!--" class="img-fluid" alt="Client">-->
+<!--                                </a>-->
+<!--                            </div>-->
+<!---->
+<!--                        --><?php //}
+//                    } else { ?>
+<!---->
+<!--                        <div class="item">-->
+<!--                            <a href="#" class="clients-scroll">-->
+<!--                                <img src="--><?php //echo get_template_directory_uri(); ?><!--/assets/img/sponsors/theme-client1.png"-->
+<!--                                     class="img-fluid" alt="Client 1">-->
+<!--                            </a>-->
+<!--                        </div>-->
+<!---->
+<!--                        <div class="item">-->
+<!--                            <a href="#" class="clients-scroll">-->
+<!--                                <img src="--><?php //echo get_template_directory_uri(); ?><!--/assets/img/sponsors/theme-client2.png"-->
+<!--                                     class="img-fluid" alt="Client 2">-->
+<!--                            </a>-->
+<!--                        </div>-->
+<!---->
+<!--                        <div class="item">-->
+<!--                            <a href="#" class="clients-scroll">-->
+<!--                                <img src="--><?php //echo get_template_directory_uri(); ?><!--/assets/img/sponsors/theme-client3.png"-->
+<!--                                     class="img-fluid" alt="Client 3">-->
+<!--                            </a>-->
+<!--                        </div>-->
+<!---->
+<!--                        <div class="item">-->
+<!--                            <a href="#" class="clients-scroll">-->
+<!--                                <img src="--><?php //echo get_template_directory_uri(); ?><!--/assets/img/sponsors/theme-client4.png"-->
+<!--                                     class="img-fluid" alt="Client 4">-->
+<!--                            </a>-->
+<!--                        </div>-->
+<!---->
+<!--                        <div class="item">-->
+<!--                            <a href="#" class="clients-scroll">-->
+<!--                                <img src="--><?php //echo get_template_directory_uri(); ?><!--/assets/img/sponsors/theme-client5.png"-->
+<!--                                     class="img-fluid" alt="Client 5">-->
+<!--                            </a>-->
+<!--                        </div>-->
+<!---->
+<!--                        <div class="item">-->
+<!--                            <a href="#" class="clients-scroll">-->
+<!--                                <img src="--><?php //echo get_template_directory_uri(); ?><!--/assets/img/sponsors/theme-client6.png"-->
+<!--                                     class="img-fluid" alt="Client 6">-->
+<!--                            </a>-->
+<!--                        </div>-->
+<!---->
+<!--                        <div class="item">-->
+<!--                            <a href="#" class="clients-scroll">-->
+<!--                                <img src="--><?php //echo get_template_directory_uri(); ?><!--/assets/img/sponsors/theme-client7.png"-->
+<!--                                     class="img-fluid" alt="Client 7">-->
+<!--                            </a>-->
+<!--                        </div>-->
+<!---->
+<!--                        <div class="item">-->
+<!--                            <a href="#" class="clients-scroll">-->
+<!--                                <img src="--><?php //echo get_template_directory_uri(); ?><!--/assets/img/sponsors/theme-client8.png"-->
+<!--                                     class="img-fluid" alt="Client 8">-->
+<!--                            </a>-->
+<!--                        </div>-->
+<!---->
+<!--                    --><?php //} ?>
+<!--                </div>-->
+<!--            </div>-->
+<!--        </div>-->
+<!--    </section>-->
+<?php //endif; ?>
     <!-- Client -->
 
 <?php
