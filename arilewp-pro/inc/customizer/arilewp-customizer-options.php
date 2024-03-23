@@ -1038,33 +1038,33 @@ function arilewp_customizer_selective_refresh_settings($wp_customize) {
 		
     // Wooshop
 	
-		$wp_customize->add_setting( 'arilewp_wooshop_area_title',
-		array(
-            'default' => 'Our Shop',
-			'sanitize_callback' => 'arilewp_sanitize_text',
-			'transport' => $selective_refresh,
-		));	
-		$wp_customize->add_control( 'arilewp_wooshop_area_title',
-		array(
-			'label'   => esc_html__( 'Section Title', 'arilewp' ),
-			'section' => 'arilewp_theme_wooshop',
-			'priority'        => 4,
-			'type' => 'text',
-		));	
-		
-		$wp_customize->add_setting( 'arilewp_wooshop_area_des',
-		array(
-            'default' => '<b>Best selling </b> products',
-			'sanitize_callback' => 'arilewp_sanitize_text',
-			'transport' => $selective_refresh,
-		));	
-		$wp_customize->add_control( 'arilewp_wooshop_area_des',
-		array(
-			'label'   => esc_html__( 'Section Description', 'arilewp' ),
-			'section' => 'arilewp_theme_wooshop',
-			'priority'        => 5,
-			'type' => 'textarea',
-		));	
+//		$wp_customize->add_setting( 'arilewp_wooshop_area_title',
+//		array(
+//            'default' => 'Our Shop',
+//			'sanitize_callback' => 'arilewp_sanitize_text',
+//			'transport' => $selective_refresh,
+//		));
+//		$wp_customize->add_control( 'arilewp_wooshop_area_title',
+//		array(
+//			'label'   => esc_html__( 'Section Title', 'arilewp' ),
+//			'section' => 'arilewp_theme_wooshop',
+//			'priority'        => 4,
+//			'type' => 'text',
+//		));
+//
+//		$wp_customize->add_setting( 'arilewp_wooshop_area_des',
+//		array(
+//            'default' => '<b>Best selling </b> products',
+//			'sanitize_callback' => 'arilewp_sanitize_text',
+//			'transport' => $selective_refresh,
+//		));
+//		$wp_customize->add_control( 'arilewp_wooshop_area_des',
+//		array(
+//			'label'   => esc_html__( 'Section Description', 'arilewp' ),
+//			'section' => 'arilewp_theme_wooshop',
+//			'priority'        => 5,
+//			'type' => 'textarea',
+//		));
 		
 	// Call to action
 	

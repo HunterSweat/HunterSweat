@@ -16,10 +16,12 @@ $post_type = 'arilewp_portfolio';
 		    <div class="row">
 			    <div class="col-md-12">
 					<ul id="tabs" class="nav filter-tabs justify-content-center wow fadeInUpBig animated" data-wow-delay=".3s">
-							<?php	foreach ($tax_terms  as $tax_term) { 
+							<?php	foreach ($tax_terms  as $tax_term) {
+                                if( $tax_term->name == "Featured"){
 							?>
-							<li class="nav-item"><a class="nav-link <?php if($tab==''){if($j==1){echo 'active';$j=2;}}else if($tab==$tax_term->slug){echo 'active';}?> text-light" id="tab" href="#<?php echo $tax_term->slug; ?>" data-toggle="tab"><?php echo $tax_term->name; ?></a></li>
-							<?php } ?>
+							<li class="nav-item"><a class="nav-link <?php if($tab==''){if($j==1){echo 'active';$j=2;}}else if($tab==$tax_term->slug){echo 'active';}?> text-light" id="tab" href="#<?php echo $tax_term->slug; ?>" data-toggle="tab">
+                                    <?php  echo $tax_term->name;  ?></a></li>
+							<?php }} ?>
 					</ul>	
                 </div><!-- .row -->				
 	     	</div><!-- .row -->	
@@ -38,10 +40,11 @@ $post_type = 'arilewp_portfolio';
 						if(isset($_POST['min_post_start']))
 						{ $min_post_start = $_POST['min_post_start']; }
 						$args = array (
-						'max_num_pages' =>5, 
+						'max_num_pages' =>5,
+                        'posts_per_page' =>4,
 						'post_status' => 'publish',
 						'post_type' => $post_type,
-						'portfolio_categories' => $tax_term->slug,
+						'portfolio_categories' => 'Featured',
 						'paged' => $curpage,
 						);
 						$portfolio_query = null;		
@@ -55,10 +58,12 @@ $post_type = 'arilewp_portfolio';
 										$custom_portfolio_target = sanitize_text_field( get_post_meta( get_the_ID(), 'custom_portfolio_target', true )); 
 										if(get_post_meta( get_the_ID(),'custom_portfolio_link', true )) { 
 											$custom_portfolio_link = get_post_meta( get_the_ID(),'custom_portfolio_link', true );
-										} else { $custom_portfolio_link = ''; } 
+										} else { $custom_portfolio_link = ''; }
 										?>
+
                                     <div class="col-lg-<?php echo $arilewp_project_column_layout; ?> col-md-6 col-sm-12">											
 										<article class="theme-project-content border-0 wow flipInY animated" data-wow-delay=".3s">
+
 											<figure class="portfolio-thumbnail">
 											<?php 
 												if(has_post_thumbnail()){

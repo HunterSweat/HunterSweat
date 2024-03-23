@@ -8,7 +8,7 @@
 /**
  * After setup theme hook
  */
-require 'theme-custom-pd.php';
+//require 'theme-custom-pd.php';
 require 'inc/custom-post.php';
 require 'inc/child_metabox.php';
 
@@ -29,7 +29,7 @@ add_action( 'after_setup_theme', 'arilewp_pro_child_theme_setup' );
 function arilewp_pro_child_theme_css() {
     wp_enqueue_style( 'parent-style', get_template_directory_uri() . '/style.css' );
 	wp_enqueue_style('arilewp-pro-child-style',get_stylesheet_directory_uri() . '/style.css',array('parent-style'));
-    pd_custom_pd_css();
+//    pd_custom_pd_css();
 }
 add_action( 'wp_enqueue_scripts', 'arilewp_pro_child_theme_css', 99);
 

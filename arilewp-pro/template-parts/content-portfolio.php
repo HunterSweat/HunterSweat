@@ -67,14 +67,15 @@ $arilewp_portfolio_templates_container_size = get_theme_mod('arilewp_portfolio_t
 						if(isset($_POST['min_post_start']))
 						{ $min_post_start = $_POST['min_post_start']; }
 						$args = array (
-						'max_num_pages' =>5, 
+						'max_num_pages' =>5,
 						'post_status' => 'publish',
 						'post_type' => $post_type,
 						'portfolio_categories' => $tax_term->slug,
 						'paged' => $curpage,
 						);
 						$portfolio_query = null;		
-						$portfolio_query = new WP_Query($args);	
+						$portfolio_query = new WP_Query($args);
+
 						if( $portfolio_query->have_posts() ):
 							?>
 							<div id="<?php echo $tax_term->slug; ?>" class="tab-pane fade in <?php if($tab==''){if($is_active==true){echo 'show active';}$is_active=false;}else if($tab==$tax_term->slug){echo 'show active';} ?>">

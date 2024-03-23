@@ -20,6 +20,7 @@ get_template_part('template-parts/site','breadcrumb');
 ?>				
 <!-- Portfolio Section -->
 <?php get_template_part('template-parts/content','portfolio'); ?>
+
 <!-- /Portfolio Section -->
 <?php 
 get_footer();
