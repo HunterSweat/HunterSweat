@@ -1,7 +1,7 @@
 
 
 function test() {
-    const accordion = document.getElementsByClassName('container');
+    const accordion = document.getElementsByClassName('acontainer');
     var i;
 
 

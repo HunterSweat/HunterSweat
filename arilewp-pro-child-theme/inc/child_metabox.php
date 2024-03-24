@@ -49,7 +49,7 @@ function child_save_meta_portfolio($post_id)
         {
 
             update_post_meta($post_ID, 'custom_portfolio_link', sanitize_text_field($_POST['custom_portfolio_link']));
-            update_post_meta($post_ID, 'custom_portfolio_target', sanitize_text_field($_POST['custom_portfolio_target']));
+//            update_post_meta($post_ID, 'custom_portfolio_target', sanitize_text_field($_POST['custom_portfolio_target']));
             update_post_meta($post_ID, 'custom_portfolio_description', sanitize_text_field($_POST['custom_portfolio_description']));
             update_post_meta($post_ID, 'custom_portfolio_single_description', sanitize_text_field($_POST['custom_portfolio_single_description']));
 

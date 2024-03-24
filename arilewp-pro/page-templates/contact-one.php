@@ -50,6 +50,8 @@ $arilewp_contact_about_desc = get_theme_mod('arilewp_contact_about_desc');
                             </div>
                     </div>
 
+                </div>
+                <div class="row">
                     <div class="accordion-body">
                         <div class="accordion">
 
@@ -70,7 +72,7 @@ $arilewp_contact_about_desc = get_theme_mod('arilewp_contact_about_desc');
                               $title = !empty($accordion_item->title) ? apply_filters( 'arilewp_translate_single_string', $accordion_item->title, 'Theme Accordion Info') : '';
                               $text = !empty($accordion_item->text) ? apply_filters( 'arilewp_translate_single_string', $accordion_item->text, 'Theme Accordion Info') : '';
                               ?>
-                                <div onclick="test()" class="container theme-contact-widget text-center wow animate fadeInUp" data-wow-delay=".3s">
+                                <div onclick="test()" class="col-lg-12 col-md-12 col-xs-12 acontainer theme-contact-widget text-center wow animate fadeInUp" data-wow-delay=".3s">
                                     <?php if( !empty($title) ) { ?>
                                     <div class="label text-center"><?php echo esc_html( $title ); ?> </div>
                                     <?php } ?>
