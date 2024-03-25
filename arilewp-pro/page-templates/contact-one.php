@@ -51,7 +51,7 @@ $arilewp_contact_about_desc = get_theme_mod('arilewp_contact_about_desc');
                     </div>
 
                 </div>
-                <div class="row">
+
                     <div class="accordion-body">
                         <div class="accordion">
 
@@ -85,9 +85,6 @@ $arilewp_contact_about_desc = get_theme_mod('arilewp_contact_about_desc');
                 </div>
             </div>
 
-
-
-        </div>
 	</section>
 	
 	<?php if($arilewp_google_map_disabled == true) : ?>

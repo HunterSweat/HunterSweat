@@ -78,7 +78,7 @@ h1 {
 }
 .accordion .acontainer {
     position: relative;
-    margin: 20px 20px;
+    margin: 20px 0px;
     border: 2px solid #3fef00;
     border-radius: 25px;
 
@@ -127,4 +127,8 @@ h1 {
 .accordion .container.active .label::before {
     content: '-';
     font-size: 30px;
+}
+
+.company-font {
+    font-family: Ebrima;
 }
