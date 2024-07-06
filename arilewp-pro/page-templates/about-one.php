@@ -22,21 +22,7 @@ $arilewp_about_funfact_disabled = get_theme_mod('arilewp_about_funfact_disabled'
 $arilewp_about_team_disabled = get_theme_mod('arilewp_about_team_disabled', true);
 $arilewp_about_client_disabled = get_theme_mod('arilewp_about_client_disabled', true);
 ?>
-    <!--About-->
-<!--    <section class="theme-block theme-about">-->
-<!--        <div class="container">-->
-<!--            <div class="row">-->
-<!--                <div class="col-lg-12 col-md-12 col-sm-12">-->
-<!--                    --><?php //the_post();
-//                    the_content(); ?>
-<!--                </div>-->
-<!--            </div>-->
-<!--            --><?php //if ($arilewp_about_site_info_disabled == true) : ?>
-<!--                --><?php //get_template_part('template-parts/index', 'siteinfo'); ?>
-<!--            --><?php //endif; ?>
-<!--        </div>-->
-<!--    </section>-->
-    <!-- /About -->
+
 
     <!-- Funfact -->
 <?php if ($arilewp_about_funfact_disabled == false) :
@@ -147,16 +133,16 @@ if ($arilewp_about_team_disabled == true) :
                     </div>
                 </div>
             </div>
-            <div class="row theme-team-content">
+            <div class="row theme-team-content theme-project">
                 <?php
                 $arilewp_team_content = json_decode($arilewp_team_content);
-
                 if ($arilewp_team_content != '') {
                     foreach ($arilewp_team_content as $team_content) {
                         $image = !empty($team_content->image_url) ? apply_filters('arilewp_translate_single_string', $team_content->image_url, 'Theme Team') : '';
                         $title = !empty($team_content->title) ? apply_filters('arilewp_translate_single_string', $team_content->title, 'Theme Team') : '';
                         $subtitle = !empty($team_content->subtitle) ? apply_filters('arilewp_translate_single_string', $team_content->subtitle, 'Theme Team') : '';
                         $link = !empty($team_content->link) ? apply_filters('arilewp_translate_single_string', $team_content->link, 'Theme Team') : '';
+                        $text = !empty($team_content->text) ? apply_filters('arilewp_translate_single_string', $team_content->text, 'Theme Team') : '';
 
                         if (!empty($team_content->open_new_tab)) {
                             $open_new_tab = $team_content->open_new_tab;
@@ -165,8 +151,8 @@ if ($arilewp_about_team_disabled == true) :
                         }
                         ?>
                         <div class="col-lg-4 col-md-6 col-sm-12">
-                            <div class="team-block wow animate fadeInUp" data-wow-delay=".3s">
-                                <div class="team-thumbnail">
+                            <div class="team-block wow animate fadeInUp flipInY theme-project-team border-0" data-wow-delay=".3s">
+                                <div class="portfolio-thumbnail" style="background-color: black;">
                                     <?php if (!empty($image)) : ?>
                                         <?php
                                         if (!empty($link)) :
@@ -188,8 +174,17 @@ if ($arilewp_about_team_disabled == true) :
                                         ?>
                                     <?php endif; ?>
 
-                                </div>
+                                    <div class="click-view">
+                                        <div class="thumbnail-showcase-icons">
 
+                                            <?php
+                                                echo '<a href="' . esc_url($image) . '" data-lightbox="image" title="' . esc_attr($text) . '"><i class="fa fa-search"></i></a>';
+                                            ?>
+                                        </div>
+                                    </div>
+
+                                </div>
+<!--                            </article>-->
                                 <div class="team-content">
                                     <?php if (!empty($subtitle)) : ?>
                                         <span class="position"><?php echo esc_html($subtitle); ?></span>
@@ -237,104 +232,7 @@ if ($arilewp_about_team_disabled == true) :
 <?php endif; ?>
     <!-- Team -->
 
-    <!-- Client -->
-<?php //if ($arilewp_about_client_disabled == true) :
-//
-//    $arilewp_client_options = get_theme_mod('arilewp_clients_content');
-//    $arilewp_client_front_container_size = get_theme_mod('arilewp_client_front_container_size', 'container');
-//    ?>
-<!--    <section class="theme-sponsors" id="theme-sponsors">-->
-<!--        <div class="--><?php //echo $arilewp_client_front_container_size; ?><!--">-->
-<!--            <div class="row theme-sponsors-content wow animate fadeInUp" data-wow-delay=".3s">-->
-<!--                <div id="sponsors-slider" class="owl-carousel owl-theme col-lg-12">-->
-<!--                    --><?php
-//                    $arilewp_client_options = json_decode($arilewp_client_options);
-//                    if ($arilewp_client_options != '') {
-//                        foreach ($arilewp_client_options as $client_iteam) {
-//                            $title = !empty($client_iteam->title) ? apply_filters('arilewp_translate_single_string', $client_iteam->title, 'Theme Client') : '';
-//                            $client_link = !empty($client_iteam->link) ? apply_filters('arilewp_translate_single_string', $client_iteam->link, 'Theme Client') : '';
-//                            if (!empty($client_iteam->open_new_tab)) {
-//                                $open_new_tab = $client_iteam->open_new_tab;
-//                            } else {
-//                                $open_new_tab = 'no';
-//                            }
-//                            ?>
-<!---->
-<!--                            <div class="item">-->
-<!--                                <a href="--><?php //echo $client_link; ?><!--"-->
-<!--                                   class="clients-scroll" --><?php //if ($open_new_tab == 'yes') {
-//                                    echo 'target="_blank"';
-//                                } ?>
-<!--                                    <img src="--><?php //echo $client_iteam->image_url; ?><!--" class="img-fluid" alt="Client">-->
-<!--                                </a>-->
-<!--                            </div>-->
-<!---->
-<!--                        --><?php //}
-//                    } else { ?>
-<!---->
-<!--                        <div class="item">-->
-<!--                            <a href="#" class="clients-scroll">-->
-<!--                                <img src="--><?php //echo get_template_directory_uri(); ?><!--/assets/img/sponsors/theme-client1.png"-->
-<!--                                     class="img-fluid" alt="Client 1">-->
-<!--                            </a>-->
-<!--                        </div>-->
-<!---->
-<!--                        <div class="item">-->
-<!--                            <a href="#" class="clients-scroll">-->
-<!--                                <img src="--><?php //echo get_template_directory_uri(); ?><!--/assets/img/sponsors/theme-client2.png"-->
-<!--                                     class="img-fluid" alt="Client 2">-->
-<!--                            </a>-->
-<!--                        </div>-->
-<!---->
-<!--                        <div class="item">-->
-<!--                            <a href="#" class="clients-scroll">-->
-<!--                                <img src="--><?php //echo get_template_directory_uri(); ?><!--/assets/img/sponsors/theme-client3.png"-->
-<!--                                     class="img-fluid" alt="Client 3">-->
-<!--                            </a>-->
-<!--                        </div>-->
-<!---->
-<!--                        <div class="item">-->
-<!--                            <a href="#" class="clients-scroll">-->
-<!--                                <img src="--><?php //echo get_template_directory_uri(); ?><!--/assets/img/sponsors/theme-client4.png"-->
-<!--                                     class="img-fluid" alt="Client 4">-->
-<!--                            </a>-->
-<!--                        </div>-->
-<!---->
-<!--                        <div class="item">-->
-<!--                            <a href="#" class="clients-scroll">-->
-<!--                                <img src="--><?php //echo get_template_directory_uri(); ?><!--/assets/img/sponsors/theme-client5.png"-->
-<!--                                     class="img-fluid" alt="Client 5">-->
-<!--                            </a>-->
-<!--                        </div>-->
-<!---->
-<!--                        <div class="item">-->
-<!--                            <a href="#" class="clients-scroll">-->
-<!--                                <img src="--><?php //echo get_template_directory_uri(); ?><!--/assets/img/sponsors/theme-client6.png"-->
-<!--                                     class="img-fluid" alt="Client 6">-->
-<!--                            </a>-->
-<!--                        </div>-->
-<!---->
-<!--                        <div class="item">-->
-<!--                            <a href="#" class="clients-scroll">-->
-<!--                                <img src="--><?php //echo get_template_directory_uri(); ?><!--/assets/img/sponsors/theme-client7.png"-->
-<!--                                     class="img-fluid" alt="Client 7">-->
-<!--                            </a>-->
-<!--                        </div>-->
-<!---->
-<!--                        <div class="item">-->
-<!--                            <a href="#" class="clients-scroll">-->
-<!--                                <img src="--><?php //echo get_template_directory_uri(); ?><!--/assets/img/sponsors/theme-client8.png"-->
-<!--                                     class="img-fluid" alt="Client 8">-->
-<!--                            </a>-->
-<!--                        </div>-->
-<!---->
-<!--                    --><?php //} ?>
-<!--                </div>-->
-<!--            </div>-->
-<!--        </div>-->
-<!--    </section>-->
-<?php //endif; ?>
-    <!-- Client -->
+
 
 <?php
 get_footer();

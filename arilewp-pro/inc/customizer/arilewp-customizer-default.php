@@ -28,7 +28,6 @@ if ( ! function_exists( 'arilewp_theme_top_header_default_content' ) ) :
 						),
 						
 					) );
-
 				}
 	    }
 add_action( 'customize_register', 'arilewp_theme_top_header_default_content' );

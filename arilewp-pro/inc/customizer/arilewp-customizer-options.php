@@ -583,9 +583,10 @@ function arilewp_frontpage_sections_settings( $wp_customize ){
 						'item_name'                        => esc_html__( 'Team Member', 'arilewp' ),
 						'customizer_repeater_image_control' => true,
 						'customizer_repeater_title_control' => true,
+                        'customizer_repeater_text_control' => true,
 						'customizer_repeater_subtitle_control' => true,
-						'customizer_repeater_link_control' => true,
-						'customizer_repeater_checkbox_control' => true,
+//						'customizer_repeater_link_control' => true,
+//						'customizer_repeater_checkbox_control' => true,
 						'customizer_repeater_repeater_control' => true,
 						
 					)
@@ -613,7 +614,7 @@ function arilewp_frontpage_sections_settings( $wp_customize ){
 					)
 				);
 			}
-			
+
 			if ( class_exists( 'ArileWP_Page_Editor' ) ) {				
 				$default = '';
 				$wp_customize->add_setting(
@@ -1094,7 +1095,7 @@ function arilewp_customizer_selective_refresh_settings($wp_customize) {
 			'section' => 'arilewp_theme_cta',
 			'priority'        => 5,
 			'type' => 'text',
-		));	
+		));
 		
 		$wp_customize->add_setting( 'arilewp_cta_area_des',
 		array(

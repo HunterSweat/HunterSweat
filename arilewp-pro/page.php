@@ -98,7 +98,7 @@ if($page_container_layout == 'container-full'){$container = '9';}else{$container
 				    endwhile;
 				}
 				?>
-			</div>	
+			</div>
 			
 			<?php if($page_sidebar_layout == 'right-sidebar' || empty($page_sidebar_layout)):	
 					if ( class_exists( 'WooCommerce' ) ) {

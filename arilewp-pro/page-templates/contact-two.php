@@ -56,7 +56,7 @@ $arilewp_contact_form_title = get_theme_mod('arilewp_contact_form_title', 'Drop 
 									the_content( __('Read More','arilewp') );
 									wp_link_pages();
 									
-									comments_template( '', true ); // show comments 
+									comments_template( '', true ); // show comments
 									
 								endwhile;
 					    ?>		

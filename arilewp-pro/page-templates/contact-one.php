@@ -122,7 +122,7 @@ $arilewp_contact_about_desc = get_theme_mod('arilewp_contact_about_desc');
 						the_content( __('Read More','arilewp') );
 					    wp_link_pages();
 						
-						comments_template( '', true ); // show comments 
+						comments_template( '', true ); // show comments
 						
 					endwhile;
 					?>	
