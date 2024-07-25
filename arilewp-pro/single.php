@@ -13,6 +13,24 @@ $arilewp_single_blog_pages_layout = get_theme_mod('arilewp_single_blog_pages_lay
 $arilewp_single_blog_container_size = get_theme_mod('arilewp_single_blog_container_size', 'container');
 if($arilewp_single_blog_container_size == 'container-full'){$container = '9';}else{$container = '8';}
 ?>
+
+<?php
+
+$galleryArray = get_post_gallery_ids();
+?>
+    <section class="theme-main-slider" id="theme-slider" style="padding: 100px;">
+
+        <div id="theme-main-slider" class="owl-carousel owl-theme owl-loaded owl-drag">
+
+           <?php foreach ($galleryArray as $id) { ?>
+
+
+               <div class="item" style="background-image:url(<?php echo wp_get_attachment_url( $id ); ?>);"></div>
+
+            <?php } ?>
+            </div>
+    </section>
+
 <section class="theme-block theme-blog theme-blog-large theme-bg-grey">
 
 	<div class="<?php echo $arilewp_single_blog_container_size; ?>">
@@ -34,7 +52,14 @@ if($arilewp_single_blog_container_size == 'container-full'){$container = '9';}el
 
         <?php endif; ?>
 
-			<?php
+
+
+
+
+                <?php
+
+
+
 			while ( have_posts() ) :
 				the_post();
 
@@ -47,7 +72,7 @@ if($arilewp_single_blog_container_size == 'container-full'){$container = '9';}el
 
 
 			endwhile; // End of the loop.
-//			?>
+			?>
 
 		</div>
 		<?php if($arilewp_single_blog_pages_layout == 'arilewp_right_sidebar' || !$arilewp_single_blog_pages_layout == 'arilewp_no_sidebar'): ?>

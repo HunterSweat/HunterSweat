@@ -28,4 +28,11 @@ function arilewp_custom_portfolio_type(){
 }
 add_action( 'init', 'arilewp_custom_portfolio_type' );
 
+function add_projects_to_fg_post_types( $post_types ) {
+    // Add 'projects' post type to the list
+    $post_types[] = 'arilewp_portfolio';
+    return $post_types;
+}
+add_filter( 'fg_post_types', 'add_projects_to_fg_post_types' );
+
 ?>

@@ -32,7 +32,7 @@ $arilewp_main_slider_overlay_color = get_theme_mod('arilewp_main_slider_overlay_
 							if($slide_format == 'center'){ $slide_format_layout1 = 'align-center'; }
 						}	
 						
-			?>					
+			?>
 			<?php if($slide_iteam->image_url!=''){ ?>			
 			<div class="item" style="background-image:url(<?php echo $slide_iteam->image_url; ?>);">
 			<?php } ?>
