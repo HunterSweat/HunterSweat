@@ -72,7 +72,7 @@ $galleryArray = get_post_gallery_ids();
 
 
 			endwhile; // End of the loop.
-			?>
+//			?>
 
 		</div>
 		<?php if($arilewp_single_blog_pages_layout == 'arilewp_right_sidebar' || !$arilewp_single_blog_pages_layout == 'arilewp_no_sidebar'): ?>

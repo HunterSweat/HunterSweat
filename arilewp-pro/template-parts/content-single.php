@@ -11,11 +11,11 @@ $blog_content_ordering = get_theme_mod( 'arilewp_general_blog_arcive_single_cont
 $arilewp_related_single_blog_disabled = get_theme_mod( 'arilewp_related_single_blog_disabled', true )
 ?>
 <article class="post wow animate fadeInUp" data-wow-delay=".3s" <?php post_class(); ?>>		
-		   <?php 
-			if(has_post_thumbnail()){
-			echo '<figure class="post-thumbnail">';
-			the_post_thumbnail( '', array( 'class'=>'img-fluid' ) );
-			echo '</figure>'; } ?>		
+<!--		   --><?php //
+//			if(has_post_thumbnail()){
+//			echo '<figure class="post-thumbnail">';
+//			the_post_thumbnail( '', array( 'class'=>'img-fluid' ) );
+//			echo '</figure>'; } ?><!--		-->
 		    <div class="post-content">
 			<?php foreach ( $blog_content_ordering as $blog_content_order ) : ?>	
 			   <?php if ( 'meta-one' === $blog_content_order ) : ?>
