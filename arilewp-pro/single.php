@@ -17,15 +17,27 @@ if($arilewp_single_blog_container_size == 'container-full'){$container = '9';}el
 <?php
 
 $galleryArray = get_post_gallery_ids();
+
 ?>
     <section class="theme-main-slider" id="theme-slider" style="padding: 100px;">
 
         <div id="theme-main-slider" class="owl-carousel owl-theme owl-loaded owl-drag">
 
-           <?php foreach ($galleryArray as $id) { ?>
+           <?php foreach ($galleryArray as $id) {
+               $image_url = wp_get_attachment_url( $id );
+               $alt_text = get_post_meta( $id, '_wp_attachment_image_alt', true );
+               $title = get_post_field('post_title', $id);
+               $caption = get_post_field('post_excerpt', $id);
+               $description = get_post_field('post_content', $id);
+               ?>
 
 
-               <div class="item" style="background-image:url(<?php echo wp_get_attachment_url( $id ); ?>);"></div>
+               <div class="item" style="background-image:url('<?php echo $image_url; ?>');"
+                                 aria-label="<?php echo esc_attr($alt_text); ?>"
+                                title="<?php echo esc_attr($title);  ?>"
+                                data-caption="<?php echo esc_attr($caption); ?>"
+                                data-description="<?php echo esc_attr($description) ?>"
+                                alt="<?php echo esc_attr($alt_text);  ?>"></div>
 
             <?php } ?>
             </div>
