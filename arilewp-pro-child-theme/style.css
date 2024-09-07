@@ -11,6 +11,14 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Text Domain: arilewp-pro-child-theme
 */
 
+.theme-block .post-content .custom-single-description a{
+    color: #3fef00 !important;
+}
+
+.theme-block .post-content .custom-single-description a:hover{
+    color: #ddd !important;
+
+}
 
 .theme-bg-default{
     background-color: #18191b !important;
