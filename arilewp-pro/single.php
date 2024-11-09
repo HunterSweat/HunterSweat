@@ -19,7 +19,7 @@ if($arilewp_single_blog_container_size == 'container-full'){$container = '9';}el
 $galleryArray = get_post_gallery_ids();
 
 ?>
-    <section class="theme-main-slider" id="theme-slider" style="padding: 100px;">
+    <section class="theme-main-slider" id="theme-slider">
 
         <div id="theme-main-slider" class="owl-carousel owl-theme owl-loaded owl-drag">
 

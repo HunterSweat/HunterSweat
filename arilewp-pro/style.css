@@ -745,7 +745,8 @@ body.custom-background .theme-funfact.vrsn-two {
     width: 100%;
     z-index: 0;
     background-size: cover;
-	height: 800px;
+	height: auto;
+	padding-top: 56.25%;
 }
 .divider-sm-center {
     max-width: 60px;
