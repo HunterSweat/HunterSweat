@@ -190,6 +190,7 @@ function arilewp_frontpage_sections_settings( $wp_customize ){
 					)
 				);
 
+
 				$wp_customize->add_control(
 					new ArileWP_Page_Editor(
 						$wp_customize, 'arilewp_service_area_before_content', array(
@@ -787,9 +788,9 @@ function arilewp_frontpage_sections_settings( $wp_customize ){
 					}
 
                     if ( class_exists( 'ArileWP_Repeater' ) ) {
-                        $wp_customize->add_setting( 'arilewp_contact_about_desc', array( ) );
+                        $wp_customize->add_setting( 'arilewp_contact_about_accordion', array( ) );
                         $wp_customize->add_control( new ArileWP_Repeater(
-                            $wp_customize, 'arilewp_contact_about_desc', array(
+                            $wp_customize, 'arilewp_contact_about_accordion', array(
                             'label'                             => esc_html__( 'Accordion Section', 'arilewp' ),
                             'section'                           => 'arilewp_contact_template',
                             'add_field_label'                   => esc_html__( 'Add new info', 'arilewp' ),
@@ -797,6 +798,7 @@ function arilewp_frontpage_sections_settings( $wp_customize ){
                             'customizer_repeater_title_control' => true,
                             'customizer_repeater_text_control'  => true,
                             'customizer_repeater_icon_control'  => false,
+                            'customizer_repeater_image_control' => true,
                             'customizer_repeater_link_control'  => false,
                             'customizer_repeater_checkbox_control' => false,
                         ) ) );

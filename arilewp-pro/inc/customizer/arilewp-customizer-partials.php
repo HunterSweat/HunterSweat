@@ -134,6 +134,11 @@ if ( ! class_exists( 'ArileWP_Customizer_Partials' ) ) {
 		public static function customize_partial_arilewp_show_more_button_text() {
 			return get_theme_mod( 'arilewp_show_more_button_text' );
 		}
+
+        // contact button
+        public static function customize_partial_arilewp_contact() {
+            return get_theme_mod( 'arilewp_show_more_button_text' );
+        }
 		
 		// footer copyright text
 		public static function customize_partial_arilewp_footer_copright_text() {

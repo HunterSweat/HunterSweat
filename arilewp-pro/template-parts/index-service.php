@@ -57,50 +57,57 @@ if($arilewp_service_area_disabled == true): ?>
 				} else{ $open_new_tab = 'no'; }
 
 			?>
-			<div class="col-lg-<?php echo $arilewp_service_column_layout; ?> col-md-6 col-sm-12">				
+
+			<div class="col-lg-<?php echo $arilewp_service_column_layout; ?> col-md-6 col-sm-12">
 		        
-					<article class="<?php if($arilewp_service_layout == 'arilewp_service_layout1'){echo 'service-content text-center';}else{echo 'service-content-two media';} ?>">
-					
-					<?php if($features_item->choice == 'customizer_repeater_image'){ ?>
-							<?php if ( ! empty( $image ) ) : ?>
-							<figure class="service-content-thumbnail<?php if($arilewp_service_layout == 'arilewp_service_layout2'){echo '-two';} ?>">
-								<?php if ( ! empty( $link ) ) : ?>
-									<a href="<?php echo $link; ?>" <?php if($open_new_tab== 'yes' || $open_new_tab== 'on') { echo "target='_blank'"; } ?>>
-									   <img class="img-fluid" src="<?php echo esc_url( $image ); ?>" <?php if ( ! empty( $title ) ) : ?> alt="<?php echo esc_attr( $title ); ?>" title="<?php echo esc_attr( $title ); ?>" <?php endif; ?> />
-									</a>
-								<?php endif; ?>	
-								<?php if ( empty( $link ) ) : ?>	
-										<img class="img-fluid" src="<?php echo esc_url( $image ); ?>" <?php if ( ! empty( $title ) ) : ?> alt="<?php echo esc_attr( $title ); ?>" title="<?php echo esc_attr( $title ); ?>" <?php endif; ?> />
-                                <?php endif; ?>	
-                            </figure>								
-							<?php endif; ?>
-						<?php } else if($features_item->choice =='customizer_repeater_icon'){ ?>
-							<?php if ( ! empty( $icon ) ) :?>
-							<figure class="service-content-thumbnail<?php if($arilewp_service_layout == 'arilewp_service_layout2'){echo '-two';} ?>">
-									<?php if ( ! empty( $link ) ) : ?>
-											<a href="<?php echo $link; ?>" <?php if($open_new_tab== 'yes' || $open_new_tab== 'on') { echo "target='_blank'"; } ?>><i class="fa <?php echo esc_html( $icon ); ?>"></i></a>
-									<?php endif; ?>
-									<?php if ( empty( $link ) ) : ?>
-											<i class="fa <?php echo esc_html( $icon ); ?>"></i>	
-									<?php endif; ?>
-							</figure>
-							<?php endif; ?>
-						<?php } ?>
-						
-						<?php if($arilewp_service_layout == 'arilewp_service_layout2'){echo '<div class="media-body">';} ?>
-							<?php if ( ! empty( $title ) ) : 
-								if(empty($link)){ ?>
-									<h5 class="service-title"><?php echo esc_html( $title ); ?></h5><?php
-								}else{
-									?>
-									<h5 class="service-title"><a href="<?php echo $link; ?>" <?php if($open_new_tab =='yes'){?>target="_blank" <?php }?> ><?php echo esc_html( $title ); ?></a></h5><?php
-								}
-							?>
-							<?php endif; ?>
-							<?php if ( ! empty( $text ) ) : ?>
-								<p><?php echo wp_kses_post( html_entity_decode( $text ) ); ?></p>
-							<?php endif; ?>
-							
+					<article class=" flip-card <?php if($arilewp_service_layout == 'arilewp_service_layout1'){echo 'service-content text-center';}else{echo 'service-content-two media';} ?>">
+					<div class="flip-card-inner">
+                        <div class="flip-card-front">
+                        <?php if($features_item->choice == 'customizer_repeater_image'){ ?>
+                                <?php if ( ! empty( $image ) ) : ?>
+                                <figure class="service-content-thumbnail<?php if($arilewp_service_layout == 'arilewp_service_layout2'){echo '-two';} ?>">
+                                    <?php if ( ! empty( $link ) ) : ?>
+                                        <a href="<?php echo $link; ?>" <?php if($open_new_tab== 'yes' || $open_new_tab== 'on') { echo "target='_blank'"; } ?>>
+                                           <img class="img-fluid" src="<?php echo esc_url( $image ); ?>" <?php if ( ! empty( $title ) ) : ?> alt="<?php echo esc_attr( $title ); ?>" title="<?php echo esc_attr( $title ); ?>" <?php endif; ?> />
+                                        </a>
+                                    <?php endif; ?>
+                                    <?php if ( empty( $link ) ) : ?>
+                                            <img class="img-fluid" src="<?php echo esc_url( $image ); ?>" <?php if ( ! empty( $title ) ) : ?> alt="<?php echo esc_attr( $title ); ?>" title="<?php echo esc_attr( $title ); ?>" <?php endif; ?> />
+                                    <?php endif; ?>
+                                </figure>
+                                <?php endif; ?>
+                            <?php } else if($features_item->choice =='customizer_repeater_icon'){ ?>
+                                <?php if ( ! empty( $icon ) ) :?>
+                                <figure class="service-content-thumbnail<?php if($arilewp_service_layout == 'arilewp_service_layout2'){echo '-two';} ?>">
+                                        <?php if ( ! empty( $link ) ) : ?>
+                                                <a href="<?php echo $link; ?>" <?php if($open_new_tab== 'yes' || $open_new_tab== 'on') { echo "target='_blank'"; } ?>><i class="fa <?php echo esc_html( $icon ); ?>"></i></a>
+                                        <?php endif; ?>
+                                        <?php if ( empty( $link ) ) : ?>
+                                                <i class="fa <?php echo esc_html( $icon ); ?>"></i>
+                                        <?php endif; ?>
+                                </figure>
+                                <?php endif; ?>
+                            <?php } ?>
+
+                            <?php if($arilewp_service_layout == 'arilewp_service_layout2'){echo '<div class="media-body">';} ?>
+                                <?php if ( ! empty( $title ) ) :
+                                    if(empty($link)){ ?>
+                                        <h5 class="service-title"><?php echo esc_html( $title ); ?></h5><?php
+                                    }else{
+                                        ?>
+                                        <h5 class="service-title"><a href="<?php echo $link; ?>" <?php if($open_new_tab =='yes'){?>target="_blank" <?php }?> ><?php echo esc_html( $title ); ?></a></h5><?php
+                                    }
+                                ?>
+                                <?php endif; ?>
+
+                        </div>
+                        <div class="flip-card-back">
+                            <h5 class="service-title"><?php echo esc_html( $title ); ?></h5>
+                            <?php if ( ! empty( $text ) ) : ?>
+                                <p><?php echo wp_kses_post( html_entity_decode( $text ) ); ?></p>
+                            <?php endif; ?>
+                        </div>
+                    </div>
 						<?php if(!empty($button_text)):?>
 							<?php if(!empty($link)):?>
 							<div class="service-links<?php if($arilewp_service_layout == 'arilewp_service_layout2'){echo '-two';} ?>"><a href="<?php echo esc_url( $link ); ?>" <?php if($open_new_tab =='yes'){echo "target='_blank'";} ?> ><?php echo esc_html($button_text); ?></a></div>
@@ -116,48 +123,8 @@ if($arilewp_service_area_disabled == true): ?>
 				
 			</div>
 			<?php
-			} }
-			else
-			{   ?>
-				<div class="col-lg-<?php echo $arilewp_service_column_layout; ?> col-md-6 col-sm-12">				
-					<article class="<?php if($arilewp_service_layout == 'arilewp_service_layout1'){echo 'service-content text-center';}else{echo 'service-content-two media';} ?>">
-						<figure class="service-content-thumbnail<?php if($arilewp_service_layout == 'arilewp_service_layout2'){echo '-two';} ?>">	
-							<a href="#"><i class="fa fa-mobile"></i></a>
-						</figure>
-					<?php if($arilewp_service_layout == 'arilewp_service_layout2'){echo '<div class="media-body">';} ?>
-						<h5 class="service-title"><a href="#"><?php esc_html_e('Pixel Perfect Design','arilewp'); ?></a></h5>
-						<p><?php esc_html_e('Lorem Ipsum is simply text of the printing and typesetting industry. Lorem Ipsum has been standard dummy.','arilewp'); ?></p>
-						<div class="service-links<?php if($arilewp_service_layout == 'arilewp_service_layout2'){echo '-two';} ?>"><a href="#"><?php esc_html_e('Read More','arilewp'); ?></a></div>
-					<?php if($arilewp_service_layout == 'arilewp_service_layout2'){echo '</div>';} ?>
-					</article>
-				</div>
-				<div class="col-lg-<?php echo $arilewp_service_column_layout; ?> col-md-6 col-sm-12">				
-					<article class="<?php if($arilewp_service_layout == 'arilewp_service_layout1'){echo 'service-content text-center';}else{echo 'service-content-two media';} ?>">
-						<figure class="service-content-thumbnail<?php if($arilewp_service_layout == 'arilewp_service_layout2'){echo '-two';} ?>">	
-							<a href="#"><i class="fa fa-opencart"></i></a>
-						</figure>
-					<?php if($arilewp_service_layout == 'arilewp_service_layout2'){echo '<div class="media-body">';} ?>
-						<h5 class="service-title"><a href="#"><?php esc_html_e('WooCommerce Ready','arilewp'); ?></a></h5>
-						<p><?php esc_html_e('Lorem Ipsum is simply text of the printing and typesetting industry. Lorem Ipsum has been standard dummy.','arilewp'); ?></p>
-						<div class="service-links<?php if($arilewp_service_layout == 'arilewp_service_layout2'){echo '-two';} ?>"><a href="#"><?php esc_html_e('Read More','arilewp'); ?></a></div>
-					<?php if($arilewp_service_layout == 'arilewp_service_layout2'){echo '</div>';} ?>
-					</article>
-				</div>
-				<div class="col-lg-<?php echo $arilewp_service_column_layout; ?> col-md-6 col-sm-12">				
-					<article class="<?php if($arilewp_service_layout == 'arilewp_service_layout1'){echo 'service-content text-center';}else{echo 'service-content-two media';} ?>">
-						<figure class="service-content-thumbnail<?php if($arilewp_service_layout == 'arilewp_service_layout2'){echo '-two';} ?>">	
-							<a href="#"><i class="fa fa-users"></i></a>
-						</figure>
-					<?php if($arilewp_service_layout == 'arilewp_service_layout2'){echo '<div class="media-body">';} ?>
-						<h5 class="service-title"><a href="#"><?php esc_html_e('Satisfied Clients','arilewp'); ?></a></h5>
-						<p><?php esc_html_e('Lorem Ipsum is simply text of the printing and typesetting industry. Lorem Ipsum has been standard dummy.','arilewp'); ?></p>
-						<div class="service-links<?php if($arilewp_service_layout == 'arilewp_service_layout2'){echo '-two';} ?>"><a href="#"><?php esc_html_e('Read More','arilewp'); ?></a></div>
-					<?php if($arilewp_service_layout == 'arilewp_service_layout2'){echo '</div>';} ?>
-					</article>
-				</div>		
-			<?Php	
-		    } 
-			?>
+			} } ?>
+
 		</div>
 	</div>
 </section>

@@ -22,7 +22,7 @@ $arilewp_google_map_disabled = get_theme_mod('arilewp_google_map_disabled', true
 $arilewp_contact_form_disabled = get_theme_mod('arilewp_contact_form_disabled', true);
 $arilewp_contact_form_title = get_theme_mod('arilewp_contact_form_title', 'Drop Us a Message');
 $arilewp_contact_about_title = get_theme_mod('arilewp_contact_about_title', 'Read About Us');
-$arilewp_contact_about_desc = get_theme_mod('arilewp_contact_about_desc');
+$arilewp_contact_about_accordion = get_theme_mod('arilewp_contact_about_accordion');
 ?>
 <!-- Contact Info -->
 	<section class="theme-block theme-bg-grey">
@@ -38,6 +38,10 @@ $arilewp_contact_about_desc = get_theme_mod('arilewp_contact_about_desc');
 	            <?php get_template_part( 'template-parts/contact', 'info' ); ?>
 			<?php endif; ?>
 		</div>
+
+
+
+
 
     <section class="theme-contact wow animate fadeInUp" data-wow-delay=".3s">
         <div class="container">
@@ -56,7 +60,7 @@ $arilewp_contact_about_desc = get_theme_mod('arilewp_contact_about_desc');
                         <div class="accordion">
 
                             <?php
-                            if ( ! empty( $arilewp_contact_about_desc ) ) {
+                            if ( ! empty( $arilewp_contact_about_accordion ) ) {
                             $allowed_html = array(
                                 'br'     => array(),
                                 'em'     => array(),
@@ -64,20 +68,38 @@ $arilewp_contact_about_desc = get_theme_mod('arilewp_contact_about_desc');
                                 'b'      => array(),
                                 'i'      => array(),
                             );
-                            $arilewp_contact_about_desc = json_decode( $arilewp_contact_about_desc );
+                            $arilewp_contact_about_accordion = json_decode( $arilewp_contact_about_accordion );
 
 
 
-                            foreach ($arilewp_contact_about_desc as $accordion_item) {
+                            foreach ($arilewp_contact_about_accordion as $accordion_item) {
                               $title = !empty($accordion_item->title) ? apply_filters( 'arilewp_translate_single_string', $accordion_item->title, 'Theme Accordion Info') : '';
                               $text = !empty($accordion_item->text) ? apply_filters( 'arilewp_translate_single_string', $accordion_item->text, 'Theme Accordion Info') : '';
+                              $image = !empty($accordion_item->image_url) ? apply_filters( 'arilewp_translate_single_string', $accordion_item->image_url, 'Theme Accordion Info') : '';
+                              $imageId = attachment_url_to_postid($image);
+                              $alt_text = get_post_meta($imageId, '_wp_attachment_image_alt', true);
+                              $image_desc = get_post($imageId)->post_content;
+
                               ?>
-                                <div onclick="test()" class="col-lg-12 col-md-12 col-xs-12 acontainer theme-contact-widget text-center wow animate fadeInUp" data-wow-delay=".3s">
+                                <div class="col-lg-12 col-md-12 col-xs-12 acontainer theme-contact-widget text-center wow animate fadeInUp" data-wow-delay=".3s">
                                     <?php if( !empty($title) ) { ?>
                                     <div class="label text-center"><?php echo esc_html( $title ); ?> </div>
                                     <?php } ?>
                                     <?php if( !empty( $text ) ) { ?>
-                                    <div class="content"><?php echo wp_kses( html_entity_decode( $text ), $allowed_html ); ?> </div>
+                                    <div class="content">
+                                        <div class="content-inner">
+                                            <div class="text-content">
+                                        <?php if ( ! empty( $image ) ) { ?>
+                                                <img src="<?php echo esc_url( $image ); ?>" aria-label="<?php echo esc_attr( $image_desc ); ?>" alt="<?php echo esc_attr( $alt_text ); ?>" class="inline-image">
+                                        <?php } ?>
+                                                <div class="text-wrapper">
+
+                                                    <?php echo wp_kses( html_entity_decode( $text ), $allowed_html ); ?>
+                                                </div>
+
+                                            </div>
+                                        </div>
+                                    </div>
                                     <?php } ?>
                                 </div>
 

@@ -4,7 +4,7 @@ $arilewp_contact_info_column_layout = get_theme_mod('arilewp_contact_info_column
 $arilewp_contact_info_column_layout = 12/$arilewp_contact_info_column_layout;
 ?><!-- Contact info Area -->
 
-    <div class="row">
+    <div class="row contact">
 		<?php 
 				if ( ! empty( $arilewp_contact_template_info_content ) ) {
 				$allowed_html = array(
@@ -28,7 +28,7 @@ $arilewp_contact_info_column_layout = 12/$arilewp_contact_info_column_layout;
 						<div class="col-lg-<?php echo $arilewp_contact_info_column_layout; ?> col-md-6 col-sm-12">
 
                             <div class="theme-contact-widget text-center wow animate fadeInUp" data-wow-delay=".3s">
-							
+
 								<?php if ( ! empty( $icon ) ) :?>
 									<i class="fa <?php echo esc_html( $icon ); ?>"></i>
 								<?php endif; ?>	
@@ -74,3 +74,4 @@ $arilewp_contact_info_column_layout = 12/$arilewp_contact_info_column_layout;
 		        <?php } ?>	
 		
     </div>
+

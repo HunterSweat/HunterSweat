@@ -79,145 +79,367 @@ h1 {
 
 /* Sets the width for the accordion. Sets the margin to 90px on the top and bottom and auto to the left and right */
 
-.accordion {
-    /*width: 800px;*/
-    /*margin: 90px auto;*/
-    /*padding: 45px 45px;*/
-}
+/* Accordion Container */
+/* Accordion Container */
 .accordion .acontainer {
     position: relative;
-    margin: 20px 0px;
+    margin: 20px 0;
     border: 2px solid #3fef00;
     border-radius: 25px;
-
+    background: #222;
+    transition: all 0.3s ease;
 }
+
+.accordion .acontainer:hover {
+    border-color: #5fff2a;
+    box-shadow: 0 0 15px rgba(63, 239, 0, 0.3);
+}
+
+.accordion .acontainer.active {
+    transform: scale(1.02);
+}
+
+/* Label Styling */
 .accordion .label {
     position: relative;
-    padding: 10px 0;
+    padding: 15px 40px;
     font-size: 30px;
     cursor: pointer;
+    color: #fff;
+    text-align: center;
+    transition: color 0.3s ease;
 }
 
-/* Positions the plus sign 5px from the right. Centers it using the transform property. */
+.accordion .label:hover {
+    color: #3fef00;
+}
 
+.accordion .acontainer.active .label {
+    background: linear-gradient(45deg, #222, #333);
+    text-shadow: 0 0 5px rgba(63, 239, 0, 0.5);
+}
+
+/* Plus/Minus Animation */
 .accordion .label::before {
     content: '+';
     position: absolute;
     top: 50%;
-    right: -5px;
-    font-size: 30px;
+    right: 15px;
+    font-size: 60px;
     transform: translateY(-50%);
+    transition: all 0.4s ease;
 }
 
-/* Hides the content (height: 0), decreases font size, justifies text and adds transition */
+.accordion .acontainer.active .label::before {
+    content: '-';
+    transform: translateY(-50%) rotate(180deg);
+    color: #3fef00;
+    font-size: 50px;
+    animation: bounce 0.4s ease;
+}
 
+@keyframes bounce {
+    0% { transform: translateY(-50%) scale(1); }
+    50% { transform: translateY(-50%) scale(1.2); }
+    100% { transform: translateY(-50%) scale(1); }
+}
+
+/* Content Container */
 .accordion .content {
-    position: relative;
     height: 0;
     font-size: 20px;
     text-align: justify;
-    /*width: 780px;*/
     overflow: hidden;
-    transition: 0.5s;
+    transition: height 0.5s ease, opacity 0.3s ease;
     color: #ddd;
+    opacity: 0;
 }
-
 
 .accordion .acontainer.active .content {
     height: auto;
     margin: auto 10px 20px;
     padding-bottom: 10px;
-    text-align: center;
+    opacity: 1;
+    animation: slideIn 0.5s ease forwards;
 }
 
-/* Changes from plus sign to negative sign once active */
+@keyframes slideIn {
+    from {
+        transform: translateY(-10px);
+        opacity: 0;
+    }
+    to {
+        transform: translateY(0);
+        opacity: 1;
+    }
+}
 
-.accordion .container.active .label::before {
-    content: '-';
-    font-size: 30px;
+/* Inner Content Styling */
+.content-inner {
+    padding: 20px;
+}
+
+/* Text Content */
+.text-content {
+    position: relative;
+    text-align: justify;
+    line-height: 1.6;
+}
+
+/* Text Wrapper */
+.text-wrapper {
+    margin-top: 20px; /* Initial space, adjusted by JS */
+}
+
+/* Inline Image */
+.inline-image {
+    float: left; /* Enables text wrapping */
+    max-width: 500px;
+    height: auto;
+    border-radius: 10px;
+    border: 1px solid #3fef00;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    margin: 20px 40px 40px 20px; /* Adjusted by JS for top */
+    shape-outside: margin-box; /* Enhances wrapping */
+    transition: transform 0.3s ease;
+}
+
+.inline-image:hover {
+    transform: scale(1.05);
+    box-shadow: 0 0 15px rgba(63, 239, 0, 0.3);
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    .inline-image {
+        float: none;
+        max-width: 80%;
+        margin: 10px auto;
+        display: block;
+    }
+
+    .inline-image:hover {
+        transform: scale(1.05);
+    }
+
+    .text-content {
+        text-align: center;
+    }
+
+    .text-wrapper {
+        margin-top: 0;
+    }
 }
 
 .company-font {
     font-family: Ebrima;
 }
 
-.theme-project-team .portfolio-thumbnail:before {
-    padding: 0;
+/* Base container styles with subtle improvements */
+.theme-project-team {
+    position: relative;
+    overflow: hidden; /* Ensure animations stay within bounds */
+    border-radius: 15px; /* Rounded corners */
+    transition: all 0.3s ease;
 }
 
 .theme-project .theme-project-team:hover {
-    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 15px 35px rgba(0, 0, 0, 0.15); /* Stronger, softer shadow */
+    transform: translateY(-5px); /* Slight lift on hover */
+}
+
+/* Enhanced overlay effect */
+.theme-project-team .portfolio-thumbnail {
+    position: relative;
 }
 
 .theme-project-team .portfolio-thumbnail:before {
-    background: rgba(0,0,0,1) none repeat scroll 0 0 padding-box content-box;
     content: "";
-    height: 100%;
-    width: 0;
-    opacity: 0;
-    padding: 0;
     position: absolute;
-    left: 50%;
     top: 0;
-    -webkit-transition: all 500ms cubic-bezier(.47,0,.745,.715);
-    -moz-transition: all 500ms cubic-bezier(.47,0,.745,.715);
-    -o-transition: all 500ms cubic-bezier(.47,0,.745,.715);
-    transition: all 500ms cubic-bezier(.47,0,.745,.715);
-    -webkit-transition-timing-function: cubic-bezier(.47,0,.745,.715);
-    -moz-transition-timing-function: cubic-bezier(.47,0,.745,.715);
-    -o-transition-timing-function: cubic-bezier(.47,0,.745,.715);
-    transition-timing-function: cubic-bezier(.47,0,.745,.715);
+    left: 50%;
+    width: 0;
+    height: 100%;
+    background: linear-gradient(45deg, rgba(0, 0, 0, 0.8), rgba(63, 239, 0, 0.5)); /* Gradient overlay */
+    opacity: 0;
+    transition: all 0.5s cubic-bezier(0.47, 0, 0.745, 0.715);
+    z-index: 1;
 }
 
 .theme-project-team:hover .portfolio-thumbnail:before {
-    opacity: .75;
+    opacity: 1;
     width: 100%;
     left: 0;
+    transform: scale(1.1); /* Slight scale for depth */
 }
 
+/* Improved button container */
 .theme-project .theme-project-team .click-view {
-    margin: 0;
     position: absolute;
     top: 50%;
-    right: 0;
     left: 0;
     width: 100%;
-    -webkit-transform: translateY(-50%);
-    -ms-transform: translateY(-50%);
     transform: translateY(-50%);
-}
-.theme-project .theme-project-team .click-view a {
-    font-size: 1.1rem;
-    line-height: 2.3;
-    font-weight: 100;
-    display: inline-block;
-    background-color: #fff;
-    margin: 0 0.125rem;
-    padding: 1px 0.625rem;
-    opacity: 0;
-    border-radius: 50px;
-    width: 2.813rem;
-    height: 2.813rem;
-    text-decoration: none;
-    text-align: center;
-    color: #01012f;
-    -webkit-transition: all 0.4s;
-    -moz-transition: all 0.4s;
-    -o-transition: all 0.4s;
-    -ms-transition: all 0.4s;
-    transition: all 0.4s;
-    -wekbit-transform: translateY(100px);
-    -moz-transform: translateY(100px);
-    -o-transform: translateY(100px);
-    -ms-transform: translateY(100px);
-    transform: translateY(100px);
+    z-index: 2;
+    display: flex;
+    justify-content: center;
+    gap: 15px; /* Space between buttons */
 }
 
-.theme-project .theme-project-team:hover a {
-    -wekbit-transform: translateY(0);
-    -moz-transform: translateY(0);
-    -o-transform: translateY(0);
-    -ms-transform: translateY(0);
-    transform: translateY(0);
+/* Enhanced button styles with animation */
+.theme-project .theme-project-team .click-view a {
+    font-size: 1.1rem;
+    font-weight: 300;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: linear-gradient(45deg, #fff, #f0f0f0); /* Subtle gradient */
+    margin: 0;
+    padding: 0;
+    opacity: 0;
+    border-radius: 50%;
+    width: 3rem;
+    height: 3rem;
+    text-decoration: none;
+    color: #01012f;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+    transition: all 0.4s cubic-bezier(0.68, -0.55, 0.27, 1.55); /* Bounce effect */
+    transform: translateY(100px) scale(0.8);
+}
+
+/* Hover state for buttons */
+.theme-project .theme-project-team:hover .click-view a {
     opacity: 1;
+    transform: translateY(0) scale(1);
+}
+
+/* Add individual button animations with delay */
+.theme-project .theme-project-team:hover .click-view a:nth-child(1) {
+    transition-delay: 0s;
+}
+
+.theme-project .theme-project-team:hover .click-view a:nth-child(2) {
+    transition-delay: 0.1s;
+}
+
+/* Button hover effect */
+.theme-project .theme-project-team .click-view a:hover {
+    transform: scale(1.1);
+    background: #3fef00; /* Green on hover */
+    color: #fff;
+    box-shadow: 0 6px 20px rgba(63, 239, 0, 0.4);
+}
+
+/* Optional: Add a subtle image scale effect */
+.theme-project-team .portfolio-thumbnail img {
+    transition: transform 0.6s ease;
+}
+
+.theme-project-team:hover .portfolio-thumbnail img {
+    transform: scale(1.05);
+}
+
+/* Flip Card Container */
+.flip-card {
+    perspective: 1000px;
+    width: 100%; /* Fills the Bootstrap column */
+    max-width: 100%; /* Prevents exceeding column width */
+    height: 300px; /* Fixed height, adjust as needed */
+    margin-bottom: 20px; /* Space between cards */
+}
+
+/* Inner element that flips */
+.flip-card-inner {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    transition: transform 0.6s;
+    transform-style: preserve-3d;
+}
+
+/* Front and Back Positioning */
+.flip-card-front, .flip-card-back {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    backface-visibility: hidden;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 15px; /* Reduced padding to fit content */
+    box-sizing: border-box; /* Ensures padding doesn’t increase size */
+}
+
+/* Front Styling */
+.flip-card-front {
+
+    color: #333;
+}
+
+/* Back Styling */
+.flip-card-back {
+    background-color: #202020; /* Green to match theme */
+    color: #fff;
+    transform: rotateY(180deg);
+    overflow: hidden; /* Prevents text overflow */
+}
+
+/* Hover Effect for Flip */
+.flip-card:hover .flip-card-inner {
+    transform: rotateY(180deg);
+}
+
+/* Icon/Thumbnail Styling */
+.service-content-thumbnail i {
+    font-size: 2.5rem;
+    transition: transform 0.3s ease; /* Smooth resize */
+}
+
+.flip-card:hover .service-content-thumbnail i {
+    transform: scale(1.2); /* Resizes icon on hover */
+}
+
+/* Title and Text */
+.service-title {
+    font-size: 1.25rem;
+    margin: 10px 0;
+}
+
+.flip-card-back p {
+    font-size: 0.85rem; /* Smaller to fit within card */
+    margin: 0;
+    padding: 0 10px;
+    text-align: center;
+    line-height: 1.3; /* Tightened for space */
+    word-wrap: break-word; /* Ensures long words wrap */
+    overflow-wrap: break-word; /* Fallback for older browsers */
+}
+
+/* Responsive Adjustments */
+@media (max-width: 768px) {
+    .flip-card {
+        height: 320px; /* Slightly taller for mobile */
+    }
+
+    .flip-card-back p {
+        font-size: 0.8rem; /* Even smaller for mobile */
+    }
+
+    .service-content-thumbnail i {
+        font-size: 2rem;
+    }
+}
+
+/* Override Bootstrap Column Constraints */
+.col-lg-4, .col-md-6, .col-sm-12 {
+    padding-left: 15px; /* Maintain Bootstrap gutter */
+    padding-right: 15px;
+}
+
+.flip-card {
+    margin-left: auto;
+    margin-right: auto;
 }

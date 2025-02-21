@@ -60,7 +60,23 @@ if ( isset( $wp_customize->selective_refresh ) ) {
 			'selector'        => '.row.theme-info-area',
 		)
 	);
-	
+
+    //contact asset
+    $wp_customize->selective_refresh->add_partial(
+        'arilewp_contact_template_info_content',
+        array(
+            'selector'      => '.container .row.contact'
+        )
+    );
+
+    //contact accordion
+    $wp_customize->selective_refresh->add_partial(
+        'arilewp_contact_about_accordion',
+        array(
+            'selector'      => '.container .accordion-body .accordion'
+        )
+    );
+
 	// service title
 	$wp_customize->selective_refresh->add_partial(
 		'arilewp_service_area_title',
